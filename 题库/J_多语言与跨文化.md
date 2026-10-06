@@ -5,7 +5,9 @@
 > 结构：
 > - **J01–J06**：六种语言的"原创 → 汉化 → 本土化"三轮链。第 1 轮用目标语言出题，测原生写作；第 2 轮翻成中文，测翻译腔；第 3 轮改写成中国故事，测本土化能力。
 > - **J07–J10**：各国文风（中文写作）、翻译腔诊治、中译外、中日双语人物。
-> - **J11–J16**：同题六语矩阵，用来横向比较同一模型在不同语言里的 AI 腔浓度和质量。
+> - **J11–J16**：同题六语矩阵，用来横向比较同一模型在不同语言里的 AI 腔浓度和质量；J12–J16 第 2 轮再汉化，可与 J11 的直接中文稿对比。
+>
+> **分段评分**：凡是"外语写 + 汉化"的题，外语原文单独评分、汉化译文单独评分、两者对照再评一次翻译质量，最后加权合成，并给出汉化增益 Δ 和诊断标签。规则见 `评分/多语言分段评分规则.md`，`tools/judge.py` 会自动按阶段调用裁判。
 >
 > 你不懂某种语言时：第 1 轮可以交给裁判模型评，或只看 `metrics.py` 的该语言 AI 腔指标；第 2、3 轮是中文，可以自己评。
 
@@ -34,10 +36,10 @@ Style: American minimalism in the tradition of Raymond Carver and Hemingway's ic
 ```
 
 ```check
-{"per_turn": true}
+{"per_turn": true, "stages": "bilingual3"}
 ```
 
-**评分要点**
+**评分要点**（分段评分：原文、汉化、对照、本土化各自独立打分再合成，规则见 `评分/多语言分段评分规则.md`）
 - 第 1 轮（英文）：用 `metrics.py` 看英文 AI 腔（It's not X, it's Y；delve、tapestry、the weight of、something shifted、em-dash 密度）；极简主义是否到位（有没有偷偷解释人物感受、结尾顿悟）；对话是否"绕着说"。
 - 第 2 轮（汉化）：翻译腔检查——代词密度、被动句、长定语、"哦""瞧"；短句节奏是否保住；有没有误译或漏译。
 - 第 3 轮（本土化）：场景替换是否有机（通宵营业的不一定是餐馆，可能是高速服务区、县城的烧烤摊、医院门口的小卖部），人物关系与说话方式是否符合中国夫妻；是否只是"把名字和地名换掉"。
@@ -68,10 +70,10 @@ Style: American minimalism in the tradition of Raymond Carver and Hemingway's ic
 ```
 
 ```check
-{"per_turn": true}
+{"per_turn": true, "stages": "bilingual3"}
 ```
 
-**评分要点**
+**评分要点**（分段评分：原文、汉化、对照、本土化各自独立打分再合成，规则见 `评分/多语言分段评分规则.md`）
 - 第 1 轮（日文）：文末表现是否单调（「〜た。」连续）、段落节奏是否像节拍器；ではなく〜だ 对比句、静寂／刹那／紡ぐ 等书面词的密度；オチ是否真的意外又合理；是否偷偷写出教训。
 - 第 2 轮：日式翻译腔检查；冷幽默是否保住。
 - 第 3 轮：反转在中国语境下是否依然成立（有些反转依赖日本社会背景，需要重新设计）。
@@ -104,10 +106,10 @@ Style: American minimalism in the tradition of Raymond Carver and Hemingway's ic
 ```
 
 ```check
-{"per_turn": true}
+{"per_turn": true, "stages": "bilingual3"}
 ```
 
-**评分要点**
+**评分要点**（分段评分：原文、汉化、对照、本土化各自独立打分再合成，规则见 `评分/多语言分段评分规则.md`）
 - 第 1 轮（韩文）：职级称谓（팀장님、대리、신입）与存在语／半语的使用是否符合职场关系；웹소설 文法（短段落、"절단신공"）；AI 腔：～라고 할 수 있습니다、이/가 아니라 对比句、过度逗号。
 - 第 2 轮：敬语层级如何转写进中文（称谓、语气词、措辞的客气程度）。
 - 第 3 轮：中国游戏行业时间线是否准确（端游→页游→手游、版号等节点，若涉及须大体准确）；网文节奏与爽点是否符合国内读者。
@@ -137,10 +139,10 @@ Style: American minimalism in the tradition of Raymond Carver and Hemingway's ic
 ```
 
 ```check
-{"per_turn": true}
+{"per_turn": true, "stages": "bilingual3"}
 ```
 
-**评分要点**
+**评分要点**（分段评分：原文、汉化、对照、本土化各自独立打分再合成，规则见 `评分/多语言分段评分规则.md`）
 - 第 1 轮（俄文）：канцелярит（公文腔）、являться 滥用、缺少 же／ведь 等语气小品词导致的"室温"感；对白是否生动；结尾是否道德说教。
 - 第 2 轮：人名处理策略是否一致且易读；俄式长句是否拆得自然。
 - 第 3 轮：县城教师与北京的反差、二十年的时代变化是否写出具体细节。
@@ -170,10 +172,10 @@ Requisitos: los diálogos tienen que usar el voseo y el léxico porteño de mane
 ```
 
 ```check
-{"per_turn": true}
+{"per_turn": true, "stages": "bilingual3"}
 ```
 
-**评分要点**
+**评分要点**（分段评分：原文、汉化、对照、本土化各自独立打分再合成，规则见 `评分/多语言分段评分规则.md`）
 - 第 1 轮（西文）：voseo（vos tenés、mirá、dale）是否一致且自然；porteño 词汇（laburo、boludo 的分寸、che、pibe）是否用得地道不堆砌；对白破折号（raya）用法是否正确；是否混入西班牙本土用语（vosotros、vale、coche）。
 - 第 2 轮：口语感如何在中文里重建。
 - 第 3 轮：如果选上海，沪语与老房子（石库门、新村公房）的细节是否准确。
@@ -201,10 +203,10 @@ Exigences : noms de rues et de lieux parisiens précis ; souvenirs flous et ince
 ```
 
 ```check
-{"per_turn": true}
+{"per_turn": true, "stages": "bilingual3"}
 ```
 
-**评分要点**
+**评分要点**（分段评分：原文、汉化、对照、本土化各自独立打分再合成，规则见 `评分/多语言分段评分规则.md`）
 - 第 1 轮（法文）：法语排版规范（« »、冒号分号前的空格）；地名是否真实存在；英语化仿译；是否偷偷给出"答案"。
 - 第 2 轮：迟疑的语气能否在中文里保住；地名处理是否统一。
 - 第 3 轮：1990 年代中国城市细节（BP 机、公用电话、街道名称）是否准确且有记忆的模糊感。
@@ -270,16 +272,28 @@ Exigences : noms de rues et de lieux parisiens précis ; souvenirs flous et ince
 
 ## T-J09｜中译外：文化负载词与歇后语
 
-> 考察：中译英 · 中译日 · 文化负载词 · 双关处理 · 语气保持 ｜ 难度：★★★★ ｜ 模式：单轮
+> 考察：中译英 · 中译日 · 文化负载词 · 双关处理 · 语气保持 ｜ 难度：★★★★ ｜ 模式：多轮
 
 ```user
-请把下面这段中文分别翻译成英文和日文，然后用中文说明你是如何处理以下几处的：称谓"二姑奶奶"、"清明"、"青团"、"焯水"、歇后语"外甥打灯笼——照舅（旧）"，以及最后一句的语气。
+请把下面这段中文翻译成英文。只输出译文。
 
 原文：
 清明前后，二姑奶奶照例要做青团。艾草是她自己去河堤上掐的，掐回来洗净，焯水，捣烂，和进糯米粉里，揉出来的面团绿得发黑。她做青团不放豆沙，放咸菜笋丁肉末，说甜的那是城里人吃的。我们小孩不爱吃咸的，偷偷把馅抠出来喂狗，被她看见了，也不骂，只说一句："外甥打灯笼——照舅（旧）。"意思是你们年年这样，我年年照做。那条狗后来活到十七岁，比二姑奶奶多活了两年。
 ```
 
-**评分要点**
+```user
+请把同一段中文原文翻译成日文。只输出译文。
+```
+
+```user
+请用中文说明你在英译和日译中是如何处理以下几处的：称谓"二姑奶奶"、"清明"、"青团"、"焯水"、歇后语"外甥打灯笼——照舅（旧）"，以及最后一句的语气。
+```
+
+```check
+{"per_turn": true, "stages": "outbound"}
+```
+
+**评分要点**（分段评分：英译、日译各自作为目标语言文本独立打分，再与中文原文对照打分，规则见 `评分/多语言分段评分规则.md`）
 - 歇后语：谐音双关无法直译，好的处理是补偿（英文用另一个押韵或双关的说法、日文用语呂合わせ，或保留字面加简短解释）；直接字面翻译且不解释的扣分。
 - 称谓：二姑奶奶是父亲的姑姑（祖父的妹妹），英文 great-aunt，日文 大おば（大叔母）；译错亲属关系扣分。
 - 青团、清明：音译＋补充、意译还是文化替换？说明是否有道理。
@@ -330,6 +344,7 @@ Exigences : noms de rues et de lieux parisiens précis ; souvenirs flous et ince
 
 **评分要点（J11–J16 共用）**
 - 这六题题干相同、语言不同，用来比较**同一个模型**在不同语言里的表现。建议每题 `--repeat 3`。
+- J12–J16 第 2 轮要求把外语原文汉化：按 `评分/多语言分段评分规则.md` 分别给原文分、汉化分、对照分。J12–J16 的汉化稿可以直接和 J11（直接用中文写）比较，看"外语写完再汉化"和"直接写中文"哪个更好。
 - 横向比较：`metrics.py` 的 `slop_score`（各语言 AI 腔密度）、字数达标率；裁判对文笔、活人感、结构的打分。
 - 典型发现：很多模型英文最"油"（套话最多但最流畅），中文和日文常见模板化结尾，韩文、俄文、西文的口语与方言最弱。
 - 人工关注：那件"被遗忘的东西"是否具体且出人意料（不是又一张泛黄的老照片或一封旧信）；结尾是否在升华。
@@ -338,14 +353,18 @@ Exigences : noms de rues et de lieux parisiens précis ; souvenirs flous et ince
 
 ## T-J12｜同题六语矩阵 · English
 
-> 考察：多语言矩阵 · 英语 ｜ 难度：★★☆ ｜ 模式：单轮
+> 考察：多语言矩阵 · 英语 ｜ 难度：★★☆ ｜ 模式：多轮
 
 ```user
 Write a short story of about 600 words: while moving house, someone finds something in an old box that they had completely forgotten about.
 ```
 
+```user
+请把你刚写的这篇小说翻译成中文。要求：地道的中文，保留原文的语气和节奏，避免翻译腔。只输出译文。
+```
+
 ```check
-{"target_chars": 1200}
+{"target_chars": 1200, "per_turn": true, "skip_last": true, "stages": "bilingual2"}
 ```
 
 **评分要点**
@@ -355,14 +374,18 @@ Write a short story of about 600 words: while moving house, someone finds someth
 
 ## T-J13｜同题六语矩阵 · 日本語
 
-> 考察：多语言矩阵 · 日语 ｜ 难度：★★☆ ｜ 模式：单轮
+> 考察：多语言矩阵 · 日语 ｜ 难度：★★☆ ｜ 模式：多轮
 
 ```user
 引っ越しの最中、古い段ボール箱の中から、すっかり忘れていたものを見つける人の話を、1200字程度の短編小説として日本語で書いてください。
 ```
 
+```user
+请把你刚写的这篇小说翻译成中文。要求：地道的中文，保留原文的语气和节奏，避免翻译腔。只输出译文。
+```
+
 ```check
-{"target_chars": 1200}
+{"target_chars": 1200, "per_turn": true, "skip_last": true, "stages": "bilingual2"}
 ```
 
 **评分要点**
@@ -372,14 +395,18 @@ Write a short story of about 600 words: while moving house, someone finds someth
 
 ## T-J14｜同题六语矩阵 · 한국어
 
-> 考察：多语言矩阵 · 韩语 ｜ 难度：★★☆ ｜ 模式：单轮
+> 考察：多语言矩阵 · 韩语 ｜ 难度：★★☆ ｜ 模式：多轮
 
 ```user
 이사하는 날, 오래된 상자 속에서 까맣게 잊고 있던 물건을 발견하는 사람의 이야기를 한국어 단편소설로 써 주세요. 분량은 공백 포함 약 1,500자입니다.
 ```
 
+```user
+请把你刚写的这篇小说翻译成中文。要求：地道的中文，保留原文的语气和节奏，避免翻译腔。只输出译文。
+```
+
 ```check
-{"target_chars": 1200}
+{"target_chars": 1200, "per_turn": true, "skip_last": true, "stages": "bilingual2"}
 ```
 
 **评分要点**
@@ -389,14 +416,18 @@ Write a short story of about 600 words: while moving house, someone finds someth
 
 ## T-J15｜同题六语矩阵 · Русский
 
-> 考察：多语言矩阵 · 俄语 ｜ 难度：★★☆ ｜ 模式：单轮
+> 考察：多语言矩阵 · 俄语 ｜ 难度：★★☆ ｜ 模式：多轮
 
 ```user
 Напишите на русском языке короткий рассказ (около 500 слов): во время переезда человек находит в старой коробке вещь, о которой совсем забыл.
 ```
 
+```user
+请把你刚写的这篇小说翻译成中文。要求：地道的中文，保留原文的语气和节奏，避免翻译腔。只输出译文。
+```
+
 ```check
-{"target_chars": 1000}
+{"target_chars": 1000, "per_turn": true, "skip_last": true, "stages": "bilingual2"}
 ```
 
 **评分要点**
@@ -406,14 +437,18 @@ Write a short story of about 600 words: while moving house, someone finds someth
 
 ## T-J16｜同题六语矩阵 · Español
 
-> 考察：多语言矩阵 · 西语 ｜ 难度：★★☆ ｜ 模式：单轮
+> 考察：多语言矩阵 · 西语 ｜ 难度：★★☆ ｜ 模式：多轮
 
 ```user
 Escriba en español un cuento breve (unas 600 palabras): durante una mudanza, alguien encuentra en una caja vieja un objeto que había olvidado por completo.
 ```
 
+```user
+请把你刚写的这篇小说翻译成中文。要求：地道的中文，保留原文的语气和节奏，避免翻译腔。只输出译文。
+```
+
 ```check
-{"target_chars": 1200}
+{"target_chars": 1200, "per_turn": true, "skip_last": true, "stages": "bilingual2"}
 ```
 
 **评分要点**
