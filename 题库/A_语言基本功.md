@@ -71,7 +71,7 @@
 ```
 
 ```check
-{"target_chars": 1200}
+{"target_chars": 1200, "forbid_cats": ["pseudo_deep", "contrast"]}
 ```
 
 **评分要点**
