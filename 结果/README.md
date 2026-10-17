@@ -7,7 +7,6 @@
 | `裁判记分表/<裁判>/T-XXX.csv` | 6 位裁判的原始记分表（匿名 ID，未解盲）。gemini4 缺的 7 题（T-D19–D23、T-H06、T-H07）为补评，已并入 gemini4 |
 | `汇总/` | 解盲后的总榜、模块与维度均分、逐题逐裁判明细（含点评）、逐题排名、数据校验记录 |
 | `卡片/` | 35 张 1080×1920「文笔坐标」榜单卡片（PNG）及 HTML 合集 |
-| `视频/` | `文笔坐标.mp4` 榜单动效视频；`评分规则解说.mp4` 规则解说（女声配音） |
 | `脚本/` | 汇总、卡片、动画截帧、视频合成与补评辅助脚本，以及图标和中间数据 |
 
 裁判目录名与模型对应：dsv4p = DeepSeek V4 Pro 0813，gemini3.7 = Gemini 3.7 Flash，gemini4 = Gemini 4 Argon，muse1.2 = Muse Spark 1.2 Contributor，muse1.3 = Muse Spark 1.3 Contributor，opus5.5 = Claude Opus 5.5。
