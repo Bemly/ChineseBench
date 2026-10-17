@@ -1,0 +1,1 @@
+十个模型在各自常用的环境里作答，比如 Claude Code、OpenCode、JetBrains Air 和 DeepSeek Harness，推理强度从 High 到 Max 不等。

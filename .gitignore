@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 results/
 answers/
+
+# 隐藏题库（不公开）
+不允许看的题库*.zip

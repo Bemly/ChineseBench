@@ -1,0 +1,1070 @@
+题号,匿名ID,模型,源文件,源总字节,输出sha256
+T-A01,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,3600,ad8412c1bbd1676d29c584126a5b82ecfecc9084a0c9b6a73eff1ba9cb782da4
+T-A01,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,3786,9c76809175f967c9a8153524ab93799f0c19ee569ed37d0ef6ffff5185bac0ae
+T-A01,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,4000,41a106a274e2dadb952c66b72af11d765edc01f3889869726bd8e01cb56154bb
+T-A01,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A01.md,4028,6561925be682de46f789255260c9eac5ba3dff4face212d7fbb0ec52bb36ccb8
+T-A01,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,3849,ca6ae81d6335af308a144d1512212db488d54ce06a2a251789ad78f667980f92
+T-A01,M06,glm-5.3,手动题库/答案/glm-5.3/A_语言基本功.md,3439,f4e8278fa8ec523f0e5941b1f1d3f75ebda7b48fef802aba97e99dfa3b151cb4
+T-A01,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A01.md,4773,186a2eade5eb0827f41034a8e05e989758690c9bcce8749e8f32e6471899cdea
+T-A01,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,3719,6c1331f346022b8d0d5b85407abbdf6e3a5927488ee5b15e93e2882538af0114
+T-A01,M09,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,5673,14c1267425d2b6569fd03b4830b3be68f6b72147678718e244477cf596b45a29
+T-A01,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,4668,bc7868aaa21187a202498838c664a319f0667e2673ce0427d8d8ffc0ff2fabde
+T-A01,M11,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,3488,9f7a725ffbf8ad8a93178e9fdd5d667b948da64fc16544dd7aa40f4a4801666d
+T-A02,M01,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,5140,66c19d907f2fb886a9eb9c4ec902f44de4fac58530ddc6c0d966e35669b2f50c
+T-A02,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,4044,bd7715c52b58938cb0b0b6c2b5131e236c9ad197b3a83181a9fef9750618e075
+T-A02,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,3586,8054cc503ed2bf2619b5f1f807fe4b5e88eb9a5c4dbffef5b7185fea5ee6cf30
+T-A02,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,3676,e7232061f9940c65363fd4656539d52dedafec45a9ab78198556f67357affba3
+T-A02,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,2393,a320bcff0fdb987c4c54335546c856943cbadf775de99aabc9dbdee3396106d4
+T-A02,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,4550,5fa5ec19d4519b42389dbaf1d420f3df08b0558d637ecbe48d72f3c34424cb7f
+T-A02,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A02.md,5649,99c6b3b2b15945e338be0eb9f17bfe919cc5fdbe0b5910e80c224bf21f1738f8
+T-A02,M08,glm-5.3,手动题库/答案/glm-5.3/A_语言基本功.md,4309,0e99130a198de25a07719ab1df8fd306e33f2ee0696ccbd0fb68283a1a9ad607
+T-A02,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A02.md,5155,a2adde8e2c26790cd1cb40027d12cf49ffc342aa943cf38c9b0337c8c562b15e
+T-A02,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,6280,f8c8a0c6ab9a02abbcd2624023df80a1bbf2117c3565964870e6801d861385da
+T-A02,M11,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,2744,7e45193515528f0723ecb7ac074daf01aea9aa86b8e6a1c0a9d16017aef75e84
+T-A03,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,3068,d29c91fcc6850515f7e2e69c0db509a5cbba1f5733664db0cdea04dbc7a2285e
+T-A03,M02,glm-5.3,手动题库/答案/glm-5.3/A_语言基本功.md,2693,ac1f43e84397fd24bc9cd72ee382e401020d55e375b368581aee10cbb31a0046
+T-A03,M03,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,2475,3876fd65772feed40a49f3f56999936d50d4b5be1b1d4e0e8da2f18722156527
+T-A03,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,2662,b4edb9f3c714dc22a68290c42406cf88972783a7b6675ecb7130ad247d52b74b
+T-A03,M05,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,4640,0747643a47d63d2f9b9624efbeffc25921409f5944bdc8e972d325f266ae86a9
+T-A03,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,3207,0ae83d2bc9ed6ae8d21d2ec0a95791c530b7192cf141374fd5438c21568c3874
+T-A03,M07,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,2695,bbe50c8ccfc77ddf3f3b9f072a71c24102501ac84a88d6fd34a8b7062edf3692
+T-A03,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,3234,0b0088f2e4d24ffc6cb049bd30eb24df00824e69471f1b7012b1faeb2abe9126
+T-A03,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,3529,72df323added18046ddcfc6d2ce4f4e027fb2b9a2b0feab964f8200492f7bca7
+T-A03,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A03.md,4299,a8615af5f571df857e71c1f9c2fbbbae0d43722ee3101228936dde54a7d8bd5c
+T-A03,M11,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A03.md,4100,c24eb2ec0ff25f6b475874e0dcaee74f2eeddcb820c7a2f7a3f9dd9df99025e6
+T-A04,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,2245,ab2a22a62f5d89e54993263648e20d5b6ec31cbe70d291b1fe73edbab0b00b5e
+T-A04,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,2507,3983097d147231e67f4eb13f4707d97b6ead2e1f7bf83b2c2f2f27f26fd07833
+T-A04,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,1994,55b8991fd44d4d998783b1488071c35b7e511ffeb1987e741bf3fd3438e71b45
+T-A04,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,3613,1c7fc6ba303600e96dfb9e41f54f55a0c9c5e29977af5f5655b13752d7211665
+T-A04,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A04.md,1965,c4011b79c3874a2ba8608b4e511e50aaf010d05e0ad6a6892610b0aedfb42e4a
+T-A04,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,4452,beec0c506ab72895a39b652034c783334ecb73529e598e72294ea58530cae014
+T-A04,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A04.md,5125,8d29b11a7249f4e0c052ba061492df2f46927f8e7fafba943a0c2ef02ef73792
+T-A04,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,2872,32cbdeb06016432730c456f063bb9a68b0f8d41ff9f5e299e7d3a04112540783
+T-A04,M09,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,5733,6d33de05cc583dfc9bd31250a699bb18464f8cc8373e6636ca42e03a764ff7f7
+T-A04,M10,glm-5.3,手动题库/答案/glm-5.3/A_语言基本功.md,2759,31a9c8c59667602ada73942cd249d266f6add6e425c0f4c941267d0df0171563
+T-A04,M11,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,1856,02ecf4df705eb1506ff37264f956d1ca37e663ce2a91028791e425a0741ebdb5
+T-A05,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A05.md,3212,328ea862be8c38277b232b6a4bfe17339b79874d896dc20c5b1d78048e43d22c
+T-A05,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A05.md,2190,f75fba3a14746fb8d2b9a6104870f032672007721df78fe3b9997acc6938562f
+T-A05,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,1399,38c0d55ad5c14f562aeb74f75cea0cd9abc21158ddeb354a69d2fe018378457c
+T-A05,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,3022,8b82de3477ae19beff074529bca5849453f382e7cad83514a9317ec5a89a2db9
+T-A05,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,2003,6f1d425ffe3ab452629e1cedec478e5c847047234a8bd68fa25b6287c1093408
+T-A05,M06,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,2097,cb4e7b67f9ecb7bc7cd0c3ecf2e98599a2e03348117ccd8ad37d4fa8d47413d4
+T-A05,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,1203,5fb83d02207eba6b84677fe5a6f3474e2ea6ba8baa7eb566cdce0f76fdb51e09
+T-A05,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,1145,527bd34fe42a6131af06e82d7b2845f34ec091582c84b4b44963e1e69518284d
+T-A05,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,1392,3699bf11a6de7248d389d55a5230cc0421166d40d86457cd2a3048dde134e680
+T-A05,M10,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,1154,e8c9c5a92baf48b6434e7d5fce3c504392a59bf5a01f8e8d06fad5ecbe515389
+T-A06,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A06.md,4309,54bd1869c9a6e3a528ce14868f9a735123ba237a130c5dcfaac1040a87ddc84b
+T-A06,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,2479,b69f3ed19f564dd193d73f64561d8be19035795783b7c8ae3e028372a34f6192
+T-A06,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,2608,d20ed2b7fb6670803f1d0c63f8b5220c75ce4e0a1509e4a9de2a670975b92e43
+T-A06,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,2837,8a893a846076a3f01939f2a27bb9722e3ddfd3cfc0fe1caf7945c4c408f930e9
+T-A06,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,3111,4a6d1a5d7726d74b551f568908964dc4793949b9cf924183f970781023b07626
+T-A06,M06,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,4717,681d6ea4764ee8eb6bd14d7121ebd8c7dfc56c5ad0ac7a52709ad647b61c1746
+T-A06,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,2782,c4365444d494ea800642f976c3df39be9b935c2998975e4d72cbb0d7b8657cd8
+T-A06,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A06.md,3724,37d0d3c85035fdfd19140ffe152e4f615f339f2212c51b8d9f2c3eb156836198
+T-A06,M09,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,3838,3dc8028a0dbc845351e33a22a3cc3d60495240f02d1df41269bb0d4e21072243
+T-A06,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,2649,e3fc98d9336b5f3f9da0168f6c0825f7dafbeb113602e3f1d18bcd2930d18e7e
+T-A07,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,2523,82edc923949bc869b3ff14942ed686d31cb4166af9e6a0f253ba2f03a30be0e6
+T-A07,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A07.md,2820,b5df1c54867b966e758c6af372ca3bdac587dda7c09e787a3c082ffc43799047
+T-A07,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,2998,0568ddb63d522126791e2b3197b4c8f28d5db3a5ce547c0fe411dab6bb2fc057
+T-A07,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,2485,1bd2fcce3ce76512b5f541e51374f91593c7e7e203a19645e7f613275275d29f
+T-A07,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A07.md,4291,a1fa24660fc80f3d19bad44f15cd50ec438cf0b11029ce3e6bd5d1890ecf9ebd
+T-A07,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,2327,f3369267fa6737fdb88fcff4b7dba804db49e4945e856e5fd841a524c368bf2d
+T-A07,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,3580,186238d9186521623f4c8776c356d242d053aea409875aa56d34ca97acdde709
+T-A07,M08,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,4613,8b326b1e0d9834911160d29eb70ca4a609d4f1e271f737170d46b799a49b7841
+T-A07,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,2847,9be9d06042105c5ad536a63ff1e9bd3518dba213addfe1c5816b354c8a4d1176
+T-A07,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,3672,c734c4810b6587e5016900c2b3b827e9371df62062224bbb7608a21fe2b9a268
+T-A08,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,1249,d570e539ff5ccf2a12c09364b35778665aab807eaa4e575d72d454723da156cb
+T-A08,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,1201,d6af29b021d36d26874290b06c8e0f8259f8136586e8a3eb85d1bf3d5d8a1b08
+T-A08,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,1257,eabb6f40c1389f6773383cfa1c0c19af83335a8e75002bd0f3f107f931591347
+T-A08,M04,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,2009,a0e41e85d457b58b0253f7eb631f06efaf3c92c2dc6182ec91eaa9a55e1cd825
+T-A08,M05,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,1656,ae685d06064191e7a77e4acdc9ddaccfa920051708940f9535b7eda3d1c56c27
+T-A08,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,1590,e586137d92f6d2dfd3a711254132c5ed3abc3d9c9857ddf641faeb074c77105e
+T-A08,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A08.md,1370,1a9a94873f12c14deaed86bd0eb464475c228356ceaeb5213ac84cf6d3af646a
+T-A08,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A08.md,1534,cfdb47053cc5e9b1a204e167ec26ae08229c17616e1d1006fed64783c4e7df57
+T-A08,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,1223,7e66c771a06a1cb8df619390455eae53fc7b4e89defb7f8a8f01eb7e9644bb3a
+T-A08,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,1273,542d58a68eddb19a3390cd355abbe6dc3f03482d4674df751539f0a324434858
+T-A09,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A09.md,909,561e1f0bc23dde3896b2b46370d6aed4665065516c819f4bd5e5d67d559273b7
+T-A09,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,877,044cf02848419c193104da6d9097d12d0eb41997fe3547b8eb5b30a398d0f02d
+T-A09,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,977,e820b46217123a2b833d2dbdd93a1a235bca5a2195107bc32260cb192bc28c0d
+T-A09,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,1017,c35a1d7f156b41e70f4c8505df94fb9cc864338320bc642d7e8e5004b39006b4
+T-A09,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,912,05126b9e5f06b251a772c55f531dca63d4c0196905cc4e874d75afd313545963
+T-A09,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A09.md,995,8cdd182664a057a186c4f093648ad628a1a9f9faf0ad9679b5c063def5fa4358
+T-A09,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,1124,05b5777a1d1a7a2ad0f6f2bce759b2d2f3a210452bf612ac1afe1f35235b272c
+T-A09,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,714,13c88613cc5cb56642eaa73112132921c2174053e7c795abd8b9c008f545c3bf
+T-A09,M09,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,1017,4a2158cd9b1baeee9ed03953b3336d20301a08e76b6aa8981122e8e5f6e5df28
+T-A09,M10,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,1178,533fae47b8f42a0118f1279df83ec32efb1f36d44eeb6e44384c31b7299a1cc6
+T-A10,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/A.md,1617,cbc1d149393e0ac003c5d457491dcc76991e823f77801a0e0e162cec8a2e1cf7
+T-A10,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/A_语言基本功_答案.md,1727,8726ab792732a7a97da66d9337173f65aafbb4984c7f30f79f8cab8b4df34a3f
+T-A10,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/A_语言基本功.md,1859,cac2d629a6b52de11fdcc71415fa51fc8c8ca7ed4a4ae6169490cdec41bc9340
+T-A10,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/A_语言基本功.md,1886,a884853cb9bf62ad5cff39d98859e4c89064ad299f5663a533da4cac684d45d1
+T-A10,M05,space-bunny-free,手动题库/答案/space-bunny-free/A_语言基本功_答案.md,5525,8edf3735a2151971f07d3414d08d16e9592b9e3b83ef30640901a7d57355c506
+T-A10,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/A_语言基本功.md,1196,e712c0f44d41e44842100e469f753d78d042edaf379317afc730fb1e8f60f274
+T-A10,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/A_语言基本功_答案.md,1197,dc203361ca84b4a7bb9176d07925f059d0a22a3dc85fa1f1d13e4bd0b10638a1
+T-A10,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-A10.md,2424,00772feb437777ed4e6696ba477f46904ee8046fc9e0e3a983ba9130f6c2b185
+T-A10,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-A10.md,2220,2c5e6e63f9795ea68a810181c9ebdacabfe39ae6df1cc40cb4c46846e78254a8
+T-A10,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/A_语言基本功.md,1290,2c062f5872ba0824c75b317088ea2afd1858af8bce18d04f15d518db1c357b97
+T-B01,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,3066,5b49fdf13337e02606c0525ea4fe4a38fc2ef56662b53c413007e480fb9c9625
+T-B01,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B01.md,3581,45bb7f2464aac3c5f70c0741bca8ad03a5f59a886d8a11763c3d79231275df4c
+T-B01,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,4779,6ba165d99f5393a52c016db9036c81a83b4dc284d8ef1595aad00157718abdf7
+T-B01,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,3705,aaa36d64465bd693ca896a81f45d44816171db905be62bfea2afa32369579a47
+T-B01,M05,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,5652,8837260d8cb8ce8175feafb11e83e92247d125d4bb94f64ecad34926269f9157
+T-B01,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,3555,5db402521dd7637b4747b7b7b1b08d830ae8a16a0838ba39cc617835bf16bb57
+T-B01,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,5769,352e14efa8a8778021dd96773569d70388699fa0f911df113b23d7be1538dbd2
+T-B01,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B01.md,3709,b8ee73057667c72a92416a184efa4517fe04d1fbbde032c2ee8be548bfa7e935
+T-B01,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,4778,dc91efdfadbea7c29bf6af473c45e0b75a4b2fe831438f732340522c5ed6f103
+T-B01,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,2763,d448c4b79cf982cffd31fd72644a4a4ca06956b556ecb055aa9b4520902f7400
+T-B02,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,2488,2f9153da00281abda880540c1986911e0b14ceea0bc7ecb08bd00239dff4982f
+T-B02,M02,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,6116,f082360fbae750cf9441b62a0183eafcb14076b5cb1f9206861a96dc64114944
+T-B02,M03,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,3098,603ae79a5529315dd4374ca2e8672c0cece23b8cf2d2bab81647629019bf0839
+T-B02,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,5470,1d3db7f02fd00aa34297a3544781c18809f4d897380755ac7b118a1f52ea1365
+T-B02,M05,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,3937,1244b7474c52c1d234d0b21eaa78293f13f671161d7f77aa4751897ba6c2608a
+T-B02,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B02.md,4477,dbda074c277d4d3cf90e09683a9771277abba9d347e3ceb1aeaf2dd3373de027
+T-B02,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B02.md,5323,1cd5b773a95e011ee7403342c2d8b81e17f47d20a7301cd2fbf3fb483b8bb6c7
+T-B02,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,4450,f9dd0aa406bd3b01883852492947d25a5679f6924da5b972b0773c0935fa6b47
+T-B02,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,3712,110644ae12a5af528a1fb4e6d943eb8af58f5e59d1d4ad98b0acfe8911c15dbb
+T-B02,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,3175,644a4840ed18fc4195b58438e091914c9a5a6c3948d8c80c0734f237c1ea3a0b
+T-B03,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,5142,657db2079011722433e5ac0d0a2af4c597a4dd19f79162b4311b65fba2c93f4e
+T-B03,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B03.md,4976,c861be1b03953a30b3a088f4bd7ad550b51efc678ef3ab89b5f2cd1e97e900c4
+T-B03,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,5606,849a79590565fb3a25e4621cb14fabbc1434a21110e2a38523ef53b42f8afb00
+T-B03,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,5956,cc8b71d50a3e8ce93d8db4cb0eeb86bbf949b13d1799aad0eee808148ed49b30
+T-B03,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,3788,f4ffeea38484a427872f30f6f8487fcd116edd042f7f8422e5a7d69a100c5ab5
+T-B03,M06,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,5264,b5d894364d116d3de5c691ed78e02736c39f69b9635642a8ceca5e0f78d4c63d
+T-B03,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,2987,92e8182a1e11e7cfba10c5319c92162256efa56cc09e242f400ae19580d02f25
+T-B03,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,4499,2b868b91b9b1056c6418ffe4584cb64334e6602dde049f5814cbab8339ae56ec
+T-B03,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,3506,c46b812d86c2e759afbc92f72f3d0b370050424974a00174f4d3c9b6a2c23ff0
+T-B03,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B03.md,4368,8f0fe09df41636dfa3b688d248698e6e0c1ef088e5ce805bcbd0cc82d3d57327
+T-B04,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,3262,50c68456725f5bb59f30eb54733ed52ae690b413b1631645fdaaab7044f824ff
+T-B04,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,3247,a2a3a9aa0c04c43427949f87b22632f927694af30f3119364f17dc873b86b045
+T-B04,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B04.md,3444,90b13d1d32f66472893370b68aa5ac1c3644079771f1a6b05e660d8f98a141a0
+T-B04,M04,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,7876,188a4eb468ff277bab07b095893125bea0bb688d4cb223cb56390b439a386d07
+T-B04,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,2670,da1c81b7b0f3217cd3f81ac9ef1c4e8feae5a00246c012f8c481e07eb67176b4
+T-B04,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,3743,8427b8ab4e8b1c1146207399cdf6d2c4006545755e38a44dc46baeb146e59a61
+T-B04,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,3674,07f11ced291fc0c3f994ca6c7092b42dd81003c2253051e730a330943d7eaf7e
+T-B04,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,3257,3ee6f5e6c15a53fddc2036017132f22ba79df32b59b0ce3db3a6304797d3d9f4
+T-B04,M09,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B04.md,4492,6a442196a8305b3f32445aa253d83f49b0a7221302e139aca4dd8362a7ce7e45
+T-B04,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,3033,9868f082fb1857d40bde556f93702d4c4287efd3e23f4ea0ffd6d6b700dc29ae
+T-B05,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B05.md,10665,2740d6ca032e04ea75046ad5271440f5421d9e425e7512a2c644fad5361eef25
+T-B05,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,7002,f41fd39d4b4f7d971b2e91f20a785e2098270d6d69835a7a6a6372ff8d437e93
+T-B05,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,4720,3d2ae4505fd87da40a58685c134689fb1a6e489702d74b11c66dcc1958bf9e7e
+T-B05,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,5030,386cb4b1a0e72ecf63961e7009ee6e1255eff13670ff52c43bc0ddf1787cdbea
+T-B05,M05,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,12273,ba7d9dcdb112f958d100728effa3f9b1251dfaa707dac744e5e256352536644a
+T-B05,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,8480,28397f48d9f3ac9b46759ee647f2bf64f0760d555acdefbf096cbacf38745782
+T-B05,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,5463,b5a5c5289c94b7d9b03c439f09a2f23f7195d19a8cee3772c1c2c6edaa1435ba
+T-B05,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,5816,ebd10c06a890dea79b6f4404ffb421c1e058a5bf87dabac29e4a77208f6a1276
+T-B05,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,9505,18bfab5d9662dafd87a2a946bb10de66215f30207f5d2e238a61c9ac51de32af
+T-B05,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B05.md,7034,a7470aa286ce5468aac7db1986ba05f3a1a74eb985fac70397aa0ae607b07d6b
+T-B06,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,5795,7dcb9b5c7f668e409b0887e825eb407e5031e7960a12b5d657d11247cd9fa76d
+T-B06,M02,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,18090,ade564936b1feb42c0442ef9a0c081655119e539bcbaa399a0db0a16ee3f3985
+T-B06,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B06.md,8523,7cea4bf0554157ec7b730a9422505b8f0fe0a19832fbbb63c7ab46356e81d8e6
+T-B06,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,6163,240cb13c4f1d2eef28e0a59e237c951b39f2c3ca2a3b4ceb154e1b17483ae18f
+T-B06,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,4986,e71975d8efe3735d56021435582c168f08eacd86de1d4554bf160c1f82b39507
+T-B06,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,10878,7656158cfe80fb460becc2af3ca1f3464ca68a79408aba3fd5026f378fc55503
+T-B06,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,6123,8659bbe5bb1dddc97ff6e71d456927f11311760d724b2f60e7416b2409e69155
+T-B06,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B06.md,7622,db0e80d07f02881054b2e04f4ea17eb6dab7b614c7b65fe5df4ef37a48b839dc
+T-B06,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,6530,adc233e1c19ebd51ae25e14e70dda5a956f323c49beadcf036428cff27d2cd6e
+T-B06,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,5776,4e5e936501de7319540364de3beb3e56afe0e09f777671843c6b2f5bc3062d6e
+T-B07,M01,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,6973,16f9e0fbac55c39251ccd847cede77dd7f01464be6e01680423ae3842cbe90e8
+T-B07,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,7285,6f259cb6bd7c4fabc718bbc8dbd510ed0e457eb65b880deafb247a49e081616a
+T-B07,M03,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,15409,7e82fc897eabdf6ae7f75de1846591d139aec7fbcf32b12afad95e5cf271fb1c
+T-B07,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B07.md,11855,1122095ab979131d83162f93b0255e82cfdb72a70df98a090d4c7a62d052df6b
+T-B07,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B07.md,12951,d12b6eec2072db5f47aa0a2c979b80f830d5f4fcd54fcac473540353ba1524ce
+T-B07,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,20170,89d8648d5e19d3d865e32a9d639e4c0bfe681451c8bd55847cb8be1503ce234f
+T-B07,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,11120,a675763883211f66d4aec2c825a4bb1bc019a5303fb50fbdf4d088d9ef2fc099
+T-B07,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,8675,1b46973f2588b32e714c7eaca42ff23712605d5c9acb96657101e8eb8a189a01
+T-B07,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,11092,fb70e57a6bc08ae6c670e73b52ea314d245f1c38af19e5c796928eade2ce73bc
+T-B07,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,8799,e251cdacd4479939f8110c18722429650f010802e0600b3443980fa903c473bb
+T-B08,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,1833,6617ad12be1a1bbf99d37a40ea4fd3a3c6b396a5a88c3544730585b78dcb6f20
+T-B08,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,2407,f27e08cb12a88ac2df3ea71c040cae16e4eb9a41ae96563908ddc0d963beda57
+T-B08,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B08.md,2347,62c8a0ece4dfcedd781a92b944f2fe8283cecc8c16616f20e647a7f04bb9dcad
+T-B08,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,2351,db0ca6ec85a0659b2ed041d628fb52d945bac78c14c370356a37449801e4848a
+T-B08,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,3056,227bd16e0f18f36721b3d6f3207c14e54171476caa2ee56f33955d37851065d9
+T-B08,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,2471,4ac65f181b7f4707915cc62a7fa7a05a8f2fc77fbd54170204b4f30e26ec0492
+T-B08,M07,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,7545,5b7b717e00a94b45f69d48ca825e62a3d60408d56ef3858bee7c7bae944fffd5
+T-B08,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B08.md,3705,2507da78781f9a67a79a0d91bed2098b845b041359a6a863c91455346625c5cd
+T-B08,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,3003,170c752964a2fa949c33216573fb6ad740dec1fcd769344ecaf78a1fb9a44a9e
+T-B08,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,4063,db7b294f71e7597c86d4cdc4742c33be667aa696be899e9ab23f1dc859d529b9
+T-B09,M01,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,9954,fcea510061bd01051ec8904bba57ecd6a72b422d4f6d8d82bdb08c11e2b69faf
+T-B09,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B09.md,8728,189d516ba95cc0ec64c17b5a5f6fd6d6c1dfa0bd5b318d92328c26d6597d762f
+T-B09,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,4390,990a76c40e247465c92756dcff1aeb9877459216f7c9a7916ce3de3ceced7e3e
+T-B09,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,9613,21dd2ba836c19a9ed181720bc6e72f0648b9949bf3e1c5ae7b3eca0155650fbe
+T-B09,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B09.md,10115,caf73d1845470343fd4f6983256a3c92c80fbb70c61bfd115ea2823dc193eec5
+T-B09,M06,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,3630,1276111c6d6354c21c8154741d06863c9577cbd6465cad8c75010dceb2b76c18
+T-B09,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,11853,47ee95d7483701a71135eb3d4fbfae4ae5c4fa284f79400e335fd1acaa46e30c
+T-B09,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,7822,293b56eed321c3b819ad7ce893de3a61d1dd51eb9fce39c63bddbf59bab440bf
+T-B09,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,2858,da824016db3fd26885d156eae6bafbc3a2a53b50a3f6c655e97ec51fcfc532a8
+T-B09,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,6310,8a7d34e7e9a2211e6710a2ce584a0e5f974f58e221335d2fc94fb662b01cb26c
+T-B10,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/B.md,7320,f52b146584559e164e7d506f0c599dfecb8703199fe2ff638f38fbe4000a84d1
+T-B10,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/B_叙事结构.md,8763,07c200b87982258327cf410654d4b90a24b680804107f47997bc0fd38b8f9761
+T-B10,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-B10.md,7681,ef14dda17bb3eb8da5e215f5504d547adb532c7642a43a9da13bdb76453cafa6
+T-B10,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/B_叙事结构.md,10919,9b2b45a25896adea1ba058c35c14ce96589702c1665e997825d5eb1d4fa77046
+T-B10,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-B10.md,9890,4a4b744ea5077292aba2328989a9dfda407e674b8e379fdbcb74441b9da0c7cb
+T-B10,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/B_叙事结构.md,8962,a2abd8ce5a45c9119cc50b848c076c129124506370135ceb7d74320cea9dad00
+T-B10,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/B_叙事结构_答案.md,6137,cc575cbc1f51ea165b4715952316c35ac27528cff27d7d5814a23e93c69bee72
+T-B10,M08,space-bunny-free,手动题库/答案/space-bunny-free/B_叙事结构_答案.md,12836,3146c96bc723c38cf9b3cb31dba659166d78c9b4d190568494060f5226be36ec
+T-B10,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/B_叙事结构_答案.md,5562,d91cdff1a716b5893ef4092fcc35385e4837aa74d50b3684cec1615701aa2b21
+T-B10,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/B_叙事结构.md,5371,3ca7fb5b8531d536ce51536f79fd11ac85f7fda36a1beb7f7d64240f6149ab2c
+T-C01,M01,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,6098,9e7daca2e130fa96c4ebbec9fbb7c47fcb76cfa2da741461344e211240e89d7b
+T-C01,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,4668,9d623c92294f9fd1f750621d8e4a5634168ddc6252aa8da02692cab8738ec840
+T-C01,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,4045,4312c1bfd8b269083b2699406bc30ca17c40097de79582f41e4d777e97edc621
+T-C01,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,3984,1ffcb60ff461462da6bae0ed9ebcaccce1f1a68caebc50d3446512062db584ea
+T-C01,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,3103,d9cd61d56e4a1bfb34fc516d554309c92eaa14840efa1ea965bb158def7580a1
+T-C01,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C01.md,4361,a20c80972a2b9a0740bab0c776fc2db3e6ec9033108a1247543eb42683b07551
+T-C01,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C01.md,4731,045c2bd16f3b5ecd75afa659804206b00ff257ef586c940d94dcdb3f45415d92
+T-C01,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,4785,850fd983be9db0da9a9dabba6997e1d266081169c67b93abb67b3020e0232a75
+T-C01,M09,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,4967,e7645449948b4983638145f54d68f7375af67ed7b24748af0657f92e9e91dc9a
+T-C01,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,1526,6fe7a6cb6dbe09879b53523f6f72895fe480146f7e0d9794b923d94febd91fb1
+T-C02,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,3090,06ba17da1d45700096201663c9f2736f2837995c36fa69403d9811deaf422199
+T-C02,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C02.md,4306,5214b954c92a4f071f5112082d33c9bf33a02b05eb842c33cd15f1d92aabe4d6
+T-C02,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,3826,13e88e249746164734a9a04aebaf17324fff8bdd236307f843ba97334d729162
+T-C02,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,4414,04fe4bc9e766de661e935a7b07fb9b0eff48eec734ea71f707eb2117757673d1
+T-C02,M05,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,6589,0abb3acd94ceb0b1abb9c1080f580af1607c8005fb3a8e242d0f5810c5a509dd
+T-C02,M06,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,4777,cdcfa808c92f0c2c5b4c092363d5a289be9f8d7b471e71cddfa24fb0f87772d0
+T-C02,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,5430,35bf2a46ae967be188a1a123ef753cc863f5dfaaa97cbaeac5164896e2bbe951
+T-C02,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C02.md,3307,a4df5fcc56b135b35692e5fb9b1a859801e67f886a7b2250ecf6528c7792f7aa
+T-C02,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,3900,0d1246688396d54906044ec8c71f24abbe67454ea98e6f78df4b07b01b56814a
+T-C02,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,5247,bd48557399ff92169daaae9291b3b6c85d00a4cce9ab5a7d29716e169e73987a
+T-C03,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,4233,87fa1e68ec998145ddf71240c78b423cec77fc454198e22ba44e154a28b6d03e
+T-C03,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,2107,107f010657b3fcb10db3e141f783f545c7a7a8b5b5ddeeb9af7d1a523c5ac41a
+T-C03,M03,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,3009,1f0a07b3a77d7c4abb6faaf2f6902b4c0719bfc82ee7462f80a5f0fd448463cd
+T-C03,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,3780,3728b621844abb7a6d37b2427c12c619f5244cac6018cf4d0d9fbc195ea82755
+T-C03,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C03.md,3953,85f712eb7020b6e42d40e864977c0c2cafede6e1fde36ba2099754c28d47b883
+T-C03,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,4383,6c20d35eebb7caacd847164d4f04d3d314d1cb3d4cfb59ee467598c0cc65b664
+T-C03,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,4449,61c5a9615e52dd08619dd09d51fc87fabf8739d02e0bbe87d7697771cde098d7
+T-C03,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,2410,8e703daf16b31a04614c552a5f80f39d3a7f09bfc3ce56cf23231d0027c24fa1
+T-C03,M09,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,4732,e71ff701a0eba3a8b0662ad5ad30c0c03fbde4ad956c9aa41a00dc7236122db8
+T-C03,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C03.md,3386,c7f60a2676dbc07e0e2e153a032e1ee175ba7b2b3cf4aec6578128629a157f7b
+T-C04,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C04.md,4440,89f2fc320d5d691017ad636a9943eca0449f30cf46a2b6b003b46012549e0457
+T-C04,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,2922,9615ea364760bb6ec41867a33a0811cb8308ba65ba62163faa67ace1beb1f066
+T-C04,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,4754,f6f23ef0b963470324769a261b1676032bd1f20e1e206f5ef521131793dd9941
+T-C04,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,2896,ab1833eef66365ab667eade44e5442fc45618dde617be34c3a97b668cb1ce7d0
+T-C04,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,2451,7e7a2b6d2d99c51d67a9272a619222eab4467d7ae20a533bea0149f99482bceb
+T-C04,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,4510,3eede28d0ac9e141163f748d99244619de8aebaf71f1b75683212c60f4d55b66
+T-C04,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,2279,f2a273eddccafea8a628b0f75392eca89379125c08b78923afa29870e2482abd
+T-C04,M08,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,7293,254b82db9565047886851d29a493f69763de26c36d435186626f3842a74988c5
+T-C04,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,2525,bcaf294c74f3d0f7e7f8650889100b219b637f110b4c41c6987b4273c149bfa4
+T-C04,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C04.md,5246,e3ae910819f657ba53e49441844fbf851e9312a7e6f261b6c7962b7978eca2b6
+T-C05,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,4339,4674c51e1d64f2feca139777b4b55f752e03619697796cae296a44bfd1606d49
+T-C05,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C05.md,4841,91ee2191f9d2de1b9b9d4f4d31497fca9b0354b0df5041608ad46e92c0eee8f4
+T-C05,M03,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,20833,988c9de042719660d1e063e1503815ddc7c4379a8abed9ec21b409489226dd6d
+T-C05,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C05.md,7786,47a54f2ab8806f0655514ccbda86cfb9fdbb01f7d43a68622a407d79ffd056ea
+T-C05,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,6212,f5abb422ea25151b339824e0ec0a61527ed759f3ecfcc51f99935500d147b4f4
+T-C05,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,6203,ab97bc2a9ba2091b8d619989102108281c1a73efe3bf6428cb7e7d59096016c7
+T-C05,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,7144,4bf77735918ed2c89e0e6d89409ad067f365acbc8a623ae969e04c8d0f4a5443
+T-C05,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,3930,3db2fb25c71af9aa8cf6bcec2370f7d1a6193df35b468af1cbabb2a670e561a9
+T-C05,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,6627,412693d73c7d2605ccfa5af0c5de50c471d7d968b2a58ac7370d1a10475bb94b
+T-C05,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,7148,af334fee1c3218530c705f50d462bd865fd9d94205297327b1237e831963fc6a
+T-C06,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,5272,83806706617a957d36e857a8629851bbb10373ab8b54f2bd0ff8a7a01fe7af98
+T-C06,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,12611,d9af8c62f8300ed6672b24a62b22a7a8f52c3b282714f25c048219ae84184376
+T-C06,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,6664,8ef475ef68da0654bec057d453f6bc7c645484497f4d463fd1b4ca122c0068ea
+T-C06,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,8066,546553a3ea794c8c769e6f0f1d0464c243a7446c4961aa3e92affd5896f3689b
+T-C06,M05,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,13697,29ba0311c13d0d03cb16defbdeab1aa284752e7ab7567ead1dfa84c966416120
+T-C06,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C06.md,10177,21a1cbfc2a0d4a04f98bc2076a80ffa29b71d9a0a7687ab7439843a07112633c
+T-C06,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,6227,6767b9526bc67b3beafdd105dc9816e43f3c9bc9536d87d35dae5a3390ba5285
+T-C06,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C06.md,9115,535816322738e5cb9aae44458b2c7db5af633970c3bafb0303faef29e10d102e
+T-C06,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,2980,cb323dcfe5d248c53fd2e1547d772c02600ce5b682d38e7079624f5c0f811046
+T-C06,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,7516,8663bcb5eb9902b1a9259803016e65ba9826a1b98bb6b6b85a7fd6ce8a3efebc
+T-C07,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,6619,3db3294a81f499b4c2cada0999b5d9bf85b7c101ca6a2625eece9e80544156ce
+T-C07,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,4321,fd79923c4259e17be80720c4d96dcf0cd62e9638aecf2066abebb92316a19351
+T-C07,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,15378,bdb7e4e316a5182a650caa5d60c9edfc196b60a668d48302feee19fdc42fb4e4
+T-C07,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C07.md,10062,3ed29437d6921194c0183764a21c443482be5f51edf4d9d1d91569cffab4da3c
+T-C07,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,8091,3f0206e94d2e79fd20792c2789b84719630d86055e67c2bf0479fb9c16dbb28c
+T-C07,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,10971,b728eeb7e30ac92386c92468b2c616341141a178f01bc3e674272e4ad20ef597
+T-C07,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,12423,33c9799aa1e7c136ab416d51b94342e1827f7b8f2d9ad60929815572a183fec8
+T-C07,M08,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,28189,cec2c8cbf682dfe013fd4d1f1f5f6f6e9b8edc88db914df95b4885f54a595721
+T-C07,M09,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C07.md,14163,0e7d51ff8856cc2bb21831b6136471e29a010764cbb054dd371b6d54bb764bcf
+T-C07,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,13864,47f0d1371dbf8317b780df9b9a863f348fb963ce855587bdd4e7bd5fb98eee27
+T-C08,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,4844,c2b5b5e117e1e3637bcf5dabb76c8d2084e6dd6e768566b04ddbe25321cb6c83
+T-C08,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,5160,63669203ab0f794f8ab864c6c9bd0220e45d7cff080775c0ea1f5976cac7d426
+T-C08,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C08.md,4432,473e1569958cb5e9a46250941bda2258d514e99636d211ef695164e9de58688a
+T-C08,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,2754,41887201b25ded709b6c27145850a02dbf05094c42100baab9e40a348befcd05
+T-C08,M05,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,6522,c7bf1bbb2ca5229ad1debedd2b403a8e32b9b70aebde97f980db0c6328e1a6de
+T-C08,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C08.md,5788,dd69fb0d726480272cbc42067b62782f498a7895cd3d9f7eceeecb036569f1dc
+T-C08,M07,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,3517,affddbef2a1608d393330d750c4a2a26b3f94c78f9d5c59528297c9ce8abb6e9
+T-C08,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,4078,12d68a20115377bc31c2e0b554eb4fb0f2e19b78012bab0454bbe198c552ecfb
+T-C08,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,5275,c076897be105ae199b773cdef0687e7021135c271b3a6053712d2a0c99d33528
+T-C08,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,7182,9b04010fc10b9b58681c8cb8b465b83d9c382b39193893c9509059f89d11b17c
+T-C09,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,3170,65be6c3c5e4781d5999d5d09f37c1255d0647146368f514d12c31ebffb8cdd36
+T-C09,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C09.md,2420,337a03ade6028252eceed5c038d89d75cd405de8270884716ab406809849b317
+T-C09,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C09.md,3167,f3b26ff3b3758d1bb736ce1800d05eae7e06e99727a943142bd036fdd22f0c4c
+T-C09,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,3301,5f06360b03e78b71949a7a5517a169e75c39ace763dad168c406e8b3c9844037
+T-C09,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,2753,115c0dc9452d25cc74b8c0ab582395c63a94cde3095265b2076f3f346a9b9a87
+T-C09,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,1484,451d07bcecfacda227979ec0bcf908b07e54a943b20a3b49421e904dba32d0de
+T-C09,M07,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,5434,5659c94440fc0b34d047ebddb792ffcd7e1f66272e452d140211a058945ea534
+T-C09,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,2543,bed4bb910f2c0cd62f377e8ed6ea3c6cb0d2fb19d35e1493ededc871a130db58
+T-C09,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,2534,cb5d0fbb7534b473198ba30d8c0d3c5fb324e70fa68080548e771366acd66f37
+T-C09,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,2976,c6e790c907781f1d243defba227c9e6b3a7b3f39c2cacf30ddca13483816ed6f
+T-C10,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/C_人物与对白.md,2314,11f20702afca6a55ed707807031ae305e31b0d54f5cc59e31ed4bf112882db2b
+T-C10,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/C_人物与对白_答案.md,3527,8872a5b6dd28423b700b50edcb4f5c21f17a33cbbee3f0e17d0a2b1c85361b56
+T-C10,M03,claude-opus-5-5,手动题库/答案/claude-opus-5-5/C.md,3434,d10fda7213f700f2414254561d890fc8185216e9934cf66096e9afdfbc2f79a5
+T-C10,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/C_人物与对白.md,4527,aaddca5923d8a73daafdd3df01b79e486fbf8e6386bff9983e86e6fca9819eaf
+T-C10,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-C10.md,3090,50028cede73c577dc2a8182ba76b8a63652864febd37014ce4a59005eaa208df
+T-C10,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/C_人物与对白_答案.md,1883,dd63f5442495ce78f96352abbf94d9b5b1a183a14fcd8a8f7c7ca8ca3505b45b
+T-C10,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/C_人物与对白.md,3951,7025f1eb30e3d1b79b626a73ee3f904c83195fd49086ae9e0dc6925988339fed
+T-C10,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/C_人物与对白.md,2767,6a70d274167f40012ce7a6de1d78c33209935c86ffe60603fb16c4c7bcf688bc
+T-C10,M09,space-bunny-free,手动题库/答案/space-bunny-free/C_人物与对白_答案.md,11028,21ed6cbd4c492075638a2d5459a43eb6584fc08f9388e2639ea110d8558a1bb5
+T-C10,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-C10.md,4117,ac6c4ca7de4cc963826641f45f0fd180cebd88629d47515f92910e82e9165a3b
+T-D01,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,11011,9f894effb427b4945ef226c70a6c804fc489c201043cc51ecfae211bf30a78e4
+T-D01,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,4471,4652ffe156c23e42e22a05045f07edd0d64bff44562b3717d38f5a0c1210e38a
+T-D01,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,6887,d5f0de5a2c0a04fec6e6cbd3a4f6a9538a21c291617c6a43de3ea5f35c3aacf7
+T-D01,M04,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part1.md,8449,2b4b884d72683ea578b7f45ad90b64fd51c5ed0173e9dc2ac9ac43a7dc0bb99c
+T-D01,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3988,247b03a512c16476de00395c2db16bbad1cff26981a8e6e32a55caaa1ea67962
+T-D01,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,10728,27aa9cc0793c4fb3a10cd14b38392e664adcf0a7e48e9c5c6e925e48f6586ed0
+T-D01,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D01.md,9995,447ff9c109819c8772241a298761025ac647c31e072bc9579ef68f418041e1d1
+T-D01,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D01.md,7505,695feac42816a43251260a7b0dccf3206ed362db942094be42867b4d913152ca
+T-D01,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,3519,8b481c7f9a5093a982aea7f01f62f68eda10353e945c705ee1ff2c53a00532cf
+T-D01,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,8424,89a1854ec8a009cfa8533e19f47b07becac817119a1de8cc47869e8776ca4318
+T-D02,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,6761,0976704e72bbeb76f073ddb283d335b2586719826d389f2e005ec36e71667c0f
+T-D02,M02,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part1.md,6410,3567ab6d6ab9a8b30f4e84293d18122203467106c8ae030320a2b998e34796c4
+T-D02,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,6008,4de8f2893bb9c8e53ce375e20a46570bbc6c5d773b50caf466744c6d2042bd1b
+T-D02,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,2697,4121367cfc1c1fb7adf0d268af4e43368a20969880af4d6e5f67a000e86e0092
+T-D02,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,6169,866fa2e85bcad22453d2accec8ce65b8ca924c86de423eeb7cee96af905eddf0
+T-D02,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D02.md,6902,efa718459c95142e0f2be73f0a93050385ed9963bfc445c1049d4cbc3dcbaee2
+T-D02,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,7940,9933b4a001af4689bbc22ea601f3418059e158152d0c16d01e0a21241cddc22f
+T-D02,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D02.md,7522,8a9a3c1871fc56f90833dbc9be5cad8d9fe36b08b990bb2b067a9d1685a4b7db
+T-D02,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,5058,70710b52861e3abf29e3addd691d7460368eb96bb10b748e4e3846ff94943b8c
+T-D02,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2551,a267ba123e528d5030833342ad9c66d86b70b71b794109bace8efdbe93416975
+T-D03,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,6258,2ab73cf49d8000bad52509c3df8a1bf2ad62c73889e586e4db6579b8c54c3a42
+T-D03,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,247745,a2ca6b6fc8f040dfba7ebd0fc32bd2793356207abf603dca47d2720949a906fe
+T-D03,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,4326,73b995561e187fd0bb2d752e77398d987bac96f70f8cada4ec3d455df67b468b
+T-D03,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,1840,7a0e18c73fc433f805b00c510b1bc0a3ea8857b802439ab4864cc27cef61b996
+T-D03,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2161,eaf87530b7e6cbc221297f589c39d23e9389b5f7784b01008b912df293394fd0
+T-D03,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D03.md,5213,022139a6aa82d304712e5f020a5aaa003f444ee06b5748848905c172e1664850
+T-D03,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,4420,2ccf136559e7589f501d2bda0dc5e2a4189a5bb6c96f352e368342088fe8151c
+T-D03,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,2697,85feac4dd64be13e181b4b441356e68243955cad13336f11059eb7b8a3139e45
+T-D03,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D03.md,5403,c9fc51b4d108025c7c16e7f083fe5b3c3318015ba27b1d3769375065ca561cae
+T-D03,M10,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part1.md,8510,1dcfe73a9d8578ab46ebca4318b05e8ce6e9bd1ab9cad73ab3f81a491e51caed
+T-D04,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2255,9bc89c65d63caba4ee4c9ea104725dffbd84f7afd1d9d58bf08ce88ec1bc5ea3
+T-D04,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2156,e08ee3637568fe955fb441f77ac07b1b549cf863b3109238a03e411b4d8dd1a0
+T-D04,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,4883,65d201aec858a6ef7e2e0aec8c746d4ad2c8119bd6e3a9b170f2a78e23407445
+T-D04,M04,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part1.md,14425,eecba17d86024bb8d27cbe1a6b1c7937a51478ba1dc77ce70274366eb8cbf5c3
+T-D04,M05,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,10117,8b753a3b7472df3d07bc732b12258a7201ff4472dd55fc94fd43cba340b61931
+T-D04,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,6695,4b7fe90115c6f43f9fe388a89a393962f421e65d4473707e288db1e0241581eb
+T-D04,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D04.md,8052,1cd55f0619aeaea077bc50f4ea68ac4d175006f26622f996d31f74a14f471a12
+T-D04,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3746,a92bfc7a0b93597bd5f4ce9c6b6bcf89bbb333b649cdc3e17399f07a83137c56
+T-D04,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,3514,939c09958d01fc5939b6512b697b9143a3d39a67ea5b882901eeff137d8c7e40
+T-D04,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D04.md,5480,65d5961bfdd51d13ff43a7c04961c30136f295df0f2713442d3fa2c8097b261c
+T-D05,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,9277,c3e682ca1b31bb4a7c67f1d51a9aeb17029ad461ce5eed9e3f7541c36f254f9f
+T-D05,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,5499,615b210502b7edde465a4024fa1cd3d5a23eddb5062944cf846705ed70c9ce85
+T-D05,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,9208,952374b54301e83a76767f7fc426beb2db3a002d704a1a97c210e8d0a00e2df8
+T-D05,M04,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part1.md,15796,89503a598035b0eb1d303599f52545d8a674c8ebb3dd44d9c33414dcafa8d400
+T-D05,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D05.md,9539,5627797b05bac95f4ff3a1be4ee090c1989c2f3efc295f7469f1739342018619
+T-D05,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2447,ed7329ad29381fd876c9d55ba9c66b254cca1d5e7637fbaf41562fec37e3fb12
+T-D05,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,7260,19982b095888c4d1288847a6108234679c285f30d83706145f1f6c737406d1fe
+T-D05,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,7706,0e5c93629bb1b423e7f8f65d00e022e2e8c5b1455a937382d54c03e64807c254
+T-D05,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,4545,4dc171225fb764921750acc81b2b148acf96f9a4c2b72b895914a7a68a5a5254
+T-D05,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D05.md,11279,22133bfe22c26344578e9684315dd6ce66be079f9b46f8d0b87cefd8fb21f027
+T-D06,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D06.md,8124,2898e3a2c50217d036baa84393f70d8b68f109c27bba74d13d1b2a772d4463df
+T-D06,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,7466,3e454333e3913756988c0fe93d1a004ee0525739f2165e416d7b796d90e35a2f
+T-D06,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,3654,8098d573dc58fbf2d8fd0895668e408973acdae9cc83a987a394e8bee0b644d9
+T-D06,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D06.md,6548,df4abb87daa92c0adb2f84f949f33ab0e5fff243c6d4dcddb177ed77b057df50
+T-D06,M05,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,23460,0fcc34ca4163c01fb6b8412fd6c61ac682ce84fea3bc4ddd89c5a05814861d36
+T-D06,M06,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part2.md,15013,3b2e4b8a51eca4dc2e7accd3b871206ed25de760bdfd9fd58cafb301ef6d02f0
+T-D06,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,7203,a114a0c8f21c463b8ce4ee0bcefb47fac665bcb7ad322c64d68d5ad71ef9f821
+T-D06,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2274,e90cb9a10970c2e3878224dfebee8aa770319a7a46edbe3e8d93cf3f00f5a5c9
+T-D06,M09,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,9278,bb208de7b83a3a9668d829202abdb117e126b7cc176abc36ba8decc685e81806
+T-D06,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3882,5d2426892b011e985b4b4818d92d0168fa9fff8825ebcf9a025c6d375a6357c7
+T-D07,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,134153,3a02bbe0f00ca52d525e8b953a25cdfe58f824976a26ec0a261c72170fdfe229
+T-D07,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,4031,fcc753c3bd01e02c3942ab163bbffc2a2875d7c9b694102c460cf2fb9699ef86
+T-D07,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2691,954ac687eb09e9507e8efe9c3e102b39394c470fc941ebb8bbb33054e8f6919f
+T-D07,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,7202,5e20c822b51a8043297a172dda75284655ad84b2f3c549a13b0350bc1bc7de26
+T-D07,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D07.md,8632,42963eea26a1436fa38b73822c64db1bf92ae3f3b19888937b81eb7b160053cf
+T-D07,M06,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part2.md,15156,457319625e2924f16094ba9df8fee9cfaa5ba3a283edc0ed57f4585f78b96fba
+T-D07,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,5944,eb44475b8066ba5ae3662044aef34995f3e78ba355851c71ed17537c343c26d4
+T-D07,M08,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,10193,15d01d7d45dfff19856b32b86e08d3da527b0f90ad31c3789fc14f31a98dad95
+T-D07,M09,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D07.md,8997,ba681d1f3b13ff32c37b7989918304a6803621d9971dfdeb0272daaae8d55727
+T-D07,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,3237,dbd125b175fded4e85cbe55050ae3e2fde54e6b8007af8d929b1ce052561f7a8
+T-D08,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D08.md,14072,b305229b8592ed50dcd01aaa1d52d6a55d407266b6f7bf7230b7bc67c95ae876
+T-D08,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D1.md,15430,e2339b052882c9c9724f7733f9fc60a8ee6fd67df035e621e77d6424ec6e70a2
+T-D08,M03,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part3.md,51712,ef2e61e0edec800bd9347c1667f8a027b8fe4c5d3858816b7b396665f65e1d7c
+T-D08,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,3276,77329228ed4d2ccc534dfb1e8683e2aa6be86e288fac8708ff59b47843f85ec8
+T-D08,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D08.md,18738,b477bd5aefa021957afb81ef8a6534118a83cb1f052d022a3fd4742fe485fd5b
+T-D08,M06,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,5800,0df771d533c9300507377a831046bf162bf42c1452df1e06210ef4fcd005c73a
+T-D08,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,4672,770026869151231644233d13b097a3b28f6b4a0074cf51914e3f76123a153ce2
+T-D08,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,3611,1bd89933c79a082aa7b2e3f1065b276f0c1c86ff12b5782858e96760ef015af8
+T-D08,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,12829,4851614fbab7c3a7fa9236cf2c348625ed174c53bc6a7e87ab326ffa27e4ee32
+T-D08,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,16866,b1e38044e669fae30179d95c9ef471684f3493cb20af80164cf38e593ede1cae
+T-D09,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,8615,6aeb897e6c1c81fe7a993893d4710eb17cf0d5bf0ccbd0125c248d9476bf6162
+T-D09,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3363,adc2bbadeaa4d2ce5aafb65a36712517f61aa4f8fbf74e5cff9dde4237a1d007
+T-D09,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D09.md,8284,9f376c49864db00a7651ffbd4a0951860dac260717def3ffab4a96a84df2bf7e
+T-D09,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,3982,8ad8ec25b19bbae6255ed50fac304ed733d109d045b74e3c2df218fd50c5ff75
+T-D09,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,1996,04bcba62a7aa4f6e2eebd6af957c0b70ef9918fb8850b25ed33e92ee95fb7c6a
+T-D09,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D09.md,7530,cbc54bf32a07ce0c5c64e8d68085cf5a9bbaeee0d82bbbc5aee815e733f8bb0a
+T-D09,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,8472,ed988c54e40529d2e0fef318299ddd566a294ae2565105436d88204a3e102e94
+T-D09,M08,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,9332,a22eb91bceac5a8f9092704589c4cb4d86e1f8e42e742d3487f7255d51e6d297
+T-D09,M09,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part4.md,26066,01c02587e44c1ea2393c1ac3ec24e911c62e393b58317b07523c5bd807a92e79
+T-D09,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,2962,399bf140585b9d3073dad0792a97f11b2e2b52a458f1dda03f6ba77c4861ed1c
+T-D10,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,3861,2031b4653b01b4b67a7050f68e2329b0c14aa4f0e1867948413f559cf11a95be
+T-D10,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,4346,c0f4cd0ee293ca4cf8c26b3bd830dfc54cd7bd672dbed4c421896516c001e47a
+T-D10,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,7501,7d1b83547051bb68fedcc89ee2b5288bfcb5cf67daf985dd14b4a74c809f935b
+T-D10,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,9698,516325e23f7ac2956b6e5e7d6444c8c2c11b105c8011193b37f3620215cdb03c
+T-D10,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D10.md,8311,cf207fe814d3fccba2d68f95a7f40f043c393f57af2feab24d82d266a9745bf2
+T-D10,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,8298,b1792fe220af1656e6992d10fd344dc64efa3e47d8086342d3fac10e1d963b3a
+T-D10,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2479,fdd0ccbd8a3675b7657ee851aa1e5362f63911af76cdca86f0af62e0f55c1f50
+T-D10,M08,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part4.md,21327,6b4557e6f04c80a2bd3f367ddfe8518a03a0f4c61f63fd480b613061a6c8312d
+T-D10,M09,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D10.md,11093,7b3b90c2075eba1e1235e82d9ef67fd6bc7e08da0113eececc600210c53fa501
+T-D10,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2118,1630e02cf6c8ed4f317504335a16a6b4a18ca18d1de2b55aac100892baa27671
+T-D11,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,6503,6d6b1af4deb0f4bacd9399c1fdd6358a5386ace286eeb3320e42e0ae10a47821
+T-D11,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D11.md,7295,9c9a72de590be5245d01d6c10b8606ece8e7de20818033f0668406645ddb11d5
+T-D11,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2374,84cc8ad84afb916d285200eddae22ae79a2dfd85b1e8401b43c19f018e4ecebb
+T-D11,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D11.md,9299,f926f0c96bcb648c1ed4dde9f399116828e86c36dbf93f179eea7b0cf04c3a79
+T-D11,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3584,8ff38f2cc8dde120b17409aa8772e85a852273222f7a14f8865c99d271b20e95
+T-D11,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,11446,261802e80fc63873c8e7d3c37e0d531fd98f1a9052f94adffe0792eae93ad31d
+T-D11,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,4267,e0b52fc2eaddaed5087d12753c02516f6ca910cb8cc67e938a6ed56ece721c1b
+T-D11,M08,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part4.md,45502,841c605136439c04facfb9fd8f055bc394f7aaeeba6ea72b30357c4b6126e03b
+T-D11,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,5867,6b167df1ed3af530726fe7b6bd66f69485c75e15206d8439e099f85b3f891f52
+T-D11,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2340,385d187616bcd5d7a8deaba43d411c611c1b1aeea8fc7f05c0edc10f883cb561
+T-D12,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D12.md,8874,a717dcdfe77755ff05290794c8b8828bca0aacce9199b8fb0cafcb922cac1011
+T-D12,M02,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part5.md,17351,5b9badbfd0bef3970ab5ca691965141cfca68cd9bd3f8e44d57819afba43c75e
+T-D12,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D12.md,7202,e1f511f4e327c0ea7c2fb1e0e508a1b0cdb6258abe0473211fc8086d1a35e08e
+T-D12,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,7207,4d567d3b4caf939e443e47d337a529b3390cf43183b8eb7c7fc393f9395cedc1
+T-D12,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_前半.md,4785,3b4ebb9de513f0b3c8e7c75e094b95bf7c8acacb8d07592b17e59ea49cd6a1ea
+T-D12,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2420,54020b07bd01f81c7865ed5f13d270bf7c1e901cc084dbe5fb6dc544bcb13069
+T-D12,M07,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3855,8789220af034f43e6740c9ec2bb210641aed679730afa744ba4b170751b69808
+T-D12,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,2915,5b62c2bc0336f69a48cf41c1af3c22824c452db533dd52a8f172edf11c1b080f
+T-D12,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2054,a509dbe7db6288ff60ff20f057661a2d914125c460775e1cfe417493ba32da86
+T-D12,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,10347,d720abb9481f69b1c62635e13392f2d6846c46f75673fb341206456e171aa759
+T-D13,M01,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part5.md,19048,03afeb9623a3c37606065477fbdce5c801fa1027728ba9247e6001ff6a1a54d9
+T-D13,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,10336,2866ed17f0e3a72b8c8d858e75fc411737f4a96c5fffa92359730de7641ee29e
+T-D13,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D13.md,8231,82b4031d5005cc02511d90891f77b828857a0917ae6b298bb2b9754cc98b9859
+T-D13,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2970,c6edeb517d010f6fc26743de41a56b638e97b3868c01958119cf51635400d16f
+T-D13,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,9745,ce9234f331a283900df80e85da871d73126d3cebc2fe1297cd376f38444414d6
+T-D13,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,1737,62eafec73010d03f793ed93c3d4aeb6bc42deec7a6e14066f5f764fe0fa3b639
+T-D13,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,7873,1f17a0dd09541c7022a90460b29e57be334f3bf0e7d2b81b5a11184f600f238b
+T-D13,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,4189,85c6b086dcf4df443f065b312aab9d1174f469c7830445ef67af15aa6a7dc0a7
+T-D13,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D13.md,5371,813aae774a75501a42477f1e330f5c541f664e1e2da254c0a1b9d1db92c3ba9d
+T-D13,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3282,3f436f1fee05257fa0fb24a1f451d043a4cfb0956fe39ccc44a4103256438385
+T-D14,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2900,ef4370029ccc7b842a7f72b7995f1bbb4553be40eb6d025b25995f491274c4a3
+T-D14,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,9662,3ef5a882cd957ff55fd6f2e404cc208679fcc02d5e6eee6f003f618b8fa36dd8
+T-D14,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,4740,cc88b38a95bd203ccc1b23f86729c9ba6d5872edc316a1782c5082882cc159c9
+T-D14,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D14.md,6975,39e6788ae5cd8a60a22a0e050bb9e063967255b5630e350f7a7435bec3531a3e
+T-D14,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2443,fd2a6a678f317d5ac0e6fe87f70664198eab2ee1c302c2da6c3209fce5da2f3f
+T-D14,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D14.md,11222,81a1ae53007c625cd4a8a55af33a2161f118c796b08a54bd31fd02c8fde379fb
+T-D14,M07,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3223,93bc04dfc779311293c5f7bd1e7f4bc8e46ce401fce7c62d0b93fc16b875edb6
+T-D14,M08,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,12857,3c62f774bdd1f318388cd1456b008d30c66c804a454be20fc2bc314d4207ad4d
+T-D14,M09,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part5.md,20860,e476f044b1c4622cb2e5e26278bf970ac28631045c052dfcb309b51a21766f79
+T-D14,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,10019,81099b4524c20706c25a393b45fdc16d47b9ff6fe32263757042537b2580f91e
+T-D15,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,11498,ba9fc5a3ed5c3f00d4f1a90050ec868529cfb5a1b1c4929d3e5b964b67e8ed16
+T-D15,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,3413,329db1d8f7d299c2621bc7f7f6486c0c0b5e851ae860fb04a1b45cd04e15b494
+T-D15,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3886,a31b61f45f22f8e7990713b5caca2a76acec8c74eb664a02a9be8ad72e144db5
+T-D15,M04,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part6.md,26474,f80ef18ff14522ca21081d2b44d5d57aa5ac452b7562f6a483af2d1a27600074
+T-D15,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2235,d3614a4621afd4ef123a0c3264e55c1b1049989d1bf8c1e4242162d1c11bd06a
+T-D15,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D15.md,6846,51a351cd642598c1e43185da9c543b03d70163dce0a248f9793c9f1ec9825cdd
+T-D15,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,12821,b8382f59466bdbd8f21e671e4eb66394035735069b5c160ff1ba42b39d2204d7
+T-D15,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2691,cfb9b591c01f2590b53a2ae3d347057f1eeda35742332f1ab5eb5176c09c4580
+T-D15,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,8297,b179f16f36f91e54653b8b554d5aea94a1a0b2490454e88d54f6ef3e7b7313e2
+T-D15,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D15.md,9813,87a27304a3d26540a71ca4bcad1f0d1594fab6e3644053c0d5ff0c7c24041c3b
+T-D16,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3701,a39e7285e6feb7ad35dc6ab118fbd19ff41d2c424bf33d1c8dee9cbccc4e17a0
+T-D16,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2469,6c6aa85495cdab515c4e960a422ddc902545729f932c021eab59fe0b44f80b26
+T-D16,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D16.md,8578,21c62f321d8370826d4cecbb4c797598cf1e36bdac5b0bc8042d1344733f7376
+T-D16,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D16.md,8691,8e8d6506722d7c345a4e4219d4bce6d1b7d5a819f814cfeb5b6ee6e44f737e87
+T-D16,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,8096,3bea600ee87431c2264ac45f711cedc8f26db561af95fc2c6c5741caa937344f
+T-D16,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D2.md,8754,ecc69bb38d81017983ab4fbed1b4fc319811f0d4098406cdcd587d6c1473024a
+T-D16,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,4111,c52d6a1fc8693b17ba8f536fa37028baaebc3aea7bb9c4d18a561f96102fceeb
+T-D16,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2314,fb79c7d2bfd64671269a0b2357acd9c4b8bf13d9f22676b0879ee7c0570716bc
+T-D16,M09,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part7.md,23828,b4604c1d90b862a2c17b14fed4c7a6db5b486304fb62372f0c4aab36ddaf81b5
+T-D16,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,12780,f505a92944d5ebe3a541292d3d7ea6c3a7e29a9f23b5b7f41948b11953761541
+T-D17,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D17.md,11083,4c1f4b4ab2ca0b69ab4e4a0cfbf3132c348acb71eff06ea96494c8cc6d22cdea
+T-D17,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,4092,59d0172f1a2a33da2e5c18ff528b87efc4f287afbdd2aa36a6b8ecc2f89b6ed2
+T-D17,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,11468,ef892ce1ab291b3344cc6f0dc1d9910d6ab62b84bddf483e7c59b2209f21f511
+T-D17,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D3.md,9187,c5913f6f13df32ba30cdea22d412f4bae806ce8320715d415d8aa157927f4315
+T-D17,M05,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part8.md,38415,f2763e15559196802f5da73f4c7f06e777fc6a3ae741b82319fa166c255baa51
+T-D17,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,12596,b76dd973b848d53eeacec1b9657f4f6bdc667d1ef40e6868209dc331d50f0bf7
+T-D17,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2964,4c15ef13f81a674c3e820c43c80371096c6206850fc1b01e815e8cd3a85bb8a9
+T-D17,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D17.md,16178,53553672bbac5d80e016ca1c834c21e1c85396ae45e94fa662b947c9915ea3aa
+T-D17,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,4307,4eec74a55cb4e49a8524401d8064d3dbd308237f8e63519057935a2f3e3d2db5
+T-D17,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,2029,e0e7e3f7f551ded756c821ee9c6d3ba937e436d1da6a2a7661382a2602ed933e
+T-D18,M01,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,3022,d96b736bbe5f452e585fe01ff6de776fb038a86823e5ba36c33a16f9197a6b3d
+T-D18,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D18.md,8810,8bd3a4c833ee0a4dc76127b4286ed0269b5d2335ac51649a0fff0800cfa39a0f
+T-D18,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,3355,f064a7583ff144e91a2521d81bb9331de248f9b79b459129f84e0fc1f9c423c1
+T-D18,M04,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part9.md,11633,a2ee0dbb841bbffc97b776ec87afaa8fc38eda2d688849900cfbf21a7283f3b5
+T-D18,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D3.md,8617,77fc47915f1070ca9eac68830ce8da431404ca4963158a84b327c15f833c5359
+T-D18,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D18.md,7526,70f7e0ad4b18b205cd335f651801ce0d55540979fc0e3ebe63695ea725432e5b
+T-D18,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,9409,2e3a2c053294271efa607f9f0d44e2bb11b0b27795b565c37080ef15f441e30e
+T-D18,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,7795,3b26c081d35249a205549e9d1cdec850b383b8a73cdb9af9c390d7d004e1c660
+T-D18,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3822,2428e556e1f8b781d7d6e3952a0484fdcc3938a764b988a5b7bce16fd8a66a25
+T-D18,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,3550,c50d63e44605b0b5997c8b482558c4bfbda16eff74ac7af528aaa0bdeac2b4cb
+T-D19,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D3.md,9188,61fd73f38a7a7138235090cf583e208e8a1208e1d62509f5dea8e9f0750f61ff
+T-D19,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D19.md,8241,ae16ae8c87f5220b714a8b0a78cf8839c06063aba308dac287dfaa8201b9b9b2
+T-D19,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2039,cf7718e08f0e82d3f57920f02c5239c63a4b97d472e6fd15262567b3bd40cb10
+T-D19,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,9203,91e07b31012ac83fc82cf5b5060d7d239db171c70b04842c92a19536a139d9f6
+T-D19,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3331,1fcdc51d753644a1d7aa1db24bf696b578b38849144e9527c7271ec0410100c4
+T-D19,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,8687,0e105baac40aabe083254a6ed72fafa3f0ecd76b16cef58222ae864d394ea38e
+T-D19,M07,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part9.md,18232,f4aac48653ea8002298f37db15c20512290c5999520032546f3544fdf04a0e35
+T-D19,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2511,01a3081af293592ded8d586d1b94277a875179acad7465aa748652cd666d58b9
+T-D19,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D19.md,9846,2d99d28f31c8dbd9688df9acbb9f9ae9c065a38022fefd5dc3ebfb6cf54b3386
+T-D19,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,4257,33cc14f9a72cd19344d5873ab7aec3d934f4c655005aa1565742d85f864573f3
+T-D20,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,6398,1a710b1ca366961306fc08dead052362130e5e3d70a921c3dd150482eb06874a
+T-D20,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D20.md,11067,a24a0a8d0439c725face56fa41516e5dca4ab0a7334caad9a06d06f8bb00ada3
+T-D20,M03,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part9.md,20230,4ed9e56d3bb91112165b123afe2947f9ed5028c05757a9a924ff3ebd2246c4a6
+T-D20,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D20.md,9492,58aa55f57d59de3f2deaac8bafbd41db01886ce6a68be24e8ffb466a68f2d5a8
+T-D20,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,3826,494330f095c4f9e6b70fa84e1dc15bdf8a8306b69f8d4ca4044960544d918b1b
+T-D20,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,3352,841ec7f43dd30455c95f39c5ee9fd598d880d063502e2d58636eb9217b6ce224
+T-D20,M07,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,4432,4a772705add6e4b89358ea4e151e2abceb45abe5da7763858e9864b076d811ee
+T-D20,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,17990,c76af710da9f10f35ae233b9bf552902884cb15ce74d37d818c2e04caf362dc8
+T-D20,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D3.md,8239,0cf6959331b1b13064abb9244505fb97ea3a44256936c0115ed59929be2320ee
+T-D20,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,13664,8ed4d0db7594e25725fbfde605c085243bc7c6f47be7d8f4ffdef9eb4e47993b
+T-D21,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,3638,cd7be709cda3088a822e5a8aacf33a9e10e937a09330d701375d46218a015ad8
+T-D21,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D3.md,8087,61814925b1e0bd72e9b56b8786c22e4e9422dd1e658b3726647b260acb3fdccd
+T-D21,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D21.md,6433,2194e24a39f0ba6059443f531e7b2065b6568daf96f4d6a59ce53788e9390f08
+T-D21,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,7028,2b1d1a47d632d1d37ab4018214ab0ea5995e19611d6209c1551809d7340184c9
+T-D21,M05,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part10.md,16501,2952db8b63773261f0892f047b1fcbf1067fbb546799acb3620b55155aef40e9
+T-D21,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,3083,b23ee926a962f7f28b8a03356ea8d3fc6b5a5ae5dc80cbfe0e7cb1b717d88669
+T-D21,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,3226,460422a9de023dba784b245f53ccb2132e297ecdacc19efe5a81d30b86b486f9
+T-D21,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3963,dfb1f5faf66ce3945d01dee48a517110152ad0e54138e06250eb148b1a532d66
+T-D21,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,6828,58e3e1418d50e8d71f62b1ca39e404053fc01391b65e61298514f16ee3d6804f
+T-D21,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D21.md,6811,702477a4b834b24fe44d89df626a56f2473a6b75150ccd90042ae3f2fcc420ef
+T-D22,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,5263,831f16df4149b5a56f654e39448b968d9d3244728e54ae561e4f33d16128d1ce
+T-D22,M02,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part10.md,9265,1566655a749a68239b8c5bfc0fdb2129b6261fe659d9df9ab41e8aaa27dc1eaa
+T-D22,M03,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D3.md,4404,23fb1fa27b8bd4e7b0b3b4767c879dcf5a491a0f12e7abf85d2be5511dd0da93
+T-D22,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D22.md,4766,d62903db2c7f3a5f0f8d63d769ff02f5de6ed0483c45c11fb6b654ea23a54061
+T-D22,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D22.md,4407,c8dc653a09f231387392aeb6cfb8b7f0aa0f4373399f87bdedc35a283afed8bc
+T-D22,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,4527,87ec9463922622bc0285584cfb220eb57c46ca6e1cb0febe6d0e9dc37ce47776
+T-D22,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2404,c93fb2c825c85182a8cf9f924fa13e0f27f87daec337cab5a35d8aa5abdfa2f4
+T-D22,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,1853,bc06eca8e9c19bd76a7049a2edb533fd94a9a8f28bdc2a0696b833b74db7a48d
+T-D22,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,1543,b0f3f2dad8baf8c3d3b3596c12e2c8a93de6396f5a8a3fb6eeeb9c3835bc108a
+T-D22,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,2028,46d2fae47b36f7f443f8c3a41d0823fb5735d9959dbec7edf73277e763e3b137
+T-D23,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/D_类型文学_后半.md,8295,e359c0130926f69faf4eac334e839c25aaae6b8982c6d0713f5e831878b0dd7f
+T-D23,M02,space-bunny-free,手动题库/答案/space-bunny-free/D_类型文学_答案_part10.md,31263,44f9f8af7b384b7948839a806ad8b24ebfbf30c4d5698c7a0bd68be0abf4cc4e
+T-D23,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-D23.md,11154,e2d87e59f2c64e84e956c7b1fcc0cfa82a7af7e49b9b894f5085474ecdbb2b5c
+T-D23,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/D_类型文学_答案.md,2525,161315b5f322e77f9030a0b43cd340c86fb02ab121a60cbc3d93a9231cbd3df3
+T-D23,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/D_类型文学.md,2200,f11f19f8a287c049edc65fbef7e06736d8c9e1204723644aa0aa81cf33790fbf
+T-D23,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/D_类型文学.md,10819,ee106b4fb8bb630e0050d9cfd71fb8c6ffd0c23c97425adf2a6d8a8c62aa16eb
+T-D23,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/D_类型文学_答案.md,2782,00f6e5a8d879dc5b469d4b26134cd636b17b38ea812ba420f13e4757dd289b9a
+T-D23,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-D23.md,8666,7eabe8bd53a4d241dc2d00c625f389ef7fb3c9c494ed8c6f8c6bb500ab8e0a1c
+T-D23,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/D_类型文学.md,3452,6d981089f63cf119a870972feb41fc8165be5dc848e0734a3b8a328bcac1a21b
+T-D23,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/D3.md,9633,c5697ab027f0fc623ba1f5011734e351e74ce0959849f1f6fa4f0fc31b70f8a5
+T-E01,M01,space-bunny-free,手动题库/答案/space-bunny-free/E_RP与互动_答案.md,9252,3e7c274a382931cd7180af82fecd2699a50e60d01d21125a8fcb21a933ab4827
+T-E01,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/E_RP与互动.md,5278,5e6915f2cf5823c213d2ee48641570a6e0df7379c4b49dc456999cb2369a1120
+T-E01,M03,claude-opus-5-5,手动题库/答案/claude-opus-5-5/E.md,6295,6f225951c03c54d6cd41bd4ec7655704e002a921131d0ed1712a8e5c73bf1450
+T-E01,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/E_RP与互动.md,7172,a41b9b58466334629801b5f945420432e1fdb062360a5721d82d41b020d9f146
+T-E01,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-E01.md,3190,12de54847d57f6e82d549a333e082f7ded9ba7b3f4b542900c1e8f9cdaff79f8
+T-E01,M06,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/E_RP与互动.md,4081,a0dd42fcbe9738ea8d1d14dbb723d8a191ac6a24d0cbc70e4f5f7b405bac4cc0
+T-E01,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/E_RP与互动.md,3262,f62871e7012fff639b26f26899cef8342ae33264feb1464757103b61c1bb1249
+T-E01,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-E01.md,5598,271cf559c80462b0c74803cd7dddc206a22722308a91a9edabe944723a3c6aa6
+T-E01,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/E_RP与互动_答案.md,3551,3f8431463f86fd17f66653ccabd6d46ae69e61e37fcc6c3ca0f45074fd07f2b1
+T-E01,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/E_RP与互动_答案.md,4889,418c8a6930ec028b09f74d55025a49d6cc148e08680749ea38d18e3405133a60
+T-E02,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/E_RP与互动.md,6511,9e25dbb188d7458c1794ca2a6ef21c426a4f3cbaa33bf99bb0ffaae32248f051
+T-E02,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/E_RP与互动.md,5456,0d1773c318c8c41c7a5bae4aec63f1139299d07d4ba986c69d5ddeb9cd2ec28e
+T-E02,M03,space-bunny-free,手动题库/答案/space-bunny-free/E_RP与互动_答案.md,18199,9d0ceefb34419c0f8acd79a4aa1252af7f5d5075466aef0247881ea3dd03237a
+T-E02,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/E_RP与互动.md,10282,2d72a3204ad4b087d533b4791497d238af2e537cd142f3c068bc16f5e8636e55
+T-E02,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-E02.md,5274,72e351aa11abc2e858f6cd3d30c157edc9beeb69ea559bef1c89552c9f45fd22
+T-E02,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-E02.md,7461,c9c8b2947a1047872e2c115fe452cf29b81ab30a900282ee115e31cd634a916d
+T-E02,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/E_RP与互动.md,4468,9d59ee6b3406a9700c58a9c364b16071b65f6f0c49ce800d925bb28c2d76a27a
+T-E02,M08,claude-opus-5-5,手动题库/答案/claude-opus-5-5/E.md,9385,01a3b912305ed00ba28a8c179022d9b390e7ddcc4908735a754cb60112002ae9
+T-E02,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/E_RP与互动_答案.md,5571,33ce2209d212af5c97d6a893bf0995f3182e2c52b5d3eb57196ef866c6d36ebe
+T-E02,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/E_RP与互动_答案.md,5906,50e5f26f5640cbe3fd5ef85322c0bad80bc34bb4cb47e128cafdda6a83fc74dd
+T-E03,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-E03.md,5161,4d08719db1f5fce87e5fa8c9c44212f769c4c8481b99432499bf56b8b50dd258
+T-E03,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-E03.md,9325,56f31e7b609670c77b609a1113e2b6b0b2d53f3b6fcc5c83a5f58e904dd76a91
+T-E03,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/E_RP与互动_答案.md,6904,224e5dcfbc2710dedfd5c123572cf13e1b4139d46ca66ab308c420c53db6de29
+T-E03,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/E_RP与互动.md,7935,3ad1e8fbd0042b9fb6435c71de6b3201aaa6c7b3b1102aa0576aa93c302a8404
+T-E03,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/E.md,9149,528051f790a992514d5ab9e1a45de3092fd3631d826c6859f6b1ad741f3b7546
+T-E03,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/E_RP与互动.md,4477,5547972ddacb849b7741aadb02d93cbf440e7277d6725eca373a30abcac09360
+T-E03,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/E_RP与互动.md,9951,09b5d70d4b1e31d041ebd739b8ae00b981663e0c93396f1a592c97dd09b08886
+T-E03,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/E_RP与互动_答案.md,4870,32cb1d879932f49a28a7ed310279aed1177bd84214ea858f5e2a1a25c5e5801d
+T-E03,M09,space-bunny-free,手动题库/答案/space-bunny-free/E_RP与互动_答案.md,24645,9623ad7ec59f0563df48a6eb5f5a1448efa4d9ba6a2c647265763dfa56ded72c
+T-E03,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/E_RP与互动.md,5151,01324a7e00b91810b3f6c3995c71c8088a1dc6bbc20039da7244cd7345f4c3ed
+T-E04,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-E04.md,2456,0443e9b28d96f3d11cc9c09829ec0a699f0cf1a71bc829867733b3ae25237d30
+T-E04,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/E.md,7033,3a6c7b6d86b1021735151ac21d057fcb28d20b48dd668db6922ebf6df0e059e9
+T-E04,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/E_RP与互动.md,5420,f24997b084638f722672b10d97a9ef6653e657f1f6eb1532775e14d46798fd38
+T-E04,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/E_RP与互动.md,2861,be812ed13c17c489b36d42117e015ad81bf2fc6407c1ea8e0222abbe65560270
+T-E04,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/E_RP与互动.md,4062,fdf38814e17ff5ec7045cb335f35d6f7a1becd83f68d6da65d4906b7e2573b70
+T-E04,M06,space-bunny-free,手动题库/答案/space-bunny-free/E_RP与互动_答案.md,21475,aa445e43d250c0194f18fb61368cee07b8168b89acd6e3b1e9af0b434ba55d6f
+T-E04,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-E04.md,6846,1eee6bce551f397dc580d4603b3033c622948111ba720e6c4483b8f689125f51
+T-E04,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/E_RP与互动_答案.md,5993,3c964e4253e73231a38a4b7d95cc7a06d4bb3b5937dee4a0c6c4de181089aeac
+T-E04,M09,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/E_RP与互动.md,5922,749037d36e53c0a057edb3d35e089c160a19d53efe307aa8a7e7b4181dd7970a
+T-E04,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/E_RP与互动_答案.md,3158,b244e131c542d8f761b62f981cb899f739d11ffa5b7e0a1ee4cb8a6f6933c761
+T-E05,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-E05.md,5962,657a56e4eb62e132153b2dc33d3d3fe6f52cc21aea3d233dd2ddce8e5edc7049
+T-E05,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/E_RP与互动_答案.md,5853,cfef8739202f137780b13347c05a308a4261d35cdb0c59261c6ed10026687e64
+T-E05,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/E_RP与互动.md,6643,2e2d004c0b87bd80041edbff5a3132957b20b0774419014a0e891db2332028cd
+T-E05,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/E_RP与互动.md,4349,276880964e9c3cd5159e9cb3fda6b26715c2092c9bcce9a52466d7b2907f9635
+T-E05,M05,space-bunny-free,手动题库/答案/space-bunny-free/E_RP与互动_答案.md,23917,c12679909ad4a15456d34720e7119db7794cd6d627c28239f71660c5e220f01d
+T-E05,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-E05.md,3638,bcb4014b6ce40d4f628ba8e56194aecdc7c86300aba2fec3b039c97034b3edbb
+T-E05,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/E_RP与互动_答案.md,3880,38d907a1c63219de9f4322d3167399d39d82fd90326e267ae131188fe2b20b0b
+T-E05,M08,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/E_RP与互动.md,5970,b84465d836bc4221b46c111306a9498ad20909c5736c71c3cca59fe89289b266
+T-E05,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/E_RP与互动.md,3180,cd8f72c0c478d0dc360f9a1b2addfa84342fe99fa29f0e159bbc06b47908f3e2
+T-E05,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/E.md,8239,3e814954d176ba67bd59b1b9b47bc682d282bfc2ce54a434bedd4dc533bf638f
+T-E06,M01,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/E_RP与互动.md,2194,8895eb8e3eed06797bcb4b5cb546d0e304857ab424e4debfc8e3dff5f9b6b37a
+T-E06,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/E.md,6411,f401edb9056e18d49b9a1c54141669456013a40a5c68a2188d5d635db2e9b155
+T-E06,M03,space-bunny-free,手动题库/答案/space-bunny-free/E_RP与互动_答案.md,9254,eb5faac46af61f23d5f188b45f1d74707eecd78d8a2dbbee171d3ac6b62bd4f0
+T-E06,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/E_RP与互动.md,3983,25ce3ad4352173b86da90b3228702341e7e2c4a19f85d0eeefc77958c37b98c1
+T-E06,M05,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/E_RP与互动.md,4667,b3c87cb8dc8c2ab0a26e1de7509492c9f6dff570fd865f98d1480fd52d61443d
+T-E06,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/E_RP与互动_答案.md,2703,312fe1968bc730b9092840b85ba72895b9c2cd447a9c47e70ca1125a5ac7a4f6
+T-E06,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-E06.md,3574,bdd9a9676847759c0f637609adc10053e63075b5838d03d1759c2c99b10b5ad0
+T-E06,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/E_RP与互动.md,2809,15783bc723e17b7d05774d019ea5fedec30000ec99ef1596b8bd5263a8f82f70
+T-E06,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/E_RP与互动_答案.md,3837,2bf6553e288463ba3df31c12c66c3b1eff21ed6ffb4ba76af29c797c8e3caa5f
+T-E06,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-E06.md,1688,2e5e49ace34e2ba808cb03afa66a455165410396bd9e53b8f022df003efc556f
+T-F01,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,2815,cded980c6711bfe0856f73101f84cbbc6fc8080a251747445e995ecd5b32cc38
+T-F01,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,6500,8247f7ab39edc5500f638d811068f92a897e7edc5fdc7d79b47fb4335da07440
+T-F01,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,4344,ce710b3f9493a40e017d3cd3ce1c989326ba95ff5a784fed6babb0f5465cc72c
+T-F01,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,5637,8adf6f2c4e11b1fe52f32ccc39be61a16adc784c1d81d075abf2a93e9c4a8384
+T-F01,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,10986,6c2c038640fcba1cf96c911dd139f64dc820ea0ab0b825a56647adf5b7a516fb
+T-F01,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,6209,6defe41809e841526fbead745d5b9724add3f8bb9657a615860be10d9dad65a0
+T-F01,M07,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part1.md,18540,93cd6cb0d648a23e2237f4f974bd13d1237df1dc196f0ee2e9bd0c0f215da01d
+T-F01,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,5133,01a5124d09be6894d00f4646025468f89e19ebab9088c35f99da7509c7a88668
+T-F01,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F01.md,7659,08471d9cdd2aef3fca0349d13a8556c163e31da08cd9e1098234452ed62eb891
+T-F01,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F01.md,15187,9d41f1a2e4300452c384d490fff2639f20d51c7e2543e72b3164d42a5fec7916
+T-F02,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,6956,c220eae6c3e7514315808579d9336e4d0828cda5e0e72ec9935eefcc5be8a08e
+T-F02,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,5144,88b51e4e53fc2d5cc0435a09b75bcec09caaf2950cc8a3cff03d1dba73b9280a
+T-F02,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F02.md,13590,7f0aeb92a514bcbda6d61696317e0bc8007bf2f4f47feb43ebcc1c3284676d31
+T-F02,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,5921,bf6aa1e318eb732429f16987042ec6765b35a77138092b6c76b689757ec984dc
+T-F02,M05,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,9782,488d813dc1347aeb8dacd1960ae970f719ae753993803e252fa3cbdb36f7522d
+T-F02,M06,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part1.md,18919,6b620b834d6079784772fe2a8096e1088bb66a424fe333194834a1bfa5576a85
+T-F02,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,8195,ac854f19a8c613714c9cfe6612800e8b3b663e2b8963e28bcacc27f4d64bf4b2
+T-F02,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F02.md,5685,f22940c2c691b65b0eda7831c0b5b2cdee0a768465d4e31e8a6ab28ab8c37e38
+T-F02,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,4703,9be326c3753239023578b07138ce6e517e9a4be8d74d80c95054403339780a93
+T-F02,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,3227,2e29e32a8bb6b5ab62b543d37ecf45626432c0b794945b73023d6ee8af75969e
+T-F03,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F03.md,13468,7f330d1b92bfbbe4802a2ce9d4303498ca0bc69c4ee57bbf727824a46c2865dd
+T-F03,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,3077,33d832f98abbca4de186553a516831f1368f83ca5cb5d70c51633096ca0b9d98
+T-F03,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,6104,580438705b6d741a748d476d98640ba927cab2f9fafdd24e87584d62ff3336d3
+T-F03,M04,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part1.md,16869,4c35ebfe85ece4ea6818744a07c14341a7b539321800c3dc93e80391486fea10
+T-F03,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,6278,5852b3a2ec178d3bd19b5000a52a6c6886a6f7351c16737ed6342fc4a8e4ccbe
+T-F03,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F03.md,6291,7f80df9b632fe62327ea69bd72811eaf81beb8fbe6d143bccd161b5dfdd3a069
+T-F03,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,8585,f65584c78cab02f6b4240a167ce81477c274bc929a2cce312299ed6cd3917ed6
+T-F03,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,9301,75915c8f657e9fe32f54ef73ccc88bdaa0d832a47d9ba7048f15605b3bfd549c
+T-F03,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,7345,42b8f802b55cd30011db4f78a5c042d38427d83eb984fd2aefcc95ca6da3991e
+T-F03,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,5849,d13d169a64ad13d424bac510e62c3b37636e97505d29f71279d127f124b52a50
+T-F04,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F04.md,12554,df546d64c1747107ef77084ae979e047720e8bc4de4fb276571bc9f3d4db816d
+T-F04,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,5545,c3afb434f14a4c464054d844af2970723dcfd8755cb9f234233cbf277a425d0d
+T-F04,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F04.md,7979,3b88e1aadbfb0a0d7512b13e3d887cd1a6e9b15ab068886788565d8a9c74980c
+T-F04,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,8609,428139d75440b5183b5dbb62eae55b952b1cb6c054db6ce39c689794a39b097f
+T-F04,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,8531,bd7efa58d7a4249d8e27ae0c99e3f18c561c28cf18cd64656fb18f2bf0c6d578
+T-F04,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,3351,e42ef02e1de1fefff881280f5795d11a843ed11767314f2a904d987dad44cc5a
+T-F04,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,7451,f76dbd253ca724c7433419afb6f41746341b7f8e1f9e5b85c8cbcf74754ae464
+T-F04,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,6961,3daa3bb911d5676026b3ca9cc8663dfc1cef3a1da0381118a0bcddebf8c82e99
+T-F04,M09,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part2.md,15560,95c26ea383c9a6ebd5e5a485427bb73d83f8575d6d742fc6ae74e8ba34ae5019
+T-F04,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,10852,4687f2e8f9648810426f7e2f3852ed795515e69854059d158ba35c0cb676c926
+T-F05,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,4464,ac94a0379f3b3e93be67c31e8734088b920df35a75f07da190c1cfc62c912e2a
+T-F05,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,5915,56df18d104f0d80a7b2de240421003b3770170735edcb7c75d22ca604d5fd186
+T-F05,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,7826,98eff13b1150c0b3b1cbb9df32a23c1f2e0b3f69315b39ac3edbcdef6bd52203
+T-F05,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,9014,2071abddb6a4e472e2084e984b6439dce19cf951be5b012e33931ed1f13e6e5e
+T-F05,M05,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,10210,f868cbde0703e8fc3ef78a34bacead7989dd4d29fe16299759a13aa188f5af0d
+T-F05,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,8067,55da30e0304184996f66ec0f81d47fb16fd47b17456285f3b0011909c89f84e0
+T-F05,M07,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part2.md,18742,a60af380f54f37bc1b6c16a943b7da691e0347414cfaf9af7ff5f93368f829c8
+T-F05,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F05.md,7578,c5a23757800c1edf7bde7bc06df5f2432586e2f1e51ed66ff7b0a42f581d90c0
+T-F05,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,7969,4478bd506ded362b1f7598c80d2fbdda2fc6d29d207a79144ab1a14e88096a6f
+T-F05,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F05.md,15262,9e6824f67b5480d689e82a222088c35275a002abfa2fb948003dfe6daf741af1
+T-F06,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F06.md,11167,ba8835d6e4d190bd59b123c27b11c1f80ab40ffd105e1a51c97d4f43ee867b82
+T-F06,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,4011,736740da68bc3a3bf1cd73262a89f08a85e0f1eeb2a097589478f9a920608fbd
+T-F06,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,6146,d7ae0306794271c2858b30c22e0d63a201e1a3e66ad2670238cac76408ec8b8b
+T-F06,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F06.md,7696,591e047cd554daf7bc4d5a241eb9fc01ed4d6fe5433987a38889ec0221ce6cd7
+T-F06,M05,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,5665,92ff9fa535b9d056b82eb444657c1543bd0c8b203848a45129522d77fd21b5e0
+T-F06,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,9812,24c10b73e991892fd1cfadbbee19bc0e8315df217222c018b4fc93df269e7174
+T-F06,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,8225,131c696e92e4bb9bdb7561beeafcc777a2444618ecf78601728a9cd37f968454
+T-F06,M08,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part4.md,19442,cb8db4dec1e9cf1dd6f9c5780c1923b4868af6a8a00efae125afba01e8a6d162
+T-F06,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,7810,4ce9762715097bc9706dfae888b2a85df1889c160089ad85f3b219ba37183b43
+T-F06,M10,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,6445,3c0399c1f3ea2dd568b198f9249b55bcaaa8ef52ef6e90a5f57a302e8ceb795d
+T-F07,M01,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,2270,24a0bc30f7fbd81f99f7ee00354a0b64b9fe36c4b8e0a17d0f690d44b0a47079
+T-F07,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,2364,32551ff060f5cb211e807c75fad311ed88d672b182eeeb03e2112d6397ae8e56
+T-F07,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,2630,65396b53083b8cf09bb26d2e063c4164675d638b95a5fb8c1ae851754fa9ad88
+T-F07,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,2256,592752d839e2c90297d785f877cc1c9100ae22b1b69a1d5d58bda238741316cd
+T-F07,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,2110,ba0bf9431700d689f67264e5174b24b5dc9a3fcaf8366ebc6eadf9ac8b46effe
+T-F07,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,2890,5ad484506ad9cf207a69e0649a70286b054f7821d67d2170f2ff9c6fd6a4a455
+T-F07,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,2234,424456801b75957ed97fa140d95406b05a9bab1c1722e8272996678ab2cb9253
+T-F07,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F07.md,2186,de1737b74f6a5be9d0c8ae3e2999335192cccddf4578719e6e5daa8d1c3516ed
+T-F07,M09,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part3.md,9161,a4ed8b8f3f829b43f66ab1ad7763eb090a73570f70211893d94f0544f0cdd8c2
+T-F07,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F07.md,4305,6eb3686357f12b62f2567e4c29a5b25fe0a2c6267ec8f0b2130f07733d8d1aa3
+T-F08,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F08.md,9887,bd30b1b1383edfd6c76785fc1d6606c5b309bc315075d8bdf07d4fb8c5afb9cd
+T-F08,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,8490,31a5363c0e0feb0e5ab10716beb395eaa07422a31de108ecda9e42607aff3bd5
+T-F08,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,2736,f78f52b7c203019080894f8db2dd5d124e0d356b3522b14148a9181d392cc070
+T-F08,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,6070,563dc152ddca7958c9a28429276d555cd974e4ace3d0c558b7af22710f46cdd7
+T-F08,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,6384,de7ce604d0a0354fda2d1da63934955982a589782e85e9bd3e556ee42cae1ca6
+T-F08,M06,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,5676,6ed53c9d9def48f7bbfbc6b714bb4cc4860d6d0629860635c6460b241090a40c
+T-F08,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,6800,c401caca6e2e7dcf735ab01eaa4be92f6441c4f9dbab935f37350370708fd419
+T-F08,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,4418,0956637eec8b09b0394690f503c8d987ad7a169d9652daf0dcca33d1d4191a3d
+T-F08,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F08.md,5039,0a548c03dbcdd3e4ec15ed5ef4064c85fef8b049a438d26255606145d1387af7
+T-F08,M10,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part3.md,10259,8b353578994bd9db6dec5dd13b76b0e09818e6188d3ee2331288c3103ff50002
+T-F09,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/F_法学社科与论文.md,6129,d0b811021d06aa5fc0e41b4b60e863207fcda0ad3e6d6b2d66bdf9e2b0771354
+T-F09,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/F_法学社科与论文.md,3864,cd60b20c91a55f05e68989b230f1d2aa75bb42ffe8f972e36cd908d95f32e2ae
+T-F09,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-F09.md,4466,b1efffd930646f1b805806c36400af7d1b7af8d39e56b5bd3416fe940d5dce25
+T-F09,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/F_法学社科与论文.md,5247,73289487eacf2d6d18cd54d7da5eb2bc599b45f265c8ed1ba9508b3c32435875
+T-F09,M05,space-bunny-free,手动题库/答案/space-bunny-free/F_法学社科与论文_答案_part3.md,11412,3a01a26d3f544fed0f156f33717b4a669fc92787dba0109cdd4d4d5bd731d03a
+T-F09,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/F_法学社科与论文.md,5457,c7d5772a3f9d2e08bc5bbc04d15ecb3dfaaaa56e667aa6c791a04b73ab834959
+T-F09,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/F_法学社科与论文_答案.md,2685,12a40deb8bb83363b0dbc99b57f3c113ecb91aef927997f258e3b23d12ca2336
+T-F09,M08,claude-opus-5-5,手动题库/答案/claude-opus-5-5/F.md,3850,79bf3f73db5388cb7965230784071c50cefd0ee3012b0699fad25b12d18509cb
+T-F09,M09,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-F09.md,10116,a16fce42cd7daa3bafa4123650380c57ab3a6b4e63938140ecea054bc69fd047
+T-F09,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/F_法学社科与论文_答案.md,3465,ab5f81134579ace1c6042a932e3fa2f8e7ac4b309bbde34951af7b753c241d84
+T-G01,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/G_长上下文续航_答案.md,23320,183ae761dc80f403c851baddc80f008d688e14acba0852b3f361142eb15ee97f
+T-G01,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-G01.md,33213,fa113edda7d1fdd5e33f6ff092789eeb27ae244f2e01cadc7d04ffada97cdab1
+T-G01,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/G_长上下文续航.md,57583,4af615d307a61bf9e046ff8a25b9fec7ab4761c4c12941833905abffac146414
+T-G01,M04,space-bunny-free,手动题库/答案/space-bunny-free/G_长上下文续航_答案_part1.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part2.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part3.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part4.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part5.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part6.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part7.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part8.md,129134,1bd55bfe31d455776316e93a37dbaf118c82ebcc6579235c8a965a5aed19da5d
+T-G01,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/G_长上下文续航.md,14525,0328fa7a9b8c9237e181ab6f24c7cd9d7d5e385d330368a0e492fc492b2cb8ea
+T-G01,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/G_长上下文续航.md,69453,fb238ac8a798035df6bdec47e6eb9576b0e545514f62d4fbe9c05c263710cef3
+T-G01,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/G01.md,65921,07631d0929c6ae439ed81d532a83c5149060550f89610b9296b6781f5d6348fe
+T-G01,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-G01.md,43134,01c9d91afd9cd4294345b521aaafaa4893cdc126d19c4d912541b3798be3b7a4
+T-G01,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/G_长上下文续航_答案.md,11046,564998121d8e352028eeebc1887debae8fdf936f182b16c6f3a2aa9b1fc7e574
+T-G01,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/G_长上下文续航.md,39074,f47b257ae55a1dcc16a61417cd6a7f451a159078d9822c169cbf9e87a553fda3
+T-G02,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/G_长上下文续航.md,57593,e7967fe2afde0e2ad68a09a964f233e32e139004177b2df7e91145d8db99fbfc
+T-G02,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-G02.md,22933,bfa3999e2386e20828ec3f9d318c4c6e1e59edc506e25f5581a4a24815961fa6
+T-G02,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-G02.md,54001,39ccc322dcd9faa37176263cb36ea776622d9b07757b09488f7dc0126eb1390f
+T-G02,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/G_长上下文续航.md,15544,ba43fe4a15858e2d21715806bb6e01edab2d0406bd3f01df27a3cceaf9c28313
+T-G02,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/G_长上下文续航_答案.md,2913,71d11538ab92f7963705d9899701ecc5ad3d7607c999ee16b1fc262f9ca0b78d
+T-G02,M06,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/G_长上下文续航_答案.md,62163,da47a5502b66ee1614376adcea6dd8c92ae9b14c78214e202d22e0f54c36b2f7
+T-G02,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/G02.md,31545,7811e89301c3cf7635d50dc0a29d46a069ef6fe060e6328393c65d1c865d43a4
+T-G02,M08,space-bunny-free,手动题库/答案/space-bunny-free/G_长上下文续航_答案_part9.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part10.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part11.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part12.md,68133,7e2ddaacf54cbceab1326b29f861815966c4732d6e2c19562cbfee4c41037097
+T-G02,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/G_长上下文续航.md,23121,e4a2c5d1e6a928b033a50b9a06668ebd54e7e679e71a89a4c68674cc4e9a8c9c
+T-G02,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/G_长上下文续航.md,10999,2b9a92a431feb188284028b79529e91e80381a833931240adf229649bb756c36
+T-G03,M01,LongCat-2.0,手动题库/答案/LongCat-2.0/G_长上下文续航.md,24919,75356123a995fd85290d066476d136019837e3f8b316722e5c14e0288487797d
+T-G03,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/G_长上下文续航.md,7105,7c241894f297659609ff535165c8fa80ae09e809100e2a2f9f54234cc53cf50b
+T-G03,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/G_长上下文续航.md,29821,26de9b315cc278d003a81f78c518f738ad070438767a4f36182fc618db3e771f
+T-G03,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-G03.md,21426,d2a09c5fd99861e5bdb9272e36aca6cdf845ed748de54c20a7a052b78073714f
+T-G03,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/G_长上下文续航.md,13782,cda35658065b865f25b108c5307f705a1a5c2ce241f97f4235b7e675be850c16
+T-G03,M06,space-bunny-free,手动题库/答案/space-bunny-free/G_长上下文续航_答案_part13.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part14.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part15.md,56083,e7c4831185d6aca6831536e73126eafe9b6a045eba5329d545d519cfacff29c7
+T-G03,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/G03.md,25129,8bb3f8006339294c63b6f0d72a8afc3149c2c1c9f9b3ae0d5f7b16331f0953c7
+T-G03,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/G_长上下文续航_答案.md,20867,25c994fffed1fa6d488e34207a88c89c266857765d85b8b5e2e70f7a28885fbf
+T-G03,M09,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-G03.md,25063,212d3571770c594a6c0cbf451402427446f71f35c332c53d0eccfc96510a424c
+T-G03,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/G_长上下文续航_答案.md,6933,8783a28d1b29cd9eeb6b42f429329a4905f2d81928903fabbfb2f55a7aa9f3c1
+T-G04,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/G_长上下文续航_答案.md,3027,428a4b2220c8f5ddf5c5f6273793f2e2e8fc70ef56b6b9f16225be52db6656c5
+T-G04,M02,space-bunny-free,手动题库/答案/space-bunny-free/G_长上下文续航_答案_part16.md,29363,210344d19d17df52923c01e08224f78d847bfc5f2a0affd8fa659325a4782e3e
+T-G04,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/G_长上下文续航.md,3376,6644f40ce83ba3b8a303c0966aecb0a00eb44a713064ef1df27f8b9cb7ddc2e7
+T-G04,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/G_长上下文续航.md,7646,3ea1914a03963772f4d46f047cb49dd75aeca45acb34d5c7e65670f427c349f9
+T-G04,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/G_长上下文续航.md,7599,8ebce24e6162dde5481cfbdea326c04e5f4a7cbf4ff7fd2c498a3bf912309aca
+T-G04,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-G04.md,5572,cfa0f5aab9d47022e67c72a0c66c4093d2f16e4caddee4fe17e6273e8bbdca67
+T-G04,M07,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/G_长上下文续航.md,5655,cc92d8eede8e26aeeb782fa7845f99c271c1ed585c0abc30955ee5c80a95ee46
+T-G04,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-G04.md,9606,cd23ddf91505538b4399627223c7498cefde2518ff4b42545c4ccb235560d7c1
+T-G05,M01,space-bunny-free,手动题库/答案/space-bunny-free/G_长上下文续航_答案_part17.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part18.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part19.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part20.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part21.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part22.md,61875,6f3a216cb0cbd24b1bf028946b8537e1d6c1b758ff09b7d6b99f5e032552118d
+T-G05,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/G_长上下文续航.md,8687,5a6b049d582d74eab6086ca014780e913aaa4d61e56022d0871335f18485c4fa
+T-G05,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-G05.md,13267,361361cbdaef6282fff61cd4b1f2da273c23004c70b80e3bc06aae70d9e24f63
+T-G05,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/G05.md,23436,769141fc69ba51e3f18cc2bced067ea87ff80291297c8bf57f9732301bfceb21
+T-G05,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-G05.md,11558,dce530254e6037d67411f5ef2e828dc2f8cde63dbf16967334226ad36821d55a
+T-G05,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/G_长上下文续航.md,19176,d2521318be9d9a065f988ef72a7243cb050728362ff15528ba9ecc7f3a3f1c5f
+T-G05,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/G_长上下文续航_答案.md,4574,1e757702b4dab7a93b19982d84f9ace96d5f9f48320be9b49dfb77c9b915c23a
+T-G05,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/G_长上下文续航.md,11831,fc9ff10a3fe4b44396788aa4e5078e92ee362f432adf433483e13dfe01ce264e
+T-G05,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/G_长上下文续航.md,3614,e6a37b474bec535f73c813bf7be96ca8a1a1085e408b3676b0c3577b9cec329a
+T-G06,M01,space-bunny-free,手动题库/答案/space-bunny-free/G_长上下文续航_答案_part23.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part24.md;手动题库/答案/space-bunny-free/G_长上下文续航_答案_part25.md,53103,4a0eb80b250a6ce2a2107cab3a0ef34e9bf9fcea4ebd690f4904a03b34073386
+T-G06,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/G_长上下文续航.md,26558,80587cf4ef38311541be500d17c50a06cd83268be37e8ce05699b0707a66f373
+T-G06,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/G_长上下文续航.md,6953,866558c94e39ae75b7031e8b9ceff1e19048d79ae5f1081fc589d0a581bf851b
+T-G06,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/G_长上下文续航.md,9196,b87791c60c80cab4d4901e049709321d7d1cfb0d6f5379fb58b8591a8430370c
+T-G06,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/G06.md,22391,6de71c12a6e45b6c9fd3bbf6318cedbea0f0d19f8ce3dd7f0b81f3ee032060e0
+T-G06,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-G06.md,20673,a40300f9fb47b09c8081caba9874eaab963ce31808ad67b5ab8a8c8453aa61bf
+T-G06,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-G06.md,18989,ab4135aefb9b37f51537ee84790c4f9d6c1183bd569a6a447886f9164a89400c
+T-G06,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/G_长上下文续航.md,13412,2c1f996c6e5e86221d9f6ba31ff793b28ebb0503b8dd9a573e816fad6406d8e1
+T-G06,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/G_长上下文续航_答案.md,8567,5427ed5c74355603e3c689d06a4017747f630ca50d5ec54fb6b086ab53cc714b
+T-H01,M01,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/H_综合与实验.md,6052,5a02f73345881174553152a1fab3640eb61203cef1b911a56170715560e4a927
+T-H01,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/H_综合与实验.md,6287,024c9cf3a73bcf288180d6411e86b43e619a6f8c9ee815b0b3f24f83c50d2285
+T-H01,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-H01.md,7455,f61b851677cb64cae4d2dc1254de94097d46119d441bc72b9725007fd6a2a480
+T-H01,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/H_综合与实验_答案.md,5085,95d7e6ad4e51605ab348e2f845b037f927d12d46a0367b6389b5dfb28c40204f
+T-H01,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/H_综合与实验_答案.md,3053,80cfa9af5b8c930187edc0270d96827cc05663bfb532d8c8f498cf6f8e76b930
+T-H01,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/H.md,5526,e8f7fc74ec21ce14dff5c9c2196125ab353ec82b6b14935a81cf916768deac1b
+T-H01,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/H_综合与实验.md,9298,5c4497d354f9478b7f1249fdd102d9b5096014cfc792c80874179f1d7b8c3b47
+T-H01,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/H_综合与实验.md,4774,b1dec9bd69f8fbd130f7bfed9270c16926d8e80a527fb4c740fc3cdc4838f815
+T-H01,M09,space-bunny-free,手动题库/答案/space-bunny-free/H_综合与实验_答案.md,14210,a2d98a5b2fee05c1a654ef4bc915cfa4fced4f89eabaf7fa5b924adc30f6737c
+T-H01,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-H01.md,4420,7b347783db8ce8e76a294b0722455ceb5656b33503a1d160a83576ef1ca559af
+T-H02,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-H02.md,5270,0cf6fb579b6509451636f2c9f6047e116d17a20c1f0b7fcba8722f50ab7e5b0b
+T-H02,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/H_综合与实验.md,15136,4c8c3f32ee0268560fbd73846fa20790029e79b3d80f9e69d7a2a0585fa56fc0
+T-H02,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/H_综合与实验_答案.md,5233,d045ee008d4bc3896c18a4e2ffa1403b1f5cca6b64e464d17c092e108ce4c01a
+T-H02,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-H02.md,11276,d23a34e6848876b6dc607a2a57d892b2322cae35cd57a7ab7f764d9f0e537b2f
+T-H02,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/H_综合与实验.md,4612,3cf7694164fc55311499f7f3bd31e0eceef320a8cbc67706347861d7fec0b7d5
+T-H02,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/H.md,7475,128201554fb70c63b6917c0c1ff4d03232b49de4137e8dd514119040a3ed72dd
+T-H02,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/H_综合与实验.md,9550,90f03ff3bbabc67095f5928ecc25f0d1faf44044f2ea2a94159a1bcdd62f49ca
+T-H02,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/H_综合与实验_答案.md,3134,c50a8660297c6ab612c9b8338064ac4a4cc68aaa8c5403bb9c43344fda063acd
+T-H02,M09,space-bunny-free,手动题库/答案/space-bunny-free/H_综合与实验_答案.md,22299,96aafd5bb7375374b54c1022b08a8f3e2e10cf6b178c6ec18e8ad901b990108a
+T-H02,M10,LongCat-2.0,手动题库/答案/LongCat-2.0/H_综合与实验.md,16238,f057341f456cb7569a3124efd5ccb40cb6783b74b59fd0225d23c94e8d5b54cf
+T-H03,M01,space-bunny-free,手动题库/答案/space-bunny-free/H_综合与实验_答案.md,15931,0a1dbaa7243170de6e66fa7c74a3964d6ced3b7939c096bd11d6a44ef008b1cb
+T-H03,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/H_综合与实验_答案.md,36634,8c52e8bdfafbf9a650a1163591d582b05525a458d3a9ece98595a05d418b52de
+T-H03,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/H_综合与实验.md,4965,dd764bd6fc223e351f5c3b054f24dedd673bdc3c13321da4c5b453d732ef86b3
+T-H03,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-H03.md,8586,2673da4c49db8f5abf17ac01b9882ef1af447bbebdbacb20a849ebe315508adf
+T-H03,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/H.md,6337,4439163a88a7a3613154c91926acebd7d724fc6f2d312587a3e4b7ca4cb0ffdd
+T-H03,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/H_综合与实验.md,8348,e616823ae56bf914aa993d9c4c982b8f56745cdc482cdec02a227e22a62ed69b
+T-H03,M07,LongCat-2.0,手动题库/答案/LongCat-2.0/H_综合与实验.md,11309,e0e2131d201f438b43fc2e084e381e8d03e11aba40046b593df2e9d84f9265de
+T-H03,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-H03.md,4403,bcb0fb1433f43f89d52976fdfa5535e8eed2058299145825fc19dbaefb1e7f74
+T-H03,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/H_综合与实验_答案.md,4850,55b8f758f49def0422d9f68084ea078b37b46383870fdccd19f6560f44e08fae
+T-H03,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/H_综合与实验.md,5597,a2783d8b498795f9a4ee0c3893039ab20b8336c024c0d085cc990c32f924f9a2
+T-H04,M01,space-bunny-free,手动题库/答案/space-bunny-free/H_综合与实验_答案.md,16424,7a94711869fb1046c7a650ee0bf186c29eb7f08030d0aad26b9ce6f33d99073a
+T-H04,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/H_综合与实验.md,4026,0b4e7253f9bf693c6fc87e901c2852a1b20756342c412d049bc5d3fd98ca1cb4
+T-H04,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/H_综合与实验.md,4629,d7ecf808d6a9b292e53859e9ee12763cf3005e93b4d575ff3c9d77a78d5a3ff4
+T-H04,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/H_综合与实验_答案.md,3497,92915a8ef1eb303469866468c52de6e0649dcc9bc5068b119996444d33d75286
+T-H04,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-H04.md,2668,72179b51925e0edb4d76ffbe5074a97909b0b06fd6a16f911c294b00cd898e94
+T-H04,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/H.md,7373,4db32adbfd79255180d2e283cbf620abe96d4b7a3b99a4454f1c42426d9d391a
+T-H04,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-H04.md,5722,68bc2dafdb4527813ef68d3dcd1be493248da7905f213b8d6b1715c79b573a16
+T-H04,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/H_综合与实验_答案.md,2757,7fe18e2d34c555e829d2fb7a4cd983ba1aa1969950f1953da5115216fa028ce0
+T-H04,M09,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/H_综合与实验.md,10434,c33eebab1b40293e0571e8c514833493526b4959cf3c032018d62c756d99d006
+T-H04,M10,LongCat-2.0,手动题库/答案/LongCat-2.0/H_综合与实验.md,5009,05e43ef28aee0bb224f5d5d756cb6aad5b081beb21121a387f859deb3f091ed0
+T-H05,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/H_综合与实验.md,782,37c41b332b1e9c6b388e7466ef043ce9e0876aae9c0f8476b58f1f0896141f13
+T-H05,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/H.md,764,3f4201d42368da9e441f9491ce4da5453773ad717788d46f83e1ab1b5a727f00
+T-H05,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/H_综合与实验_答案.md,533,90e436f01b0bd555b56b663961130b3425a321d8fc5ff31ef433c64050053a14
+T-H05,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/H_综合与实验.md,1211,17a3c61e77d2328f45a29ccda3c5b9a3df8dc7b021cb50a3e4ad27e2736a4229
+T-H05,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/H_综合与实验_答案.md,603,ddd909cd772c0ec0f5246472acf988bfc8adc7ebf8ceb33f51c24cb4fd05383f
+T-H05,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/H_综合与实验.md,440,47628ca8caf18940ee5a67636c42122e63e47636dd37cfa649974b9da52095d3
+T-H05,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-H05.md,719,bfbffd4f1ac0b17741554af4ca1eab4ef1e98b38027346f9133489748c7b25ba
+T-H05,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-H05.md,1319,ebedee38eded62b641dad5fdd7741c57faf63db8cc8d7b19aad3b0d00efadc81
+T-H05,M09,space-bunny-free,手动题库/答案/space-bunny-free/H_综合与实验_答案.md,2775,048a9ab9df33b40740542fb84efb7ec6bd589e6edf17e493c80f850abe089b74
+T-H05,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/H_综合与实验.md,712,a09eb6d572e8ed1b9f3d3dd337cc0c0924d9c65933bc2ecc719d4dae60a98b3f
+T-H06,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/H.md,4058,f3af63aabc6028c7de31dc413780ea75c1a27a10ef63010e74d561aa862bce63
+T-H06,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/H_综合与实验.md,4698,7c8c6687200aa397975af4cb05efe5190f808076a722b8689d380c5a158a29d0
+T-H06,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/H_综合与实验_答案.md,3413,614066e5de88ede73f1e0338250d610f0c7ba3ffcc60807bbd09b3653542e5b9
+T-H06,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/H_综合与实验.md,3322,af70a653d39510cbaba06e4a77a2d6b274d55f77b18de02eb4109df8bdbfdc46
+T-H06,M05,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/H_综合与实验_答案.md,2844,69b80ae0f162c8e084608e3f7b8a4a3f24832d53583ae21990307bd4a19a1593
+T-H06,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/H_综合与实验.md,5584,f75f047d616dc845d2e3e10ff8980fc4e7d14d77b534159332ec24f2fa3ec259
+T-H06,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/H_综合与实验.md,3642,88ba77cb05ab69004e1d877146172a021eaa978f6bbeca7d4d5b3bd590d80d44
+T-H06,M08,space-bunny-free,手动题库/答案/space-bunny-free/H_综合与实验_答案.md,11846,2c7e548a7e64d8b5c6b202d1a038068398dfe004f22dad3e03ab8fbae814758f
+T-H06,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-H06.md,4060,14ee87204e7cfba1945a984aa013cff6fe81a1bea4b90cbf75705d0ba274cc12
+T-H06,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-H06.md,5824,c8c03d2f935b4d270f9374006db15ab8799529c9cf05257aac578ea68704b3fe
+T-H07,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-H07.md,13132,56b0e054fd9ab9cc9ea5f3db2c14d6b6fbbec07d031464cda11a565308087d5c
+T-H07,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/H_综合与实验.md,11418,7c3f4cad27852f3ce46da89f86af3e3d4b6f5458b11d5b76e8416a878e6ee36e
+T-H07,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/H_综合与实验_答案.md,2043,4f322d9392c2c670c2c9a3e9d7816e027890f2d8d66d5e3007f43a0f24858dc3
+T-H07,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/H_综合与实验.md,5095,bc9e10708c2dd53c00288c3b4197fc318ca7ca121c222ce0f240fa4eceebe477
+T-H07,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/H_综合与实验.md,4640,9421205c7ccf62fbdb40c91f39c193c403d9b3f90eb4b79b8ae746e8f43095c0
+T-H07,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-H07.md,3199,4a6bbd305f5b07f659d5d22184f40aa9f6645983fece16eb45b4284b13c09c1a
+T-H07,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/H_综合与实验_答案.md,2493,cce3c8396d81a16622d46eb1f01cd7b853089d698cd43b36e2a61e834d496fe8
+T-H07,M08,space-bunny-free,手动题库/答案/space-bunny-free/H_综合与实验_答案.md,6908,d59164792a88f5c53a0ea26d72126eabed50305c20233feecbf9404da2c548d2
+T-H07,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/H.md,5827,6035b2a876f05472257aaed9fc071e5a53905e26cba526a658010ed6a828bb5b
+T-H07,M10,LongCat-2.0,手动题库/答案/LongCat-2.0/H_综合与实验.md,5532,f82e773d44c829d47a815e24c250e960a06e7e0edb203b8bf6bbe4d1d8322761
+T-I01,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I1.md,9340,3073730321051c6a992998f2f8040578d5130c3faa8d625e23b57f7298f5d1f2
+T-I01,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,3003,17c2fe5677a50dca52e7475514d208e2ca20d859435b986719f00c17dd525e7a
+T-I01,M03,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,6558,436e18cc3d17fc728d81da3100d6573459895d39c3da1bfe5b769906038d0614
+T-I01,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,6845,ebb6ad6911e48bfa1c2e0e7b12c7ac8ba03405b16e4c7143a909fbeb915f0045
+T-I01,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I01.md,13141,738b6c77562abdbc8fb04f693320a105cf853d82c362f47b560320197c6b4da2
+T-I01,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,14341,aa09915b94e3144f24710107d40fdb4eadaade62fdc1317087c48c3da93d6b48
+T-I01,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I01.md,3072,dbd432e6a1fa9a00b9d0b95f81594bb275f8c4db8bc3840aba32b9a7cb2378fa
+T-I01,M08,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,3980,66312acf5fe506fafd5dd363030c8cb202e4bb14978ba1e32c6d524ba79173f3
+T-I01,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,5887,96c9235bf3e8fb5cb3e080350fdad99fee62c62524633b1648d520561a997768
+T-I01,M10,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part1.md,30172,0f6afb70b51e1a991723997af57bc3831cf146711c161779044df5f0b5bb8c52
+T-I02,M01,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,6621,506e009e0deaa3907a461e0e68a18ab38c5f4cb36ffe4f0412e526f3364a5446
+T-I02,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,4434,d29444010b6ba48590cb60e860a948b43929134d565216b42942e23ba1f96d16
+T-I02,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,2531,a5b0ecd8b6a007e92e7ac032f8c5435093ab6f4ccfdd2efe6a0fb5bd6f99deda
+T-I02,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I02.md,3518,7f46199db5a5111d8b5a2678ff1511313727a66317b2cb2a4ab18d857ea97afd
+T-I02,M05,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part1.md,30522,2035acc02b972abd2ebef2d16c7b1f555772e763681bfddf0007b75fcbcddf8b
+T-I02,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,3661,9df38d3ef1a4ecdd8b28e4efab56047994810f73636bfa38b65953df87b21c3d
+T-I02,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,12668,3283c2db54156a9c7a63c1170267a04875d243ff96e6e3fe2112636624703ee6
+T-I02,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I02.md,12067,8178f2467d9f72d4e87f1df578246bcf0f23d151e70414510af3e0054842536d
+T-I02,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I1.md,8585,04ba2085961fe7144f0550516ffe68e7bcf4e26b8a25f33724e5f5b8eea278d4
+T-I02,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,5677,aea7d49da65d048609d2381b0112629a195996d83efec27f726252aa8e45ebbb
+T-I03,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,4779,cd10624a50b0b1a574ce35a96c749897c57dc8ab5ab7a37f02a9f1b13f82605f
+T-I03,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I1.md,6679,ca81ce7c89f3acd3c09862d5d403a9bd8fca6d71ca428ab8de459d53a5f46d66
+T-I03,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,6035,e706cb3167b85c758b5467811c55012adbab69b53d5329ed0d7347223334d9be
+T-I03,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I03.md,5168,fb51c9ad04a8f2d971c10b90cc5e426fd2eb81ea66de5ac7c86e671f2ee10c38
+T-I03,M05,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I03.md,7320,5132e656fda40ab0ef777389127caa894bfb6a0d4b86baa9c824915278eb340b
+T-I03,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,4443,105dedd41e39a416490d76f8dec5bf6d16f4be79c8c8982f93b48525809e25df
+T-I03,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,5663,0c88f1fbe8d50761ff15373a5121352e628c9ef43dcdbfc3e648a48488e30105
+T-I03,M08,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,6944,dcee2a8610fdab0887804a20eb78cd820d2b4c6c698497681a9f8e10f34b4b51
+T-I03,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,3269,94d5fefc2551d4e24776da427341361fdfbaa0138f4876501260de6b9d059393
+T-I03,M10,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part1.md,11890,dc7a3c16915c3fd19faa5e61e80607a0442b26f6148035e4c7b2f817afda21e3
+T-I04,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,3224,e42bf07b799473f2e30a5227a9d7503be8f6620b34a83a625ae215dfffaa17d1
+T-I04,M02,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part1.md,7248,608b6abdba69146d32800a1488591622f543062e7bb5b2a9af5f519c51b324fc
+T-I04,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,3332,02d123275b9632c2ecd6cb6151e798853dcc009505af9b73897b4311ef37e64e
+T-I04,M04,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,3866,c7be89159da0b00d94d7403e8a43c6a83981c19edd331947f701ed82c0e7e263
+T-I04,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I04.md,2459,76875b0cfcfd0c8faaa52ea778fbb881879ac386cedd0203d92682ca6fe99cd2
+T-I04,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I04.md,4256,1cdf9bbda55923824dfdf60920935ce138a908387641cb6a3f46c55df99a770c
+T-I04,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,2268,acf6df1658776ff07521222641b3688bfe3819488f7be377cd5dcdcf3662e36a
+T-I04,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,3169,a01a865d5ce7931a14e984ad9a0847f0e4ae31973075569119f52de9427f3f16
+T-I04,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I1.md,3502,a0f65e9fa6234aca42e99d36cf78796a186941e8d31d0a2500140c7e012058de
+T-I04,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,2515,e28d4203b572e6b2b30a990d7662c4fe64ce5dcf14e1d5e1ca437ec797cc2122
+T-I05,M01,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part2.md,13011,8cadebee271cbef5c319abd754b03bb3a374b4e0b24ec570841aa7451023b747
+T-I05,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I05.md,5649,56a28dd0a93f1f9a9ac86d478842070ee5f8736bec11abdd8f2d57e762b3f6e0
+T-I05,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,1998,a3da41aba8f3e076bfe14d92f2966678e5e27bd7dee7aed662dc0ecb1aa8a6b0
+T-I05,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,2563,d15794886acdc771aa1f25c7b26efd65a46fafa464d03359e2c64d597246ea5a
+T-I05,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,3891,edb11e77affd1717777242c0463c32995d09f89a759cd618d1aff19ef6842bb4
+T-I05,M06,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,3870,686f7b619411c31715ed022fb5841827d22164418e0641313e61b8dfdaaef688
+T-I05,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,6720,9cd3478bce4cc8a97b1aa48810be5343e969b820da76ce57ee46be6f6d59d3e2
+T-I05,M08,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I1.md,4236,5cdc77774e814bc4509ea0c062e733fb404c656ae753a09a5bf10c1d09f9c976
+T-I05,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I05.md,3336,d3b92375667541dcdadec278e16e6518e2fb312a0bbc4183a9b614bcc90e1f21
+T-I05,M10,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,5040,7d1b3380480d8057aae840728b535ec937360fb8652757eb28077c50e0ffdae1
+T-I06,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I2.md,2838,cd7ce23ec719a05e7ff0d10925057d8e3318070218f768899dd88e5cc6b47604
+T-I06,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I06.md,2733,a327ee4a42f120a82bb7b79d7cc9951ab88c5e6abe1c7f7cdb25f5353d12dec3
+T-I06,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,3714,18b4317cd448dba0a00d8395bcd3333a7bd2d2ae377a411cd68aeb1c32044fbf
+T-I06,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,2222,a844e2c4638d24c4a37246a0a8f6eb4a59fd3aa353fb7761df211c14bdd1c175
+T-I06,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,2924,81652b3c6265f2d397203131591db2dbe6c9544ba3e203c68bcff2e21d88dfb4
+T-I06,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,1977,c18f2dd5a84c84137eaa860fce538f978b79df0926da769be7dae97ee9d9d9e1
+T-I06,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I06.md,3991,df9529de3505ceba3a2bde1fb0cee3de47b615dc2bff3361ffcc6767ca7bf991
+T-I06,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,3064,a4b2068007376966527d2d7cb851ac5f6f508064846fc4f87b93df25667d8b9e
+T-I06,M09,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part2.md,9161,b0252a60abc9aaa569460479b74413b4328332934a74fa43bd8246a9b7d9bfd4
+T-I06,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,1997,c48335fab1f8f4a297dca4c570f96ec2eda910206defec0b2d66a45c0efcf247
+T-I07,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I2.md,4230,3c74b0eb1c689d273ec1b359fffc50b03c78db68df334db110b48ee2748d90d2
+T-I07,M02,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,1743,6c1f29683718faa5bdc43a2fc706b19004b70eab2bf099cc7b42e683e1295c56
+T-I07,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I07.md,4657,ecc5cac6d464c34f6b1a6c0d086e55261dbfbd664b3a11cf847c039ddb235e9d
+T-I07,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,4775,643de20f1ff95cf3a508410d398778bf4465f9592bd1367d768ed78e217de65c
+T-I07,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,3871,0f45e9c6b6a2585b00ec1856999b48c8967d06cc9f917fc4cc852540b620a664
+T-I07,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,5221,a4a94e213d01a4510b8dd9f4f08c102939c093251aa668dcb9c2f08da134f01e
+T-I07,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,3943,35ff6b933204db898a6047bbc672f1645105689f63f929eeaf0f592527d2df1f
+T-I07,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I07.md,2944,9dfb9f0e4649bbefd1ac3b33e48a97214a5c351a1688b1d27ab14e6887b12f95
+T-I07,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,3033,92ba0c282d71f9279a9e19eddc40d62c7faa40bcd2e66281ef474cc414f04472
+T-I08,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,4622,2ff9476d1f55ea21ee0cecc12fd2a3a88ec605bca6cd9b5f131ec8f7cced4bd2
+T-I08,M02,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,4063,1470a22d00763447e7a3dae061cae3e39973176aa4635a67ee366a3fae3508c9
+T-I08,M03,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I2.md,4322,ab78c70a172d7c5160f413337a568902018b74bde23b45eb0cb8b81ae0cb5e3f
+T-I08,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,2649,497210aeeae852408cabf3f36450130291c4d9640288457793d7f1e31d586ca0
+T-I08,M05,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I08.md,3532,59c9faa79329c952294afd97c781874db0d8359cce9481ebc77be77bb8e6f2cd
+T-I08,M06,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,2171,a86ef5f5ca900be45fa9e6741bd95f87aca7e3c5104721d8757b86f6c155e9b7
+T-I08,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I08.md,3878,04e5f49eb218649e4e7c1643045a12dbce09cc763ab1f8a49d0cdf3070e52b3f
+T-I08,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,5726,4088caa87b50d9bf6bf3129d7a425c8841961b8f13ee7a6fd48d35d79acc395e
+T-I08,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,2153,1b0f82b8d30e6ea7e687cf65485c4758a0ca31942c885f1dd957d2cebf26d998
+T-I08,M10,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part3.md,8585,d41a49402b61f10088334b401851e603b54b33bf21ad92a4578dcdf09ea06ba6
+T-I09,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I2.md,4173,48f6d5e2bab930be5b0cf11b8d1caed02878ecb71dc588f2d6ca5d9d0238fb26
+T-I09,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I09.md,4902,08bf0b760aef943a8f146225c10891e6014071e2fa7c51ea956355278cb0647a
+T-I09,M03,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part3.md,13253,3c9ebacdc5cbbc96611c5751294fe255005cd023ec5882bb92838ad6190f2ce9
+T-I09,M04,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I09.md,2459,81eb7b3192ccfd208d31de72cae9ceb963a848528a1eb556d3765e78357059ae
+T-I09,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,2160,c3a0f007ad9ce58b2ed23ab08ddbc60926880bd2935ee1f9c53499a43f9ab8ac
+T-I09,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,3187,c35322166b99f71c9d7979b9bad62b33ad9a39469d3388e866c0a5e884fe9d15
+T-I09,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,3483,56ce330d49958e4a01862c2af1af8760f242a48f5f95fd5a8f05ea22bdd86e65
+T-I09,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,4026,fa55d70766c4b6f18925c71d03312ffc22cc682524baac7abc2ca376804e132d
+T-I09,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,2311,5040c5e2644e05c9cb558566c542d5f79910befa2c00a2432e567332d58f4cdb
+T-I09,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,2986,f0dfd3480dcd9d8a8ada9f555a5ffb305e5585f46d254cffcddfff0bf8428fc4
+T-I10,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/I2.md,6871,46e3d99e4c2fd8bd88b38b789fb8aaaf5101e8826e59978b0dc2e0bdae915e29
+T-I10,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/I_去AI味与无病呻吟_答案.md,5590,c53d7a277f7128aeb2c762ee24d7abe7325acbd9aea6991bf0d7867cbb383f50
+T-I10,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/I_去AI味与无病呻吟.md,7657,fa0a2ff462b3fc93e6d473c32c8b508233e0db83f812db6ab666221357fae079
+T-I10,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/I_去AI味与无病呻吟_答案.md,2895,79f91a6215b9b74d20f5f2d60eb3e1f822b3df8b8a44a21f1542e3d3a6c7076d
+T-I10,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/I_去AI味与无病呻吟.md,4977,b4aa9d7e96bc458021c4589abe0d700f692a78e3a16e1f27c8bc23dfd2992e27
+T-I10,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-I10.md,7574,01d2cccb26eb358f4e2edfba7dcf2bdb74c1c101ad9c122e220b71783c335a6a
+T-I10,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/I_去AI味与无病呻吟.md,8236,6ff5137c1c88a395a6ce640913d86e723c65694ad7aae091c9acbe181d62d488
+T-I10,M08,space-bunny-free,手动题库/答案/space-bunny-free/I_去AI味与无病呻吟_答案_part3.md,17446,ca988f005309c4d772c4e2dde5e62ef65bfdccb338d2cbd6a82e600b970bb997
+T-I10,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/I_去AI味与无病呻吟.md,3594,37c34493bcf381a6a07b0b5aa117b4ffb8c2bb2ed9d60558922b9bd391d2c73e
+T-I10,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-I10.md,3134,50b18000802ca7ebac755d13883c276dfa753cef7daa2b27a1617ea5c8114482
+T-J01,M01,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J1.md,19101,3eb60599d56428c14105c65b61f1039c8e68f79201519290c1dceafde0a6ac0d
+T-J01,M02,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,5784,562e73286158039776d12bdb0ef2c41f786186efe060a80e7f14f7d8b978a57f
+T-J01,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J01.md,17174,7ead76ebc6cfd8b3d478ca5ea3cc8484bbb4d6585c0586c70fe97a8284d3f923
+T-J01,M04,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,7639,1f33757d49751ef8bff86869ed52b3327377d0894862d08eddffdf61ea108593
+T-J01,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,12209,121b24d9586999238a4ca2622a2d1eac1e6bdd5b6db2c7b6d97294a7bc713648
+T-J01,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J01.md,20604,4e5d0ee499103c51050cd54bf198bf0aca890d4ab5b3315693081fa0e4cdcc9f
+T-J01,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,21666,4e0b8812bfedfd29a608da48e63ff45c4ec42e3d861a054d797311a0e6398f1c
+T-J01,M08,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,3725,1baeee0bbdd0138850f526101c84e20c82a078cff8db2aa8fc6872d043d193fb
+T-J01,M09,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part1.md;手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part2.md,24785,7732bc8d562dcacb54ee58ca02a5eb46de034367106c166f7e6d482dfba6493c
+T-J01,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,15540,537b3ef316b8b15f8fd04d3be02acbff23cb5b0b760a8d5d6f48a446ac00d26c
+T-J02,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,12606,7a6bf6a0293fd3ba6555ebfeff152123a9bbe73f7c3f771f304b421427d9bc75
+T-J02,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,10678,7952574554a91c12eb14ac9db02c0fde95f9fc88f7a0323f4cdc1263324fef6c
+T-J02,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,4975,3ac011200e08cad64dba1b5c4791570535684600b0c3d67747480c166256b6d3
+T-J02,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,7599,1096f876ebe7c400b4fdc495f57228808662619392bbd50ec6cd3c5ae9a5a04c
+T-J02,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J1.md,11996,77ec708cbe12c187bc93fdc81ccdcca6254456e7e465ce5c589713388b76f87e
+T-J02,M06,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,8315,faf1cbc43fd75ff9bae185867018bd5c18dbd31614bd09f4deaadb83349a27ec
+T-J02,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J02.md,12698,d13278b10020b4ec95c4dbe02a324bfb57866930df55496f1e38b8c41c731b29
+T-J02,M08,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J02.md,13330,79a69681eddea7a5085c096204422343a43f31c3a6f3746978d104b186a5b7a3
+T-J02,M09,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part3.md;手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part4.md,14617,d490cd96ef9a4ac0581b6deb13718cbac672fb99e15eb6e84f002e157345b3e7
+T-J02,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,7620,547625132116d3334bf373e12cd1a957512eff1a91eb3893d519bb2dc441989d
+T-J03,M01,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,23047,83f6a44c5a0c17fce0db162c5c97c078e685fb571eb0746ffca9e6fc7661b0cd
+T-J03,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,10865,ed2ae61d11690c8c8b900d69d6061a0246e943ac28a7b8e307fe61d10e0ae44b
+T-J03,M03,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part5.md;手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part6.md,21825,14b1fc1f0533d4910a11540364631cdd2bcf31004a36dfd7c065495553ac6d6d
+T-J03,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J03.md,20737,a3a2507649793ab88546ee557d4e679aff2625018d2cc5bec340d800e086aa52
+T-J03,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,10499,274847b266b092024dfd31afeecee3ecc33d13dfb4967dbba0857181560ffd9e
+T-J03,M06,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,9262,baf3484001aa36062dff978aa029f02c6f87e4cd5e78c106a19e5dfd1769b465
+T-J03,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,7620,3441accf45f0290d81269c7fcc703bfcdfb2b402f14043b43bc836368edf1363
+T-J03,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J03.md,25876,78abedca1dc9fc6696b20749a023364c6f83612e485fcb8d2b43eb5c3de788bb
+T-J03,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J1.md,21299,a905cb00e274f40a671164b07d39e39d0c4e02c3806be47a97a992a097ed1141
+T-J03,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,3533,0271410289ed989ba2b8ab64a763bbd8d376a747b0603a5ff8bdc041126a9d39
+T-J04,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J04.md,19232,5ee033766605341add05e170a64ffc2e6cebef289ae187256fd2add6a987d459
+T-J04,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J04.md,19814,39dedf97d1f9ea8dfe3dab8026be4638ffaaa65f648612f2f923109c90a845ec
+T-J04,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,27604,a8bef95f6606382e94bedd5da431d248a6c7bfd0196844ecd633a2ce4186e033
+T-J04,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,11928,41b49900619af0badb137b268a37d8d2ad6f6d80f83258e01e48d1af77a2b063
+T-J04,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,14157,96105b0bf977b227da2db2e155a84967945c4a71dd910f97e96222854deab61f
+T-J04,M06,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,12965,e1e5b68bade1bce8f351e3b995e2ed75e8e950e30c13df4c2aed8635f110fb7c
+T-J04,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,11080,7731f8ee708c47fa09aed750289f17afc92be2a8b3b3d8af3da99f85a8a3035b
+T-J04,M08,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part7.md;手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part8.md,28143,d00bfadd7258110f1875b388000d8ea918cb48b67c8c5615aad2173d6458e605
+T-J04,M09,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,5352,dc32991f2eab1debd9296ad2a78d2496916f91df6e0b871b2fd1b8f3d9ac809c
+T-J04,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J2.md,25561,273c8eb276f9e03cd8bde7e98434969c1d347390b0ebc93772a997ad1e44e249
+T-J05,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,10473,61edd4dc46637471d037215b4d4dd590cba014106b1aa5156a97be3ff9ce9075
+T-J05,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J2.md,16188,85c386c99e2625a53c224e5a0c32293449c0e4f4844bb3cb6c0c264314105dad
+T-J05,M03,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part9.md;手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part10.md,24859,4b0a54764f9e5c939039e3c378741dfa53cedd7612596f9b58cef1d778a7bcb8
+T-J05,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,3483,9db11c840ab7ce695b54c9894f007799ad0a38e1a1a85f810f07ba9398e9b16f
+T-J05,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,9437,d011a07b6d281e61951b496e67dedb5ada6bb2a4d7ddcd6d84357731da5f55c7
+T-J05,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J05.md,15453,1ef92396f964fae91313b53a2748014d56a0001fdc102ad2c44e9496b750bb1d
+T-J05,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,23335,677a6fa7fb214539822d7a84dfd8c4e6d3356584d92ac4cd3986be8b5c98deb7
+T-J05,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,13652,a3c046a35be75787cd6b67e15e7ec4fadd8e07dd3974862570fe97d914154762
+T-J05,M09,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J05.md,15647,e2ddcd39ad458c252eb9a542d15f857b39bfcb5c5f0b21756fac0121f9e842f9
+T-J05,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,13077,eaf0aeed1c1def5173b90fb876de1cf4d75e1cca0410e5591ce807a0e6e41eee
+T-J06,M01,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part11.md;手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part12.md,20065,a1265edf92b672890f6f5266e52fb692bbfa67a5e77805ba38393665aaeac670
+T-J06,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,8916,a6e6e2545aa423e41236aa74e361eb999fa9f85c5d145ac5dd8948ca179698ef
+T-J06,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J06.md,13544,ba7837b99332b1ec90c49c06102576d23ef365a45b04918f23fe50fba55540ef
+T-J06,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J2.md,15021,740b3ca8d6624b4cabe90fbc55b02e987524eb8c93f476e6dafac4e91adea6b4
+T-J06,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,7782,ec293ede62b2462bc7a73e7d5a1977476c491429046a945e4c51724dde288a86
+T-J06,M06,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,6835,6f7308274b005fb9b7c0946f70f3fca28a373aa9e92535aaf179f6a3a8f6d0f1
+T-J06,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,3748,68168a177b53bd22008791d781f71587c972dab497f284bb13ad11c9cee497a9
+T-J06,M08,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J06.md,9612,5b74a845a8608f68ec9c3021719a39c2d6d956e7e8a151251c98ea8918280d63
+T-J06,M09,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,17294,bbab70ca0b98a4018fd8cf47c9528eb25c1d6736e19d0397d18cbbfe95f3ab1a
+T-J06,M10,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,10554,2c5276a3315ff92910a54524a955cb27625ce43aca6a4185398e669d3d3148d9
+T-J07,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J07.md,8570,842f686f0f4101d3e9ee15a9804c0e7b4110829b2dd834d1a70472638d82e457
+T-J07,M02,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part13.md,18542,d30e1dc0d558ae94f184753315e9d5cb280ec1e71a7c8d14dcfef52f558b7010
+T-J07,M03,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,5582,934af5286ef6cebd5789dae02987868fcc59d4ca1228ff084e962f914433d112
+T-J07,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,6823,f8d1581046ab106a676ac6db58dbd88dba5ecfe222214201f4b123cdd3cd178e
+T-J07,M05,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,5699,0202a5163cec4c952074b26481337c6a98c220a7cfd5d7aba3106361fbc97639
+T-J07,M06,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J07.md,11327,89b5d28d0dcedd10e83c60b277ce8efd4b333bea37da08a66d67c2412f4f5ef1
+T-J07,M07,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,10500,0ebb73a6988d7ef8d77842f47fdaa3738c665e77d3195fc04f04bd027b0a53e1
+T-J07,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,6488,7e95b95c211de22b09b9f9e6cee2a69cce8e58207329ae80a69990dfa4876d89
+T-J07,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J3.md,10635,b685efda96549b5c087ad114345e943731ee466185b69426d53039b5aaf3ab75
+T-J07,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,5377,58beb742e6b22c54a74488dbaa989731c13efafed477b2b468b22082f11f05bc
+T-J08,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,2773,abb6f4d7d2e71d87a8b8d7b3bc2a3658222a9c5c6929ebffe930df5396729f9c
+T-J08,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J08.md,8184,4f0bce75f7336b4ddc1acba7cd262428056155d623f26717ea16414726bae42c
+T-J08,M03,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part14.md,13508,f6b9b63f61a1838afed35fab5ca61033651e69a42cb5a4343c06cb5e9c7e52e3
+T-J08,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,4079,6f198339d7b50bbf97664c39ebda3c02971f117e765acab544ef7b8343e3dfed
+T-J08,M05,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,2265,4688155208cba067d0e98b6c7dfa55ce5a5c7084740c18918d6749ecbd22902e
+T-J08,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J3.md,6019,f014080771044fbc8327e43b5d4fe3894c46580098e99f482d815e8e105eb984
+T-J08,M07,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,2110,f9ccaee74c4eac63752170a6d45e0f6ea212f84be509a39d161f5695143ac500
+T-J08,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,2661,9526005acdf25642322a0be85dadbfb81abc17c4b2608786d956164373a0d1c1
+T-J08,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,2949,2aa7b4b73abc59802afe1385189d91afc3863d32f33246f1b0186a1407a7847a
+T-J08,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J08.md,3700,658850ab09c8ef0af52d4e9a34bcc95621f761c23e2da6dcec81f7b416d98f49
+T-J09,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J09.md,8870,03eb68caff8d69322de52c27f1c1250269d5697d6aa1934d65336a2104dd29a5
+T-J09,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J09.md,4751,e3b6fab6317384da9cb2ec31f180e5b98681399478504ef8a56e99f4fad42e46
+T-J09,M03,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,6918,8ff4c68aaad324e7d778ae94fbf77973384d6bc876cbd046aecf1f91de7133c8
+T-J09,M04,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part15.md,16431,f20858a2d6435c0c2fc0806ba791ff8f7a54a94bdff7e43ce8998c9d09c7db74
+T-J09,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,2875,19d25ac91dcacd6857827bab39c460aadd9b68f281ccbc6d17a40c6ff920e9a0
+T-J09,M06,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,5104,a15edd8e74a83c7eb092eb99d09896f4a60a59f4df0a4674c4d0f1b43e4fa388
+T-J09,M07,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,3383,511ccf4aaebf0097d5046f854e3b2feae94d859ddabde0f46608d29afbd0a966
+T-J09,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,3980,7402437fd8b0c1e80c11f4e4e5c1b91aa2c964ef9403723bdbfb9577da15b6fa
+T-J09,M09,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,3677,7506be294b526f313aa1b44d21b6284a252e44391c76446d4489ad27f9b6d9d2
+T-J09,M10,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J3.md,6854,fe53c67060bdbff2b03686209312e0d5b5ed1454fd6e7dceff387ef0229921c9
+T-J10,M01,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part16.md,13124,4a6c6aac3ed4acffdea6dc181412dac66ec7530fbffa4c57b81e5322471ccf73
+T-J10,M02,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J3.md,4562,90c97799d551385d77c177bac7b09bc9067fced1d8fb5545afc9fbcafa969ef3
+T-J10,M03,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J10.md,8026,d0c9b5531a9319db4d4d2f260f5446e862300013126d9c5c7a5cb5d56f3489b3
+T-J10,M04,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,4783,cb43ab4f8da3729bd591bc585827d784cbe382499967dd069f23910a3496aba1
+T-J10,M05,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,3456,09f446b2ecd1d4c10146e8b57bbff6e3a30a7472fc412115857f8d944d8d164b
+T-J10,M06,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J10.md,4519,84d47dc3e54bd3c9c3b1ae40c6b4e73b3a4c3fd3c4fa57eff78055d20377486b
+T-J10,M07,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,4261,93e201bec3c824de21d65a5fb260b4d5eebcc43a6563d9a36d100c76dd7131e6
+T-J10,M08,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,8846,ad4d838060d9a47dd621d459a174373eea862e6deeb13a322483029274815ec3
+T-J10,M09,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,4074,fdf9e92cf9760c9b2931d3cefbc534f47d03e3cf1d07ce2a2571502c57ff63cc
+T-J10,M10,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,2724,e23ba0dd836a089b6ca6d5d3d151f7ed58831da7f7faf48d26ce0dfad22ef471
+T-J11,M01,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,1623,8d125387b5185b9e7c560f5ba6007246e7c6cf611046e87ffb6ace2086e2b185
+T-J11,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,5360,6bdb602e725ee2a30b2c27d7c49a31bf6a956230f827020fc3b3b6626be8e2d9
+T-J11,M03,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part17.md,6834,418dde4148430fe4e866da549559d7eb0419ae60389a96abe36a96f48a63f763
+T-J11,M04,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J11.md,4638,dd36a47df06df66e35144817a38d17c06904f894d6662cd4b52e77048f4257c8
+T-J11,M05,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,2959,9d8fc2f1598badb04c1b3ed1a42c4bcbdc2797f8ea955fed97f727739cd40880
+T-J11,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,725,2b56a08de1fdd85e1c56cd0ea8c44d1d0abf5cb8cd988e8d0ab6504a9cbe3c91
+T-J11,M07,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J4.md,3432,b2d4dda083758db4b547d3c07e3b4b13e20d4c0f50654227783eb9bb0f476d7e
+T-J11,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,2514,1e1221547fcf6236ac20f87faedc85280cab32d21d90af014923a18926701e6f
+T-J11,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,1267,8441a608eea02fea9b20250bd2500fb2390edf3de28ca782cb8118d04ed7cceb
+T-J11,M10,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J11.md,2947,cffbda013d3578f7469c31a8fab4bf73118f4c3b286ea88dcf11978033c7045e
+T-J12,M01,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,2060,f21ac9f2df95cb0b398ae2e5e1200f60e8f47dd57e8b37bb53df7325bcc67dcf
+T-J12,M02,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,4108,a84ad1cf0f817ac30ffd46be274d33a1f75331a6ff001c5f164c91146eb14989
+T-J12,M03,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,4335,461563a5760ebdd3b74a7511713c37b57fb6416b060ca11f98f2461dee832956
+T-J12,M04,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J4.md,5979,40202e648fcd43c47f6b6903b6577b85938d2e05376e0fca938441c0c1f9f2b4
+T-J12,M05,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,7951,eb5bacffd9b11744138f4999150c8d6b92eb6db1bc1a23f3403b8deebe5b2292
+T-J12,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,1226,478ccd05f0b38191efeb5de5b4c8534e1335a7838a7ea8e3a086c723c804bb6f
+T-J12,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J12.md,6090,079356f9f5901e5d75edea68e203980455e96de17757aea84bd61a9ba5c6cd30
+T-J12,M08,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part18.md,7002,573ab38b908588c7e049b6c93ebcf854e6824c13ee8bf281dbdc7bcf6f90d57f
+T-J12,M09,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J12.md,6826,9beacbdd556689482c77e5bca7978e5f5bd98ee72607fc5cce2e2e28f94ef174
+T-J12,M10,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,3424,bb0fa6469c1948059d1cbb80c4a5f8f4deadbdef05eeb17abffed546efb8fea4
+T-J13,M01,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,3763,937b4f7dc3245ea65445a529bf956be4685a1a8225ecc73c87023cdd01c0ad00
+T-J13,M02,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J13.md,6484,efaf7f5cc904c07a7f3be38df110429951ff51be6f9f79c67cbe56424e709aec
+T-J13,M03,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J13.md,5816,524a6b369cb597fe4cb311a6668a9332aec81938674f503a6a105d7aac658d22
+T-J13,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,2498,d22aff9f683e5bee061725dfc4e79ede3643098a3def12d16d5f3795d2c1a8ff
+T-J13,M05,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,1294,9d5d4c3bb130bd79dedfa05941336a507dc2276735d24afdfe207c448a77a88d
+T-J13,M06,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,6913,7efe42968bf4888c907d04c5ac7f748c098ad0fd6f72877fa1b9014d4ba6547c
+T-J13,M07,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,4530,6496136bdbea95864e5acacd9bcf001281529b45569c78089105f7bc935e671e
+T-J13,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,3312,5f38458ca9254d4ba2fb20296a69f802bb5f56c085e201dd72ad46ace0de7b80
+T-J13,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J4.md,7187,00c97f2f312cc47931cac6930abf741581480fd6a8a7d14eb0315be8a7431290
+T-J13,M10,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part19.md,7001,49658a06e040a6d3b3e7b25dbb13a12a027f2c39e6862c2a77122b0a9efddcd1
+T-J14,M01,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J14.md,4518,d0f063c9d6e876e604d877b8015469d701c1eecbd0704fe1c55cb7df75bbcae2
+T-J14,M02,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,7330,0adffc5ac0a6793bf14fa967234dea4ced54a939a3707e78a0c6c6e7da66bc35
+T-J14,M03,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,3403,5bb95f3d892635d516a736f43252d7cd539001f97e823e28c02288bc716dc0e1
+T-J14,M04,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,2422,c65c4609aad44ad60b06a79deca51681f5d2910e06c6b017687a14c7fdce22c4
+T-J14,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,3936,4fe175b1caf57057483e2d7b6220463af991c8beac66ddeed073e98c8fc9817d
+T-J14,M06,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,1259,53cbbfd06de99d8f46af956c31ede8e97942071e07847cdfccce11cc640176e0
+T-J14,M07,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part20.md,7366,2293c6cb2eabc07991d0a1354b5a337946212070a5d6746d0a9d0640a70baae3
+T-J14,M08,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,3438,5a758040c202b07b4797a92facc5f2e9c6b083de6b5febf8867a5fdff3e13f47
+T-J14,M09,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J4.md,6241,ed9779d9dabd2de712bcf562f634f2a12f9747300e22ce14a655da79f1f59e90
+T-J14,M10,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J14.md,6249,e4d8ef8ed25e3353594839633d25396dde8b6a8b5d47f0b1de3d49a4128a4f05
+T-J15,M01,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J15.md,7976,db27802b0b79fa17d30e7ab5a97d488d43f87473a7963ccea6484831d9c14223
+T-J15,M02,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,3752,dd27b7730020679fb4e5e564cb8023c80ce8ac7554f1d07f6d588afb162b4115
+T-J15,M03,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part21.md,12222,3e3e6dcd44808c34f7ed9895fb5c1d951dcde6fee13a35886fe85b2417190f03
+T-J15,M04,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,1540,fca3f9a828e07b047fc2d3d8c5905a3a52d542ef3ba3b8efccb65acdd5345614
+T-J15,M05,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,4631,f797b6330af452cba92126f0ef26c32321e5532a747eedad9322e08864dd23ee
+T-J15,M06,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J4.md,8557,f73e9610c04599a3407f5f439ac0292488aec5bd987a03acad86c4d0f026b7f0
+T-J15,M07,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J15.md,4883,e6899be7fc4309a0a650946f40d915edce7071a351e56e0954ad22e0ece8f399
+T-J15,M08,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,2759,113116c87deccf6057e9b3d5112d33210dd972c8bf7e4a10706d16391cf0ad35
+T-J15,M09,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,4344,50bf7acce25e2ba9b456486133c7afaafc573e26016a0e171e275336cd4258f5
+T-J15,M10,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,7514,72f5aaf5efda80bd3bbfb67bf3e122ad1c91cbc0e29551cb91119809d3f3e1c8
+T-J16,M01,Qwen3.6-27B-FP8,手动题库/答案/Qwen3.6-27B-FP8/J_多语言与跨文化_答案.md,1169,317195e2e0838003ff56832585ee478e1f81d32b65ccd76248c2bbb6a11cfaed
+T-J16,M02,deepseek-v4-pro,手动题库/答案/deepseek-v4-pro/T-J16.md,3786,fb9c22ce5a2e8fe65036c7d56aa229ba798d3ecee889e3d93cef8d3bc0e16ad7
+T-J16,M03,gemini-3.7-flash,手动题库/答案/gemini-3.7-flash/J_多语言与跨文化.md,4030,248570c83819f3fcf56cb6904c80e8da452bcff09ed33cde4eb7e0f38bab2f66
+T-J16,M04,gemini-4-argon-contributor,手动题库/答案/gemini-4-argon-contributor/J_多语言与跨文化.md,5735,5503142f19966b1f6358b5ffed3d68f82976d1ff8727ca20c12de010cd8bc66a
+T-J16,M05,claude-opus-5-5,手动题库/答案/claude-opus-5-5/J4.md,6381,2a9a9ca3fcf5b8c41435ca494221a1fe76eb2207d13f830e4528ab01b6832be0
+T-J16,M06,space-bunny-free,手动题库/答案/space-bunny-free/J_多语言与跨文化_答案_part22.md,6129,2be7a696096da9023ecb06e6cb2df1fbb3f4b8d67835d52b8a11e7186e7ab065
+T-J16,M07,Muse Spark 1.2 Contributor,手动题库/答案/Muse Spark 1.2 Contributor/T-J16.md,6925,ece3b7f22ac2e0f9ebbc2005251764706a4b0c169f23dcf51821abd734b83c2f
+T-J16,M08,LongCat-2.0,手动题库/答案/LongCat-2.0/J_多语言与跨文化.md,2982,d5b3754dc94231790a83c79f9e7bf7f693d76bb84c0e6f9369c0451004db60b1
+T-J16,M09,LongCat-2.5-Preview-Free,手动题库/答案/LongCat-2.5-Preview-Free/J_多语言与跨文化_答案.md,2162,56c5071d3f98972a9a4ab5ddcc43b27595fa4b50dff6fdba918bc6a9a5b54c82
+T-J16,M10,Muse-Spark-1.3-Free,手动题库/答案/Muse-Spark-1.3-Free/J_多语言与跨文化.md,3968,b6472bdf401d3ce1275aa6d0edae0b98ad4a50a6d1ca9c217544696e78ec6a73

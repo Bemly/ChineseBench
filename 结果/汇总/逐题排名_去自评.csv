@@ -1,0 +1,1066 @@
+﻿题号,名次,模型,均分,裁判数
+T-A01,1,claude-opus-5-5,8.94,5
+T-A01,2,gemini-4-argon-contributor,8.0,5
+T-A01,3,Muse-Spark-1.3-Free,7.82,5
+T-A01,4,Muse Spark 1.2 Contributor,7.62,5
+T-A01,5,deepseek-v4-pro,7.18,5
+T-A01,6,LongCat-2.0,6.23,6
+T-A01,7,Qwen3.6-27B-FP8,5.45,6
+T-A01,8,gemini-3.7-flash,5.32,5
+T-A01,9,LongCat-2.5-Preview-Free,5.1,6
+T-A01,10,space-bunny-free,4.85,6
+T-A02,1,Muse-Spark-1.3-Free,8.16,5
+T-A02,2,claude-opus-5-5,8.14,5
+T-A02,3,space-bunny-free,8.07,6
+T-A02,4,gemini-4-argon-contributor,7.86,5
+T-A02,5,Muse Spark 1.2 Contributor,7.82,5
+T-A02,6,deepseek-v4-pro,7.48,5
+T-A02,7,gemini-3.7-flash,7.4,5
+T-A02,8,LongCat-2.5-Preview-Free,5.42,6
+T-A02,9,LongCat-2.0,4.75,6
+T-A02,10,Qwen3.6-27B-FP8,4.2,6
+T-A03,1,gemini-4-argon-contributor,8.36,5
+T-A03,2,Muse-Spark-1.3-Free,7.96,5
+T-A03,3,claude-opus-5-5,7.78,5
+T-A03,4,Muse Spark 1.2 Contributor,7.48,5
+T-A03,5,deepseek-v4-pro,7.36,5
+T-A03,6,gemini-3.7-flash,7.3,5
+T-A03,7,space-bunny-free,7.07,6
+T-A03,8,LongCat-2.0,6.88,6
+T-A03,9,Qwen3.6-27B-FP8,6.47,6
+T-A03,10,LongCat-2.5-Preview-Free,5.83,6
+T-A04,1,claude-opus-5-5,9.64,5
+T-A04,2,deepseek-v4-pro,9.62,5
+T-A04,3,Qwen3.6-27B-FP8,9.6,6
+T-A04,4,gemini-4-argon-contributor,8.06,5
+T-A04,5,Muse-Spark-1.3-Free,8.0,5
+T-A04,6,gemini-3.7-flash,7.96,5
+T-A04,7,LongCat-2.0,7.9,6
+T-A04,8,Muse Spark 1.2 Contributor,7.78,5
+T-A04,9,LongCat-2.5-Preview-Free,6.95,6
+T-A04,10,space-bunny-free,6.15,6
+T-A05,1,gemini-4-argon-contributor,8.22,5
+T-A05,2,Muse-Spark-1.3-Free,8.18,5
+T-A05,3,space-bunny-free,7.9,6
+T-A05,4,deepseek-v4-pro,7.16,5
+T-A05,5,Muse Spark 1.2 Contributor,7.06,5
+T-A05,6,claude-opus-5-5,6.3,5
+T-A05,7,gemini-3.7-flash,5.86,5
+T-A05,8,LongCat-2.5-Preview-Free,5.8,6
+T-A05,9,Qwen3.6-27B-FP8,5.35,6
+T-A05,10,LongCat-2.0,5.35,6
+T-A06,1,claude-opus-5-5,9.26,5
+T-A06,2,gemini-4-argon-contributor,8.62,5
+T-A06,3,gemini-3.7-flash,8.5,5
+T-A06,4,Muse-Spark-1.3-Free,8.2,5
+T-A06,5,Muse Spark 1.2 Contributor,8.16,5
+T-A06,6,space-bunny-free,7.73,6
+T-A06,7,deepseek-v4-pro,7.48,5
+T-A06,8,LongCat-2.0,6.97,6
+T-A06,9,LongCat-2.5-Preview-Free,6.95,6
+T-A06,10,Qwen3.6-27B-FP8,6.93,6
+T-A07,1,space-bunny-free,8.5,6
+T-A07,2,Muse Spark 1.2 Contributor,8.28,5
+T-A07,3,claude-opus-5-5,8.24,5
+T-A07,4,Muse-Spark-1.3-Free,7.84,5
+T-A07,5,gemini-4-argon-contributor,7.3,5
+T-A07,6,gemini-3.7-flash,6.66,5
+T-A07,7,Qwen3.6-27B-FP8,6.43,6
+T-A07,8,LongCat-2.5-Preview-Free,6.1,6
+T-A07,9,deepseek-v4-pro,5.94,5
+T-A07,10,LongCat-2.0,5.6,6
+T-A08,1,claude-opus-5-5,8.78,5
+T-A08,2,gemini-3.7-flash,8.02,5
+T-A08,3,gemini-4-argon-contributor,7.8,5
+T-A08,4,deepseek-v4-pro,7.54,5
+T-A08,5,LongCat-2.5-Preview-Free,7.38,6
+T-A08,6,Muse-Spark-1.3-Free,7.08,5
+T-A08,7,Qwen3.6-27B-FP8,6.82,6
+T-A08,8,space-bunny-free,6.37,6
+T-A08,9,LongCat-2.0,6.27,6
+T-A08,10,Muse Spark 1.2 Contributor,6.26,5
+T-A09,1,claude-opus-5-5,8.34,5
+T-A09,2,deepseek-v4-pro,8.26,5
+T-A09,3,gemini-4-argon-contributor,8.24,5
+T-A09,4,space-bunny-free,7.85,6
+T-A09,5,Muse-Spark-1.3-Free,7.56,5
+T-A09,6,Muse Spark 1.2 Contributor,7.24,5
+T-A09,7,LongCat-2.0,5.98,6
+T-A09,8,LongCat-2.5-Preview-Free,5.95,6
+T-A09,9,Qwen3.6-27B-FP8,5.77,6
+T-A09,10,gemini-3.7-flash,5.54,5
+T-A10,1,claude-opus-5-5,8.52,5
+T-A10,2,deepseek-v4-pro,8.24,5
+T-A10,3,Muse-Spark-1.3-Free,8.04,5
+T-A10,4,Muse Spark 1.2 Contributor,7.8,5
+T-A10,5,LongCat-2.5-Preview-Free,7.32,6
+T-A10,6,space-bunny-free,6.73,6
+T-A10,7,gemini-4-argon-contributor,6.66,5
+T-A10,8,LongCat-2.0,6.1,6
+T-A10,9,gemini-3.7-flash,5.52,5
+T-A10,10,Qwen3.6-27B-FP8,3.35,6
+T-B01,1,claude-opus-5-5,8.7,5
+T-B01,2,gemini-4-argon-contributor,7.9,5
+T-B01,3,Muse Spark 1.2 Contributor,7.64,5
+T-B01,4,space-bunny-free,6.73,6
+T-B01,5,gemini-3.7-flash,6.72,5
+T-B01,6,deepseek-v4-pro,6.48,5
+T-B01,7,LongCat-2.0,5.65,6
+T-B01,8,Muse-Spark-1.3-Free,5.38,5
+T-B01,9,Qwen3.6-27B-FP8,5.15,6
+T-B01,10,LongCat-2.5-Preview-Free,4.27,6
+T-B02,1,gemini-4-argon-contributor,7.94,5
+T-B02,2,Muse Spark 1.2 Contributor,7.66,5
+T-B02,3,Muse-Spark-1.3-Free,7.24,5
+T-B02,4,deepseek-v4-pro,7.2,5
+T-B02,5,space-bunny-free,6.92,6
+T-B02,6,claude-opus-5-5,6.88,5
+T-B02,7,LongCat-2.0,6.68,6
+T-B02,8,gemini-3.7-flash,6.42,5
+T-B02,9,LongCat-2.5-Preview-Free,5.33,6
+T-B02,10,Qwen3.6-27B-FP8,4.8,6
+T-B03,1,Muse-Spark-1.3-Free,8.2,5
+T-B03,2,claude-opus-5-5,7.82,5
+T-B03,3,gemini-4-argon-contributor,7.02,5
+T-B03,4,LongCat-2.0,6.13,6
+T-B03,5,space-bunny-free,5.97,6
+T-B03,6,Muse Spark 1.2 Contributor,5.96,5
+T-B03,7,deepseek-v4-pro,5.84,5
+T-B03,8,gemini-3.7-flash,5.06,5
+T-B03,9,LongCat-2.5-Preview-Free,4.57,6
+T-B03,10,Qwen3.6-27B-FP8,4.07,6
+T-B04,1,Muse Spark 1.2 Contributor,8.54,5
+T-B04,2,claude-opus-5-5,8.24,5
+T-B04,3,gemini-4-argon-contributor,7.9,5
+T-B04,4,deepseek-v4-pro,7.76,5
+T-B04,5,Qwen3.6-27B-FP8,7.5,6
+T-B04,6,LongCat-2.0,7.32,6
+T-B04,7,Muse-Spark-1.3-Free,6.78,5
+T-B04,8,space-bunny-free,6.32,6
+T-B04,9,LongCat-2.5-Preview-Free,5.8,6
+T-B04,10,gemini-3.7-flash,5.72,5
+T-B05,1,gemini-4-argon-contributor,8.2,5
+T-B05,2,Muse Spark 1.2 Contributor,7.68,5
+T-B05,3,claude-opus-5-5,7.3,5
+T-B05,4,LongCat-2.0,7.12,6
+T-B05,5,deepseek-v4-pro,6.76,5
+T-B05,6,Muse-Spark-1.3-Free,6.62,5
+T-B05,7,gemini-3.7-flash,5.98,5
+T-B05,8,space-bunny-free,5.72,6
+T-B05,9,Qwen3.6-27B-FP8,4.82,6
+T-B05,10,LongCat-2.5-Preview-Free,4.48,6
+T-B06,1,claude-opus-5-5,7.98,5
+T-B06,2,Muse Spark 1.2 Contributor,7.8,5
+T-B06,3,deepseek-v4-pro,7.72,5
+T-B06,4,space-bunny-free,7.55,6
+T-B06,5,Muse-Spark-1.3-Free,7.4,5
+T-B06,6,gemini-4-argon-contributor,7.34,5
+T-B06,7,LongCat-2.5-Preview-Free,6.47,6
+T-B06,8,gemini-3.7-flash,6.38,5
+T-B06,9,Qwen3.6-27B-FP8,6.15,6
+T-B06,10,LongCat-2.0,5.37,6
+T-B07,1,gemini-4-argon-contributor,8.38,5
+T-B07,2,claude-opus-5-5,8.22,5
+T-B07,3,Muse-Spark-1.3-Free,7.86,5
+T-B07,4,Muse Spark 1.2 Contributor,7.58,5
+T-B07,5,deepseek-v4-pro,7.44,5
+T-B07,6,space-bunny-free,7.25,6
+T-B07,7,gemini-3.7-flash,6.36,5
+T-B07,8,LongCat-2.0,6.02,6
+T-B07,9,Qwen3.6-27B-FP8,5.85,6
+T-B07,10,LongCat-2.5-Preview-Free,4.48,6
+T-B08,1,Muse Spark 1.2 Contributor,8.18,5
+T-B08,2,gemini-4-argon-contributor,8.18,5
+T-B08,3,Muse-Spark-1.3-Free,8.04,5
+T-B08,4,deepseek-v4-pro,7.98,5
+T-B08,5,claude-opus-5-5,7.6,5
+T-B08,6,space-bunny-free,7.53,6
+T-B08,7,Qwen3.6-27B-FP8,7.43,6
+T-B08,8,gemini-3.7-flash,7.08,5
+T-B08,9,LongCat-2.5-Preview-Free,6.72,6
+T-B08,10,LongCat-2.0,6.42,6
+T-B09,1,gemini-4-argon-contributor,8.64,5
+T-B09,2,Muse Spark 1.2 Contributor,7.8,5
+T-B09,3,space-bunny-free,7.67,6
+T-B09,4,claude-opus-5-5,7.6,5
+T-B09,5,deepseek-v4-pro,7.6,5
+T-B09,6,Muse-Spark-1.3-Free,7.48,5
+T-B09,7,gemini-3.7-flash,5.84,5
+T-B09,8,LongCat-2.0,5.77,6
+T-B09,9,Qwen3.6-27B-FP8,5.12,6
+T-B09,10,LongCat-2.5-Preview-Free,4.78,6
+T-B10,1,claude-opus-5-5,8.8,5
+T-B10,2,Muse Spark 1.2 Contributor,7.66,5
+T-B10,3,gemini-4-argon-contributor,7.28,5
+T-B10,4,deepseek-v4-pro,6.88,5
+T-B10,5,Muse-Spark-1.3-Free,6.32,5
+T-B10,6,LongCat-2.5-Preview-Free,6.08,6
+T-B10,7,LongCat-2.0,5.97,6
+T-B10,8,space-bunny-free,5.68,6
+T-B10,9,gemini-3.7-flash,5.3,5
+T-B10,10,Qwen3.6-27B-FP8,5.12,6
+T-C01,1,gemini-4-argon-contributor,8.2,5
+T-C01,2,claude-opus-5-5,7.24,5
+T-C01,3,Muse Spark 1.2 Contributor,6.76,5
+T-C01,4,Muse-Spark-1.3-Free,6.42,5
+T-C01,5,gemini-3.7-flash,5.92,5
+T-C01,6,deepseek-v4-pro,5.34,5
+T-C01,7,LongCat-2.0,5.25,6
+T-C01,8,space-bunny-free,4.7,6
+T-C01,9,LongCat-2.5-Preview-Free,3.75,6
+T-C01,10,Qwen3.6-27B-FP8,3.28,6
+T-C02,1,gemini-4-argon-contributor,8.78,5
+T-C02,2,Muse Spark 1.2 Contributor,8.58,5
+T-C02,3,claude-opus-5-5,8.44,5
+T-C02,4,Muse-Spark-1.3-Free,8.3,5
+T-C02,5,LongCat-2.5-Preview-Free,6.77,6
+T-C02,6,LongCat-2.0,6.32,6
+T-C02,7,deepseek-v4-pro,5.72,5
+T-C02,8,space-bunny-free,5.62,6
+T-C02,9,gemini-3.7-flash,5.58,5
+T-C02,10,Qwen3.6-27B-FP8,4.08,6
+T-C03,1,gemini-4-argon-contributor,8.5,5
+T-C03,2,space-bunny-free,8.38,6
+T-C03,3,claude-opus-5-5,7.9,5
+T-C03,4,Muse Spark 1.2 Contributor,7.8,5
+T-C03,5,deepseek-v4-pro,7.64,5
+T-C03,6,Muse-Spark-1.3-Free,6.86,5
+T-C03,7,gemini-3.7-flash,5.82,5
+T-C03,8,LongCat-2.0,5.37,6
+T-C03,9,LongCat-2.5-Preview-Free,5.28,6
+T-C03,10,Qwen3.6-27B-FP8,4.32,6
+T-C04,1,deepseek-v4-pro,8.9,5
+T-C04,2,gemini-4-argon-contributor,8.72,5
+T-C04,3,Muse Spark 1.2 Contributor,8.52,5
+T-C04,4,Muse-Spark-1.3-Free,8.0,5
+T-C04,5,claude-opus-5-5,6.36,5
+T-C04,6,space-bunny-free,6.27,6
+T-C04,7,gemini-3.7-flash,5.0,5
+T-C04,8,LongCat-2.5-Preview-Free,4.63,6
+T-C04,9,LongCat-2.0,4.63,6
+T-C04,10,Qwen3.6-27B-FP8,3.88,6
+T-C05,1,Muse Spark 1.2 Contributor,8.54,5
+T-C05,2,gemini-4-argon-contributor,8.0,5
+T-C05,3,Muse-Spark-1.3-Free,7.88,5
+T-C05,4,claude-opus-5-5,6.96,5
+T-C05,5,deepseek-v4-pro,6.1,5
+T-C05,6,LongCat-2.0,5.8,6
+T-C05,7,LongCat-2.5-Preview-Free,5.5,6
+T-C05,8,gemini-3.7-flash,5.18,5
+T-C05,9,space-bunny-free,4.43,6
+T-C05,10,Qwen3.6-27B-FP8,4.32,6
+T-C06,1,Muse Spark 1.2 Contributor,8.2,5
+T-C06,2,deepseek-v4-pro,8.0,5
+T-C06,3,gemini-4-argon-contributor,7.62,5
+T-C06,4,space-bunny-free,7.38,6
+T-C06,5,claude-opus-5-5,7.26,5
+T-C06,6,Muse-Spark-1.3-Free,5.98,5
+T-C06,7,LongCat-2.0,5.55,6
+T-C06,8,gemini-3.7-flash,4.68,5
+T-C06,9,LongCat-2.5-Preview-Free,4.22,6
+T-C06,10,Qwen3.6-27B-FP8,3.3,6
+T-C07,1,gemini-4-argon-contributor,7.94,5
+T-C07,2,LongCat-2.5-Preview-Free,7.92,6
+T-C07,3,Muse Spark 1.2 Contributor,7.34,5
+T-C07,4,claude-opus-5-5,6.74,5
+T-C07,5,deepseek-v4-pro,6.74,5
+T-C07,6,Muse-Spark-1.3-Free,6.46,5
+T-C07,7,space-bunny-free,5.02,6
+T-C07,8,gemini-3.7-flash,4.98,5
+T-C07,9,LongCat-2.0,4.82,6
+T-C07,10,Qwen3.6-27B-FP8,3.5,6
+T-C08,1,claude-opus-5-5,8.56,5
+T-C08,2,gemini-4-argon-contributor,7.7,5
+T-C08,3,Muse Spark 1.2 Contributor,7.52,5
+T-C08,4,space-bunny-free,7.35,6
+T-C08,5,LongCat-2.5-Preview-Free,7.18,6
+T-C08,6,deepseek-v4-pro,6.68,5
+T-C08,7,Muse-Spark-1.3-Free,6.56,5
+T-C08,8,LongCat-2.0,6.15,6
+T-C08,9,gemini-3.7-flash,5.92,5
+T-C08,10,Qwen3.6-27B-FP8,4.63,6
+T-C09,1,gemini-4-argon-contributor,8.04,5
+T-C09,2,LongCat-2.0,7.85,6
+T-C09,3,Muse Spark 1.2 Contributor,7.78,5
+T-C09,4,LongCat-2.5-Preview-Free,7.53,6
+T-C09,5,gemini-3.7-flash,7.28,5
+T-C09,6,deepseek-v4-pro,6.94,5
+T-C09,7,claude-opus-5-5,6.62,5
+T-C09,8,space-bunny-free,6.23,6
+T-C09,9,Muse-Spark-1.3-Free,5.82,5
+T-C09,10,Qwen3.6-27B-FP8,4.03,6
+T-C10,1,claude-opus-5-5,8.36,5
+T-C10,2,Muse Spark 1.2 Contributor,8.04,5
+T-C10,3,LongCat-2.5-Preview-Free,8.02,6
+T-C10,4,gemini-4-argon-contributor,8.0,5
+T-C10,5,deepseek-v4-pro,6.62,5
+T-C10,6,LongCat-2.0,6.55,6
+T-C10,7,gemini-3.7-flash,6.36,5
+T-C10,8,Muse-Spark-1.3-Free,6.32,5
+T-C10,9,space-bunny-free,6.22,6
+T-C10,10,Qwen3.6-27B-FP8,4.2,6
+T-D01,1,gemini-4-argon-contributor,8.74,5
+T-D01,2,claude-opus-5-5,8.46,5
+T-D01,3,Muse Spark 1.2 Contributor,7.92,5
+T-D01,4,deepseek-v4-pro,6.98,5
+T-D01,5,LongCat-2.0,6.8,6
+T-D01,6,space-bunny-free,5.8,6
+T-D01,7,gemini-3.7-flash,5.54,5
+T-D01,8,Muse-Spark-1.3-Free,4.44,5
+T-D01,9,Qwen3.6-27B-FP8,4.28,6
+T-D01,10,LongCat-2.5-Preview-Free,4.25,6
+T-D02,1,deepseek-v4-pro,8.44,5
+T-D02,2,claude-opus-5-5,8.42,5
+T-D02,3,gemini-4-argon-contributor,7.82,5
+T-D02,4,Muse Spark 1.2 Contributor,6.64,5
+T-D02,5,LongCat-2.0,5.88,6
+T-D02,6,space-bunny-free,5.78,6
+T-D02,7,gemini-3.7-flash,5.26,5
+T-D02,8,Qwen3.6-27B-FP8,4.78,6
+T-D02,9,LongCat-2.5-Preview-Free,4.62,6
+T-D02,10,Muse-Spark-1.3-Free,4.34,5
+T-D03,1,gemini-4-argon-contributor,8.64,5
+T-D03,2,claude-opus-5-5,8.28,5
+T-D03,3,Muse Spark 1.2 Contributor,7.62,5
+T-D03,4,space-bunny-free,7.62,6
+T-D03,5,LongCat-2.0,7.22,6
+T-D03,6,deepseek-v4-pro,6.94,5
+T-D03,7,gemini-3.7-flash,6.4,5
+T-D03,8,Muse-Spark-1.3-Free,5.46,5
+T-D03,9,Qwen3.6-27B-FP8,4.92,6
+T-D03,10,LongCat-2.5-Preview-Free,1.25,6
+T-D04,1,gemini-4-argon-contributor,8.5,5
+T-D04,2,claude-opus-5-5,7.8,5
+T-D04,3,Muse Spark 1.2 Contributor,6.84,5
+T-D04,4,deepseek-v4-pro,6.46,5
+T-D04,5,LongCat-2.0,5.95,6
+T-D04,6,space-bunny-free,5.4,6
+T-D04,7,gemini-3.7-flash,4.44,5
+T-D04,8,Muse-Spark-1.3-Free,3.94,5
+T-D04,9,Qwen3.6-27B-FP8,3.58,6
+T-D04,10,LongCat-2.5-Preview-Free,3.35,6
+T-D05,1,gemini-4-argon-contributor,8.5,5
+T-D05,2,deepseek-v4-pro,8.36,5
+T-D05,3,claude-opus-5-5,7.64,5
+T-D05,4,space-bunny-free,7.55,6
+T-D05,5,Muse Spark 1.2 Contributor,7.42,5
+T-D05,6,LongCat-2.0,6.32,6
+T-D05,7,Qwen3.6-27B-FP8,5.57,6
+T-D05,8,gemini-3.7-flash,5.24,5
+T-D05,9,Muse-Spark-1.3-Free,3.98,5
+T-D05,10,LongCat-2.5-Preview-Free,3.33,6
+T-D06,1,claude-opus-5-5,8.64,5
+T-D06,2,Muse Spark 1.2 Contributor,8.36,5
+T-D06,3,gemini-4-argon-contributor,8.24,5
+T-D06,4,deepseek-v4-pro,8.14,5
+T-D06,5,LongCat-2.0,7.97,6
+T-D06,6,space-bunny-free,6.73,6
+T-D06,7,gemini-3.7-flash,6.58,5
+T-D06,8,Qwen3.6-27B-FP8,5.0,6
+T-D06,9,Muse-Spark-1.3-Free,4.86,5
+T-D06,10,LongCat-2.5-Preview-Free,1.37,6
+T-D07,1,deepseek-v4-pro,8.54,5
+T-D07,2,gemini-4-argon-contributor,8.1,5
+T-D07,3,claude-opus-5-5,7.88,5
+T-D07,4,space-bunny-free,7.42,6
+T-D07,5,Muse Spark 1.2 Contributor,6.94,5
+T-D07,6,LongCat-2.0,5.65,6
+T-D07,7,gemini-3.7-flash,5.52,5
+T-D07,8,Muse-Spark-1.3-Free,5.04,5
+T-D07,9,Qwen3.6-27B-FP8,4.77,6
+T-D07,10,LongCat-2.5-Preview-Free,1.47,6
+T-D08,1,claude-opus-5-5,8.84,5
+T-D08,2,deepseek-v4-pro,8.18,5
+T-D08,3,gemini-4-argon-contributor,7.42,5
+T-D08,4,Muse Spark 1.2 Contributor,5.88,5
+T-D08,5,LongCat-2.0,5.77,6
+T-D08,6,space-bunny-free,5.27,6
+T-D08,7,gemini-3.7-flash,3.72,5
+T-D08,8,Qwen3.6-27B-FP8,3.55,6
+T-D08,9,Muse-Spark-1.3-Free,3.12,5
+T-D08,10,LongCat-2.5-Preview-Free,2.72,6
+T-D09,1,claude-opus-5-5,8.96,5
+T-D09,2,gemini-4-argon-contributor,8.4,5
+T-D09,3,deepseek-v4-pro,8.12,5
+T-D09,4,Muse Spark 1.2 Contributor,7.6,5
+T-D09,5,LongCat-2.0,7.15,6
+T-D09,6,space-bunny-free,5.63,6
+T-D09,7,gemini-3.7-flash,4.92,5
+T-D09,8,Qwen3.6-27B-FP8,4.78,6
+T-D09,9,Muse-Spark-1.3-Free,3.78,5
+T-D09,10,LongCat-2.5-Preview-Free,2.9,6
+T-D10,1,gemini-4-argon-contributor,8.16,5
+T-D10,2,deepseek-v4-pro,7.42,5
+T-D10,3,claude-opus-5-5,7.22,5
+T-D10,4,Muse Spark 1.2 Contributor,6.94,5
+T-D10,5,LongCat-2.0,6.4,6
+T-D10,6,space-bunny-free,5.37,6
+T-D10,7,gemini-3.7-flash,5.32,5
+T-D10,8,Muse-Spark-1.3-Free,3.9,5
+T-D10,9,LongCat-2.5-Preview-Free,3.83,6
+T-D10,10,Qwen3.6-27B-FP8,3.32,6
+T-D11,1,gemini-4-argon-contributor,8.52,5
+T-D11,2,deepseek-v4-pro,7.18,5
+T-D11,3,Muse Spark 1.2 Contributor,7.14,5
+T-D11,4,claude-opus-5-5,7.0,5
+T-D11,5,space-bunny-free,5.8,6
+T-D11,6,LongCat-2.0,5.47,6
+T-D11,7,gemini-3.7-flash,4.28,5
+T-D11,8,Muse-Spark-1.3-Free,3.84,5
+T-D11,9,Qwen3.6-27B-FP8,3.73,6
+T-D11,10,LongCat-2.5-Preview-Free,3.3,6
+T-D12,1,Muse Spark 1.2 Contributor,7.76,5
+T-D12,2,deepseek-v4-pro,7.74,5
+T-D12,3,gemini-4-argon-contributor,7.56,5
+T-D12,4,claude-opus-5-5,7.52,5
+T-D12,5,space-bunny-free,7.03,6
+T-D12,6,LongCat-2.0,5.1,6
+T-D12,7,gemini-3.7-flash,4.56,5
+T-D12,8,Muse-Spark-1.3-Free,3.62,5
+T-D12,9,Qwen3.6-27B-FP8,3.57,6
+T-D12,10,LongCat-2.5-Preview-Free,2.95,6
+T-D13,1,gemini-4-argon-contributor,8.12,5
+T-D13,2,claude-opus-5-5,7.96,5
+T-D13,3,LongCat-2.0,7.72,6
+T-D13,4,deepseek-v4-pro,6.9,5
+T-D13,5,Muse Spark 1.2 Contributor,6.16,5
+T-D13,6,space-bunny-free,6.1,6
+T-D13,7,gemini-3.7-flash,4.56,5
+T-D13,8,Qwen3.6-27B-FP8,4.05,6
+T-D13,9,Muse-Spark-1.3-Free,4.0,5
+T-D13,10,LongCat-2.5-Preview-Free,3.1,6
+T-D14,1,gemini-4-argon-contributor,8.46,5
+T-D14,2,claude-opus-5-5,8.04,5
+T-D14,3,LongCat-2.0,7.45,6
+T-D14,4,deepseek-v4-pro,7.42,5
+T-D14,5,Muse Spark 1.2 Contributor,7.2,5
+T-D14,6,space-bunny-free,6.73,6
+T-D14,7,Muse-Spark-1.3-Free,4.22,5
+T-D14,8,gemini-3.7-flash,3.84,5
+T-D14,9,Qwen3.6-27B-FP8,3.8,6
+T-D14,10,LongCat-2.5-Preview-Free,3.03,6
+T-D15,1,deepseek-v4-pro,7.58,5
+T-D15,2,claude-opus-5-5,7.56,5
+T-D15,3,gemini-4-argon-contributor,7.18,5
+T-D15,4,Muse Spark 1.2 Contributor,7.18,5
+T-D15,5,space-bunny-free,6.92,6
+T-D15,6,LongCat-2.0,6.87,6
+T-D15,7,Muse-Spark-1.3-Free,3.8,5
+T-D15,8,gemini-3.7-flash,3.64,5
+T-D15,9,Qwen3.6-27B-FP8,3.48,6
+T-D15,10,LongCat-2.5-Preview-Free,2.65,6
+T-D16,1,claude-opus-5-5,8.5,5
+T-D16,2,deepseek-v4-pro,8.34,5
+T-D16,3,gemini-4-argon-contributor,7.8,5
+T-D16,4,Muse Spark 1.2 Contributor,6.7,5
+T-D16,5,LongCat-2.0,6.3,6
+T-D16,6,space-bunny-free,5.63,6
+T-D16,7,Muse-Spark-1.3-Free,4.26,5
+T-D16,8,gemini-3.7-flash,4.14,5
+T-D16,9,Qwen3.6-27B-FP8,2.7,6
+T-D16,10,LongCat-2.5-Preview-Free,2.38,6
+T-D17,1,claude-opus-5-5,8.36,5
+T-D17,2,deepseek-v4-pro,8.2,5
+T-D17,3,gemini-4-argon-contributor,8.1,5
+T-D17,4,LongCat-2.0,7.08,6
+T-D17,5,Muse Spark 1.2 Contributor,6.56,5
+T-D17,6,space-bunny-free,4.0,6
+T-D17,7,Qwen3.6-27B-FP8,3.95,6
+T-D17,8,gemini-3.7-flash,3.9,5
+T-D17,9,Muse-Spark-1.3-Free,3.78,5
+T-D17,10,LongCat-2.5-Preview-Free,2.17,6
+T-D18,1,claude-opus-5-5,8.22,5
+T-D18,2,gemini-4-argon-contributor,8.04,5
+T-D18,3,deepseek-v4-pro,7.3,5
+T-D18,4,space-bunny-free,5.87,6
+T-D18,5,Muse Spark 1.2 Contributor,5.78,5
+T-D18,6,LongCat-2.0,5.77,6
+T-D18,7,gemini-3.7-flash,4.24,5
+T-D18,8,Muse-Spark-1.3-Free,3.66,5
+T-D18,9,Qwen3.6-27B-FP8,3.6,6
+T-D18,10,LongCat-2.5-Preview-Free,2.72,6
+T-D19,1,claude-opus-5-5,8.68,5
+T-D19,2,deepseek-v4-pro,8.32,5
+T-D19,3,gemini-4-argon-contributor,8.1,5
+T-D19,4,LongCat-2.0,7.3,6
+T-D19,5,Muse Spark 1.2 Contributor,6.78,5
+T-D19,6,space-bunny-free,6.25,6
+T-D19,7,gemini-3.7-flash,4.26,5
+T-D19,8,Muse-Spark-1.3-Free,4.04,5
+T-D19,9,Qwen3.6-27B-FP8,3.23,6
+T-D19,10,LongCat-2.5-Preview-Free,2.48,6
+T-D20,1,deepseek-v4-pro,8.58,5
+T-D20,2,claude-opus-5-5,8.38,5
+T-D20,3,Muse Spark 1.2 Contributor,7.32,5
+T-D20,4,gemini-4-argon-contributor,7.16,5
+T-D20,5,space-bunny-free,5.32,6
+T-D20,6,gemini-3.7-flash,4.62,5
+T-D20,7,Muse-Spark-1.3-Free,4.56,5
+T-D20,8,LongCat-2.0,4.53,6
+T-D20,9,Qwen3.6-27B-FP8,4.15,6
+T-D20,10,LongCat-2.5-Preview-Free,2.38,6
+T-D21,1,gemini-4-argon-contributor,8.76,5
+T-D21,2,claude-opus-5-5,8.68,5
+T-D21,3,deepseek-v4-pro,7.36,5
+T-D21,4,LongCat-2.0,6.68,6
+T-D21,5,Muse Spark 1.2 Contributor,6.62,5
+T-D21,6,space-bunny-free,5.63,6
+T-D21,7,Muse-Spark-1.3-Free,4.92,5
+T-D21,8,Qwen3.6-27B-FP8,4.92,6
+T-D21,9,gemini-3.7-flash,4.54,5
+T-D21,10,LongCat-2.5-Preview-Free,3.12,6
+T-D22,1,claude-opus-5-5,8.98,5
+T-D22,2,deepseek-v4-pro,8.66,5
+T-D22,3,gemini-4-argon-contributor,8.0,5
+T-D22,4,LongCat-2.0,7.5,6
+T-D22,5,Muse Spark 1.2 Contributor,7.12,5
+T-D22,6,space-bunny-free,4.88,6
+T-D22,7,Qwen3.6-27B-FP8,4.85,6
+T-D22,8,gemini-3.7-flash,4.72,5
+T-D22,9,Muse-Spark-1.3-Free,4.34,5
+T-D22,10,LongCat-2.5-Preview-Free,3.3,6
+T-D23,1,claude-opus-5-5,8.26,5
+T-D23,2,deepseek-v4-pro,7.9,5
+T-D23,3,gemini-4-argon-contributor,7.2,5
+T-D23,4,Muse Spark 1.2 Contributor,6.34,5
+T-D23,5,LongCat-2.0,5.7,6
+T-D23,6,space-bunny-free,5.12,6
+T-D23,7,gemini-3.7-flash,4.66,5
+T-D23,8,Muse-Spark-1.3-Free,4.12,5
+T-D23,9,Qwen3.6-27B-FP8,3.77,6
+T-D23,10,LongCat-2.5-Preview-Free,2.65,6
+T-E01,1,claude-opus-5-5,8.26,5
+T-E01,2,Muse Spark 1.2 Contributor,7.58,5
+T-E01,3,LongCat-2.0,7.3,6
+T-E01,4,Muse-Spark-1.3-Free,7.12,5
+T-E01,5,gemini-4-argon-contributor,6.64,5
+T-E01,6,deepseek-v4-pro,5.12,5
+T-E01,7,LongCat-2.5-Preview-Free,5.08,6
+T-E01,8,space-bunny-free,4.95,6
+T-E01,9,gemini-3.7-flash,4.76,5
+T-E01,10,Qwen3.6-27B-FP8,4.42,6
+T-E02,1,claude-opus-5-5,8.6,5
+T-E02,2,gemini-4-argon-contributor,7.74,5
+T-E02,3,deepseek-v4-pro,7.42,5
+T-E02,4,LongCat-2.0,7.07,6
+T-E02,5,Muse-Spark-1.3-Free,7.0,5
+T-E02,6,Muse Spark 1.2 Contributor,6.96,5
+T-E02,7,gemini-3.7-flash,6.04,5
+T-E02,8,space-bunny-free,5.02,6
+T-E02,9,Qwen3.6-27B-FP8,4.47,6
+T-E02,10,LongCat-2.5-Preview-Free,4.35,6
+T-E03,1,claude-opus-5-5,9.08,5
+T-E03,2,deepseek-v4-pro,8.6,5
+T-E03,3,Muse-Spark-1.3-Free,7.74,5
+T-E03,4,gemini-3.7-flash,7.38,5
+T-E03,5,gemini-4-argon-contributor,7.22,5
+T-E03,6,Muse Spark 1.2 Contributor,5.76,5
+T-E03,7,LongCat-2.5-Preview-Free,5.18,6
+T-E03,8,Qwen3.6-27B-FP8,4.85,6
+T-E03,9,LongCat-2.0,4.63,6
+T-E03,10,space-bunny-free,3.78,6
+T-E04,1,claude-opus-5-5,8.5,5
+T-E04,2,Muse Spark 1.2 Contributor,8.44,5
+T-E04,3,deepseek-v4-pro,7.64,5
+T-E04,4,Muse-Spark-1.3-Free,6.88,5
+T-E04,5,LongCat-2.0,6.75,6
+T-E04,6,gemini-4-argon-contributor,6.7,5
+T-E04,7,gemini-3.7-flash,6.64,5
+T-E04,8,Qwen3.6-27B-FP8,6.35,6
+T-E04,9,LongCat-2.5-Preview-Free,5.88,6
+T-E04,10,space-bunny-free,5.4,6
+T-E05,1,claude-opus-5-5,8.82,5
+T-E05,2,gemini-4-argon-contributor,8.44,5
+T-E05,3,Muse Spark 1.2 Contributor,8.42,5
+T-E05,4,deepseek-v4-pro,8.06,5
+T-E05,5,gemini-3.7-flash,7.96,5
+T-E05,6,Muse-Spark-1.3-Free,7.82,5
+T-E05,7,LongCat-2.0,7.55,6
+T-E05,8,Qwen3.6-27B-FP8,6.3,6
+T-E05,9,space-bunny-free,5.08,6
+T-E05,10,LongCat-2.5-Preview-Free,4.98,6
+T-E06,1,claude-opus-5-5,8.66,5
+T-E06,2,Muse Spark 1.2 Contributor,6.88,5
+T-E06,3,gemini-4-argon-contributor,6.54,5
+T-E06,4,Muse-Spark-1.3-Free,6.42,5
+T-E06,5,deepseek-v4-pro,6.1,5
+T-E06,6,LongCat-2.0,6.07,6
+T-E06,7,gemini-3.7-flash,5.8,5
+T-E06,8,Qwen3.6-27B-FP8,5.47,6
+T-E06,9,space-bunny-free,4.88,6
+T-E06,10,LongCat-2.5-Preview-Free,4.88,6
+T-F01,1,claude-opus-5-5,8.82,5
+T-F01,2,gemini-4-argon-contributor,8.66,5
+T-F01,3,deepseek-v4-pro,8.18,5
+T-F01,4,Muse-Spark-1.3-Free,7.82,5
+T-F01,5,Muse Spark 1.2 Contributor,7.4,5
+T-F01,6,LongCat-2.0,7.27,6
+T-F01,7,LongCat-2.5-Preview-Free,6.8,6
+T-F01,8,Qwen3.6-27B-FP8,6.7,6
+T-F01,9,gemini-3.7-flash,6.2,5
+T-F01,10,space-bunny-free,6.1,6
+T-F02,1,claude-opus-5-5,8.84,5
+T-F02,2,LongCat-2.0,7.95,6
+T-F02,3,gemini-3.7-flash,7.88,5
+T-F02,4,gemini-4-argon-contributor,7.66,5
+T-F02,5,deepseek-v4-pro,6.94,5
+T-F02,6,Muse Spark 1.2 Contributor,6.9,5
+T-F02,7,Muse-Spark-1.3-Free,6.78,5
+T-F02,8,LongCat-2.5-Preview-Free,6.55,6
+T-F02,9,space-bunny-free,6.03,6
+T-F02,10,Qwen3.6-27B-FP8,5.95,6
+T-F03,1,claude-opus-5-5,8.86,5
+T-F03,2,gemini-4-argon-contributor,8.28,5
+T-F03,3,gemini-3.7-flash,7.8,5
+T-F03,4,deepseek-v4-pro,7.7,5
+T-F03,5,Muse Spark 1.2 Contributor,7.68,5
+T-F03,6,Muse-Spark-1.3-Free,7.44,5
+T-F03,7,LongCat-2.0,7.32,6
+T-F03,8,space-bunny-free,6.67,6
+T-F03,9,LongCat-2.5-Preview-Free,5.98,6
+T-F03,10,Qwen3.6-27B-FP8,5.58,6
+T-F04,1,deepseek-v4-pro,8.34,5
+T-F04,2,claude-opus-5-5,8.24,5
+T-F04,3,gemini-4-argon-contributor,8.24,5
+T-F04,4,Muse Spark 1.2 Contributor,8.2,5
+T-F04,5,Muse-Spark-1.3-Free,8.2,5
+T-F04,6,LongCat-2.0,7.78,6
+T-F04,7,space-bunny-free,7.03,6
+T-F04,8,LongCat-2.5-Preview-Free,6.92,6
+T-F04,9,gemini-3.7-flash,5.94,5
+T-F04,10,Qwen3.6-27B-FP8,5.43,6
+T-F05,1,Muse Spark 1.2 Contributor,8.78,5
+T-F05,2,claude-opus-5-5,8.66,5
+T-F05,3,Muse-Spark-1.3-Free,8.58,5
+T-F05,4,gemini-4-argon-contributor,8.54,5
+T-F05,5,space-bunny-free,8.27,6
+T-F05,6,gemini-3.7-flash,7.56,5
+T-F05,7,deepseek-v4-pro,7.52,5
+T-F05,8,Qwen3.6-27B-FP8,7.13,6
+T-F05,9,LongCat-2.0,7.12,6
+T-F05,10,LongCat-2.5-Preview-Free,6.93,6
+T-F06,1,gemini-4-argon-contributor,8.52,5
+T-F06,2,deepseek-v4-pro,8.42,5
+T-F06,3,Muse Spark 1.2 Contributor,8.32,5
+T-F06,4,claude-opus-5-5,8.18,5
+T-F06,5,Muse-Spark-1.3-Free,8.06,5
+T-F06,6,LongCat-2.0,7.18,6
+T-F06,7,gemini-3.7-flash,6.48,5
+T-F06,8,space-bunny-free,6.2,6
+T-F06,9,LongCat-2.5-Preview-Free,5.68,6
+T-F06,10,Qwen3.6-27B-FP8,5.47,6
+T-F07,1,Muse-Spark-1.3-Free,8.46,5
+T-F07,2,claude-opus-5-5,8.16,5
+T-F07,3,deepseek-v4-pro,8.06,5
+T-F07,4,gemini-4-argon-contributor,7.98,5
+T-F07,5,Muse Spark 1.2 Contributor,7.92,5
+T-F07,6,LongCat-2.5-Preview-Free,7.6,6
+T-F07,7,Qwen3.6-27B-FP8,7.57,6
+T-F07,8,LongCat-2.0,7.32,6
+T-F07,9,gemini-3.7-flash,6.5,5
+T-F07,10,space-bunny-free,5.77,6
+T-F08,1,claude-opus-5-5,8.68,5
+T-F08,2,deepseek-v4-pro,7.98,5
+T-F08,3,Muse Spark 1.2 Contributor,7.56,5
+T-F08,4,gemini-4-argon-contributor,7.48,5
+T-F08,5,LongCat-2.5-Preview-Free,6.92,6
+T-F08,6,LongCat-2.0,6.77,6
+T-F08,7,Muse-Spark-1.3-Free,6.76,5
+T-F08,8,gemini-3.7-flash,6.5,5
+T-F08,9,Qwen3.6-27B-FP8,5.6,6
+T-F08,10,space-bunny-free,5.2,6
+T-F09,1,gemini-4-argon-contributor,8.88,5
+T-F09,2,claude-opus-5-5,7.9,5
+T-F09,3,Muse-Spark-1.3-Free,7.88,5
+T-F09,4,Muse Spark 1.2 Contributor,7.8,5
+T-F09,5,deepseek-v4-pro,7.6,5
+T-F09,6,LongCat-2.5-Preview-Free,7.4,6
+T-F09,7,Qwen3.6-27B-FP8,6.83,6
+T-F09,8,LongCat-2.0,6.43,6
+T-F09,9,space-bunny-free,6.38,6
+T-F09,10,gemini-3.7-flash,6.0,5
+T-G01,1,space-bunny-free,7.87,6
+T-G01,2,claude-opus-5-5,7.52,5
+T-G01,3,LongCat-2.0,6.88,6
+T-G01,4,Muse Spark 1.2 Contributor,6.64,5
+T-G01,5,deepseek-v4-pro,6.58,5
+T-G01,6,Muse-Spark-1.3-Free,6.1,5
+T-G01,7,gemini-4-argon-contributor,5.94,5
+T-G01,8,LongCat-2.5-Preview-Free,3.93,6
+T-G01,9,gemini-3.7-flash,3.58,5
+T-G01,10,Qwen3.6-27B-FP8,3.42,6
+T-G02,1,gemini-4-argon-contributor,8.56,5
+T-G02,2,deepseek-v4-pro,8.3,5
+T-G02,3,space-bunny-free,7.8,6
+T-G02,4,claude-opus-5-5,7.0,5
+T-G02,5,Muse Spark 1.2 Contributor,5.72,5
+T-G02,6,LongCat-2.0,5.7,6
+T-G02,7,Muse-Spark-1.3-Free,4.68,5
+T-G02,8,LongCat-2.5-Preview-Free,4.57,6
+T-G02,9,gemini-3.7-flash,4.08,5
+T-G02,10,Qwen3.6-27B-FP8,2.12,6
+T-G03,1,deepseek-v4-pro,8.02,5
+T-G03,2,Muse Spark 1.2 Contributor,7.68,5
+T-G03,3,claude-opus-5-5,7.58,5
+T-G03,4,gemini-4-argon-contributor,7.18,5
+T-G03,5,space-bunny-free,6.78,6
+T-G03,6,LongCat-2.0,6.07,6
+T-G03,7,Muse-Spark-1.3-Free,5.46,5
+T-G03,8,LongCat-2.5-Preview-Free,4.4,6
+T-G03,9,gemini-3.7-flash,3.72,5
+T-G03,10,Qwen3.6-27B-FP8,3.1,6
+T-G04,1,gemini-4-argon-contributor,8.8,5
+T-G04,2,Muse-Spark-1.3-Free,8.74,5
+T-G04,3,Muse Spark 1.2 Contributor,8.64,5
+T-G04,4,LongCat-2.0,8.13,6
+T-G04,5,space-bunny-free,7.33,6
+T-G04,6,deepseek-v4-pro,7.04,5
+T-G04,7,gemini-3.7-flash,6.16,5
+T-G04,8,Qwen3.6-27B-FP8,4.75,6
+T-G05,1,claude-opus-5-5,8.14,5
+T-G05,2,gemini-4-argon-contributor,7.2,5
+T-G05,3,space-bunny-free,7.02,6
+T-G05,4,deepseek-v4-pro,6.72,5
+T-G05,5,Muse Spark 1.2 Contributor,6.22,5
+T-G05,6,LongCat-2.0,5.33,6
+T-G05,7,Muse-Spark-1.3-Free,5.32,5
+T-G05,8,gemini-3.7-flash,3.18,5
+T-G05,9,Qwen3.6-27B-FP8,2.97,6
+T-G06,1,space-bunny-free,8.43,6
+T-G06,2,claude-opus-5-5,7.7,5
+T-G06,3,gemini-4-argon-contributor,7.48,5
+T-G06,4,Muse Spark 1.2 Contributor,7.36,5
+T-G06,5,Muse-Spark-1.3-Free,7.16,5
+T-G06,6,deepseek-v4-pro,6.06,5
+T-G06,7,LongCat-2.0,5.75,6
+T-G06,8,gemini-3.7-flash,5.2,5
+T-G06,9,Qwen3.6-27B-FP8,4.42,6
+T-H01,1,claude-opus-5-5,9.08,5
+T-H01,2,Muse-Spark-1.3-Free,8.2,5
+T-H01,3,gemini-4-argon-contributor,7.86,5
+T-H01,4,Muse Spark 1.2 Contributor,7.62,5
+T-H01,5,deepseek-v4-pro,6.8,5
+T-H01,6,gemini-3.7-flash,6.3,5
+T-H01,7,LongCat-2.0,6.05,6
+T-H01,8,LongCat-2.5-Preview-Free,4.97,6
+T-H01,9,space-bunny-free,4.87,6
+T-H01,10,Qwen3.6-27B-FP8,4.48,6
+T-H02,1,claude-opus-5-5,8.94,5
+T-H02,2,Muse Spark 1.2 Contributor,8.3,5
+T-H02,3,Muse-Spark-1.3-Free,8.02,5
+T-H02,4,gemini-4-argon-contributor,6.66,5
+T-H02,5,deepseek-v4-pro,6.52,5
+T-H02,6,LongCat-2.0,6.38,6
+T-H02,7,space-bunny-free,5.92,6
+T-H02,8,LongCat-2.5-Preview-Free,4.93,6
+T-H02,9,gemini-3.7-flash,4.18,5
+T-H02,10,Qwen3.6-27B-FP8,3.8,6
+T-H03,1,claude-opus-5-5,8.7,5
+T-H03,2,Muse Spark 1.2 Contributor,8.44,5
+T-H03,3,gemini-4-argon-contributor,8.08,5
+T-H03,4,Muse-Spark-1.3-Free,8.06,5
+T-H03,5,LongCat-2.0,6.87,6
+T-H03,6,deepseek-v4-pro,6.28,5
+T-H03,7,gemini-3.7-flash,6.26,5
+T-H03,8,space-bunny-free,6.08,6
+T-H03,9,Qwen3.6-27B-FP8,4.87,6
+T-H03,10,LongCat-2.5-Preview-Free,1.9,6
+T-H04,1,claude-opus-5-5,8.82,5
+T-H04,2,Muse Spark 1.2 Contributor,8.0,5
+T-H04,3,Muse-Spark-1.3-Free,7.44,5
+T-H04,4,LongCat-2.0,7.42,6
+T-H04,5,space-bunny-free,6.8,6
+T-H04,6,gemini-4-argon-contributor,6.8,5
+T-H04,7,LongCat-2.5-Preview-Free,5.88,6
+T-H04,8,gemini-3.7-flash,5.88,5
+T-H04,9,deepseek-v4-pro,4.86,5
+T-H04,10,Qwen3.6-27B-FP8,4.8,6
+T-H05,1,claude-opus-5-5,8.92,5
+T-H05,2,Muse-Spark-1.3-Free,8.52,5
+T-H05,3,gemini-4-argon-contributor,8.42,5
+T-H05,4,deepseek-v4-pro,8.06,5
+T-H05,5,Muse Spark 1.2 Contributor,7.2,5
+T-H05,6,Qwen3.6-27B-FP8,6.78,6
+T-H05,7,gemini-3.7-flash,5.96,5
+T-H05,8,LongCat-2.5-Preview-Free,5.75,6
+T-H05,9,LongCat-2.0,4.8,6
+T-H05,10,space-bunny-free,3.95,6
+T-H06,1,claude-opus-5-5,8.98,5
+T-H06,2,gemini-4-argon-contributor,8.98,5
+T-H06,3,deepseek-v4-pro,8.0,5
+T-H06,4,Muse Spark 1.2 Contributor,7.92,5
+T-H06,5,LongCat-2.0,7.42,6
+T-H06,6,gemini-3.7-flash,6.92,5
+T-H06,7,Muse-Spark-1.3-Free,6.92,5
+T-H06,8,space-bunny-free,5.93,6
+T-H06,9,Qwen3.6-27B-FP8,5.75,6
+T-H06,10,LongCat-2.5-Preview-Free,5.12,6
+T-H07,1,gemini-4-argon-contributor,8.68,5
+T-H07,2,claude-opus-5-5,8.0,5
+T-H07,3,Muse-Spark-1.3-Free,7.16,5
+T-H07,4,LongCat-2.0,6.78,6
+T-H07,5,Muse Spark 1.2 Contributor,6.18,5
+T-H07,6,gemini-3.7-flash,5.58,5
+T-H07,7,deepseek-v4-pro,5.22,5
+T-H07,8,Qwen3.6-27B-FP8,5.02,6
+T-H07,9,space-bunny-free,4.45,6
+T-H07,10,LongCat-2.5-Preview-Free,2.87,6
+T-I01,1,claude-opus-5-5,9.02,5
+T-I01,2,Muse Spark 1.2 Contributor,8.26,5
+T-I01,3,gemini-4-argon-contributor,8.12,5
+T-I01,4,Muse-Spark-1.3-Free,7.76,5
+T-I01,5,LongCat-2.0,6.72,6
+T-I01,6,LongCat-2.5-Preview-Free,6.48,6
+T-I01,7,space-bunny-free,5.63,6
+T-I01,8,deepseek-v4-pro,5.56,5
+T-I01,9,gemini-3.7-flash,4.82,5
+T-I01,10,Qwen3.6-27B-FP8,4.68,6
+T-I02,1,claude-opus-5-5,8.6,5
+T-I02,2,Muse Spark 1.2 Contributor,8.34,5
+T-I02,3,gemini-4-argon-contributor,8.26,5
+T-I02,4,Muse-Spark-1.3-Free,7.96,5
+T-I02,5,gemini-3.7-flash,5.8,5
+T-I02,6,deepseek-v4-pro,5.78,5
+T-I02,7,LongCat-2.0,5.72,6
+T-I02,8,space-bunny-free,5.43,6
+T-I02,9,LongCat-2.5-Preview-Free,5.38,6
+T-I02,10,Qwen3.6-27B-FP8,4.12,6
+T-I03,1,claude-opus-5-5,8.96,5
+T-I03,2,Muse Spark 1.2 Contributor,8.36,5
+T-I03,3,Muse-Spark-1.3-Free,8.06,5
+T-I03,4,gemini-4-argon-contributor,7.78,5
+T-I03,5,deepseek-v4-pro,7.32,5
+T-I03,6,gemini-3.7-flash,7.02,5
+T-I03,7,LongCat-2.5-Preview-Free,5.97,6
+T-I03,8,LongCat-2.0,5.85,6
+T-I03,9,space-bunny-free,5.72,6
+T-I03,10,Qwen3.6-27B-FP8,5.28,6
+T-I04,1,claude-opus-5-5,8.82,5
+T-I04,2,Muse Spark 1.2 Contributor,8.64,5
+T-I04,3,gemini-4-argon-contributor,8.6,5
+T-I04,4,Muse-Spark-1.3-Free,8.26,5
+T-I04,5,space-bunny-free,8.03,6
+T-I04,6,deepseek-v4-pro,7.78,5
+T-I04,7,LongCat-2.0,7.23,6
+T-I04,8,LongCat-2.5-Preview-Free,6.92,6
+T-I04,9,gemini-3.7-flash,6.82,5
+T-I04,10,Qwen3.6-27B-FP8,6.72,6
+T-I05,1,Muse Spark 1.2 Contributor,8.54,5
+T-I05,2,claude-opus-5-5,8.36,5
+T-I05,3,gemini-4-argon-contributor,8.16,5
+T-I05,4,Muse-Spark-1.3-Free,7.86,5
+T-I05,5,LongCat-2.0,7.6,6
+T-I05,6,deepseek-v4-pro,7.26,5
+T-I05,7,space-bunny-free,6.75,6
+T-I05,8,gemini-3.7-flash,6.54,5
+T-I05,9,LongCat-2.5-Preview-Free,6.27,6
+T-I05,10,Qwen3.6-27B-FP8,5.2,6
+T-I06,1,Muse-Spark-1.3-Free,8.72,5
+T-I06,2,claude-opus-5-5,8.46,5
+T-I06,3,Muse Spark 1.2 Contributor,7.42,5
+T-I06,4,gemini-4-argon-contributor,6.78,5
+T-I06,5,deepseek-v4-pro,6.28,5
+T-I06,6,LongCat-2.0,6.03,6
+T-I06,7,gemini-3.7-flash,5.98,5
+T-I06,8,space-bunny-free,5.48,6
+T-I06,9,LongCat-2.5-Preview-Free,4.58,6
+T-I06,10,Qwen3.6-27B-FP8,4.35,6
+T-I07,1,claude-opus-5-5,8.86,5
+T-I07,2,gemini-4-argon-contributor,8.58,5
+T-I07,3,Muse Spark 1.2 Contributor,8.34,5
+T-I07,4,Muse-Spark-1.3-Free,7.88,5
+T-I07,5,LongCat-2.0,7.45,6
+T-I07,6,deepseek-v4-pro,6.88,5
+T-I07,7,gemini-3.7-flash,6.54,5
+T-I07,8,LongCat-2.5-Preview-Free,6.02,6
+T-I07,9,Qwen3.6-27B-FP8,4.47,6
+T-I08,1,gemini-4-argon-contributor,8.76,5
+T-I08,2,claude-opus-5-5,8.6,5
+T-I08,3,deepseek-v4-pro,8.38,5
+T-I08,4,Muse-Spark-1.3-Free,8.0,5
+T-I08,5,Muse Spark 1.2 Contributor,7.88,5
+T-I08,6,gemini-3.7-flash,7.04,5
+T-I08,7,Qwen3.6-27B-FP8,6.4,6
+T-I08,8,LongCat-2.0,6.18,6
+T-I08,9,LongCat-2.5-Preview-Free,5.7,6
+T-I08,10,space-bunny-free,5.52,6
+T-I09,1,claude-opus-5-5,8.82,5
+T-I09,2,Muse Spark 1.2 Contributor,8.32,5
+T-I09,3,deepseek-v4-pro,8.3,5
+T-I09,4,space-bunny-free,8.23,6
+T-I09,5,gemini-4-argon-contributor,8.16,5
+T-I09,6,Muse-Spark-1.3-Free,8.02,5
+T-I09,7,Qwen3.6-27B-FP8,8.02,6
+T-I09,8,LongCat-2.0,7.68,6
+T-I09,9,LongCat-2.5-Preview-Free,7.53,6
+T-I09,10,gemini-3.7-flash,7.18,5
+T-I10,1,claude-opus-5-5,8.74,5
+T-I10,2,Muse-Spark-1.3-Free,8.62,5
+T-I10,3,Muse Spark 1.2 Contributor,8.5,5
+T-I10,4,LongCat-2.0,7.85,6
+T-I10,5,gemini-4-argon-contributor,7.62,5
+T-I10,6,deepseek-v4-pro,7.38,5
+T-I10,7,space-bunny-free,7.35,6
+T-I10,8,gemini-3.7-flash,6.34,5
+T-I10,9,LongCat-2.5-Preview-Free,6.18,6
+T-I10,10,Qwen3.6-27B-FP8,5.87,6
+T-J01,1,claude-opus-5-5,8.92,5
+T-J01,2,gemini-4-argon-contributor,8.54,5
+T-J01,3,deepseek-v4-pro,8.18,5
+T-J01,4,Muse Spark 1.2 Contributor,7.62,5
+T-J01,5,Muse-Spark-1.3-Free,7.54,5
+T-J01,6,space-bunny-free,6.97,6
+T-J01,7,LongCat-2.0,6.38,6
+T-J01,8,gemini-3.7-flash,5.66,5
+T-J01,9,LongCat-2.5-Preview-Free,5.05,6
+T-J01,10,Qwen3.6-27B-FP8,3.8,6
+T-J02,1,claude-opus-5-5,8.8,5
+T-J02,2,deepseek-v4-pro,8.66,5
+T-J02,3,gemini-4-argon-contributor,8.36,5
+T-J02,4,Muse Spark 1.2 Contributor,8.1,5
+T-J02,5,gemini-3.7-flash,7.58,5
+T-J02,6,Muse-Spark-1.3-Free,6.86,5
+T-J02,7,LongCat-2.0,6.4,6
+T-J02,8,LongCat-2.5-Preview-Free,5.32,6
+T-J02,9,space-bunny-free,5.18,6
+T-J02,10,Qwen3.6-27B-FP8,5.12,6
+T-J03,1,claude-opus-5-5,8.56,5
+T-J03,2,deepseek-v4-pro,8.3,5
+T-J03,3,gemini-4-argon-contributor,8.02,5
+T-J03,4,Muse Spark 1.2 Contributor,7.52,5
+T-J03,5,Muse-Spark-1.3-Free,6.2,5
+T-J03,6,gemini-3.7-flash,6.16,5
+T-J03,7,LongCat-2.0,6.02,6
+T-J03,8,LongCat-2.5-Preview-Free,5.2,6
+T-J03,9,space-bunny-free,4.58,6
+T-J03,10,Qwen3.6-27B-FP8,3.25,6
+T-J04,1,claude-opus-5-5,9.1,5
+T-J04,2,gemini-4-argon-contributor,8.8,5
+T-J04,3,deepseek-v4-pro,8.34,5
+T-J04,4,Muse Spark 1.2 Contributor,7.88,5
+T-J04,5,Muse-Spark-1.3-Free,7.46,5
+T-J04,6,gemini-3.7-flash,6.76,5
+T-J04,7,space-bunny-free,6.4,6
+T-J04,8,LongCat-2.0,5.93,6
+T-J04,9,LongCat-2.5-Preview-Free,5.48,6
+T-J04,10,Qwen3.6-27B-FP8,4.22,6
+T-J05,1,claude-opus-5-5,8.98,5
+T-J05,2,gemini-4-argon-contributor,8.56,5
+T-J05,3,deepseek-v4-pro,8.0,5
+T-J05,4,Muse Spark 1.2 Contributor,7.74,5
+T-J05,5,Muse-Spark-1.3-Free,7.14,5
+T-J05,6,gemini-3.7-flash,6.94,5
+T-J05,7,LongCat-2.0,6.57,6
+T-J05,8,LongCat-2.5-Preview-Free,5.28,6
+T-J05,9,space-bunny-free,4.9,6
+T-J05,10,Qwen3.6-27B-FP8,3.58,6
+T-J06,1,claude-opus-5-5,8.52,5
+T-J06,2,gemini-4-argon-contributor,8.46,5
+T-J06,3,Muse Spark 1.2 Contributor,7.92,5
+T-J06,4,deepseek-v4-pro,7.4,5
+T-J06,5,Muse-Spark-1.3-Free,6.74,5
+T-J06,6,gemini-3.7-flash,6.02,5
+T-J06,7,LongCat-2.0,5.7,6
+T-J06,8,LongCat-2.5-Preview-Free,5.68,6
+T-J06,9,space-bunny-free,5.43,6
+T-J06,10,Qwen3.6-27B-FP8,3.92,6
+T-J07,1,claude-opus-5-5,8.86,5
+T-J07,2,gemini-4-argon-contributor,8.38,5
+T-J07,3,deepseek-v4-pro,8.26,5
+T-J07,4,space-bunny-free,6.6,6
+T-J07,5,Muse Spark 1.2 Contributor,6.52,5
+T-J07,6,Muse-Spark-1.3-Free,5.94,5
+T-J07,7,LongCat-2.5-Preview-Free,5.32,6
+T-J07,8,LongCat-2.0,5.12,6
+T-J07,9,Qwen3.6-27B-FP8,4.35,6
+T-J07,10,gemini-3.7-flash,4.3,5
+T-J08,1,Muse Spark 1.2 Contributor,8.9,5
+T-J08,2,claude-opus-5-5,8.66,5
+T-J08,3,gemini-4-argon-contributor,7.82,5
+T-J08,4,deepseek-v4-pro,7.82,5
+T-J08,5,gemini-3.7-flash,7.32,5
+T-J08,6,Muse-Spark-1.3-Free,7.3,5
+T-J08,7,space-bunny-free,7.28,6
+T-J08,8,LongCat-2.0,6.83,6
+T-J08,9,Qwen3.6-27B-FP8,6.67,6
+T-J08,10,LongCat-2.5-Preview-Free,6.37,6
+T-J09,1,claude-opus-5-5,8.56,5
+T-J09,2,gemini-4-argon-contributor,7.82,5
+T-J09,3,Muse-Spark-1.3-Free,7.66,5
+T-J09,4,deepseek-v4-pro,7.48,5
+T-J09,5,Muse Spark 1.2 Contributor,7.26,5
+T-J09,6,gemini-3.7-flash,6.9,5
+T-J09,7,Qwen3.6-27B-FP8,6.15,6
+T-J09,8,LongCat-2.5-Preview-Free,5.75,6
+T-J09,9,LongCat-2.0,5.75,6
+T-J09,10,space-bunny-free,4.83,6
+T-J10,1,claude-opus-5-5,8.58,5
+T-J10,2,deepseek-v4-pro,8.06,5
+T-J10,3,Muse-Spark-1.3-Free,7.48,5
+T-J10,4,Muse Spark 1.2 Contributor,7.38,5
+T-J10,5,gemini-4-argon-contributor,7.36,5
+T-J10,6,space-bunny-free,5.82,6
+T-J10,7,LongCat-2.0,5.65,6
+T-J10,8,LongCat-2.5-Preview-Free,4.58,6
+T-J10,9,Qwen3.6-27B-FP8,4.22,6
+T-J10,10,gemini-3.7-flash,4.1,5
+T-J11,1,gemini-4-argon-contributor,8.32,5
+T-J11,2,claude-opus-5-5,8.2,5
+T-J11,3,Muse Spark 1.2 Contributor,7.78,5
+T-J11,4,space-bunny-free,6.87,6
+T-J11,5,Muse-Spark-1.3-Free,6.8,5
+T-J11,6,LongCat-2.0,6.18,6
+T-J11,7,deepseek-v4-pro,5.9,5
+T-J11,8,gemini-3.7-flash,5.44,5
+T-J11,9,LongCat-2.5-Preview-Free,3.77,6
+T-J11,10,Qwen3.6-27B-FP8,3.48,6
+T-J12,1,claude-opus-5-5,8.68,5
+T-J12,2,Muse Spark 1.2 Contributor,8.26,5
+T-J12,3,gemini-4-argon-contributor,7.98,5
+T-J12,4,Muse-Spark-1.3-Free,7.5,5
+T-J12,5,deepseek-v4-pro,7.28,5
+T-J12,6,LongCat-2.0,6.62,6
+T-J12,7,space-bunny-free,6.52,6
+T-J12,8,gemini-3.7-flash,6.18,5
+T-J12,9,LongCat-2.5-Preview-Free,5.67,6
+T-J12,10,Qwen3.6-27B-FP8,4.42,6
+T-J13,1,claude-opus-5-5,8.62,5
+T-J13,2,Muse Spark 1.2 Contributor,8.14,5
+T-J13,3,gemini-4-argon-contributor,7.46,5
+T-J13,4,deepseek-v4-pro,7.34,5
+T-J13,5,Muse-Spark-1.3-Free,6.98,5
+T-J13,6,gemini-3.7-flash,6.28,5
+T-J13,7,LongCat-2.0,6.03,6
+T-J13,8,LongCat-2.5-Preview-Free,5.53,6
+T-J13,9,space-bunny-free,4.97,6
+T-J13,10,Qwen3.6-27B-FP8,3.8,6
+T-J14,1,claude-opus-5-5,8.42,5
+T-J14,2,Muse Spark 1.2 Contributor,7.84,5
+T-J14,3,gemini-4-argon-contributor,7.76,5
+T-J14,4,deepseek-v4-pro,7.7,5
+T-J14,5,Muse-Spark-1.3-Free,6.58,5
+T-J14,6,gemini-3.7-flash,6.3,5
+T-J14,7,LongCat-2.0,5.97,6
+T-J14,8,LongCat-2.5-Preview-Free,5.32,6
+T-J14,9,space-bunny-free,5.25,6
+T-J14,10,Qwen3.6-27B-FP8,3.83,6
+T-J15,1,claude-opus-5-5,8.54,5
+T-J15,2,gemini-4-argon-contributor,8.0,5
+T-J15,3,Muse Spark 1.2 Contributor,7.62,5
+T-J15,4,deepseek-v4-pro,7.28,5
+T-J15,5,Muse-Spark-1.3-Free,6.84,5
+T-J15,6,gemini-3.7-flash,6.6,5
+T-J15,7,LongCat-2.0,6.05,6
+T-J15,8,space-bunny-free,5.05,6
+T-J15,9,LongCat-2.5-Preview-Free,5.03,6
+T-J15,10,Qwen3.6-27B-FP8,4.33,6
+T-J16,1,claude-opus-5-5,8.54,5
+T-J16,2,Muse Spark 1.2 Contributor,8.2,5
+T-J16,3,gemini-4-argon-contributor,7.88,5
+T-J16,4,deepseek-v4-pro,7.26,5
+T-J16,5,Muse-Spark-1.3-Free,7.1,5
+T-J16,6,gemini-3.7-flash,6.84,5
+T-J16,7,LongCat-2.0,5.77,6
+T-J16,8,space-bunny-free,4.97,6
+T-J16,9,LongCat-2.5-Preview-Free,4.97,6
+T-J16,10,Qwen3.6-27B-FP8,4.3,6
