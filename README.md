@@ -217,3 +217,5 @@ python3 tools/judge.py results/qwen3_32b --judge-base-url https://你的接口/v
 - 评分要点里的法条、案号、史实、原著细节是出题时整理的，涉及具体序号和日期的地方已标注"请核实"，正式使用前建议自己再查一遍。
 - AI 味模式库是**信号**不是**判决**：人类作家也写"不是……而是"，也会写"慢慢来"。看的是密度、看的是可预测性。用 `--text` 跑人类文本做基线是最可靠的校准方法。
 - AI 味相关的资料来源列在 `评分/AI味与活人感词典.md` 末尾。
+
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
